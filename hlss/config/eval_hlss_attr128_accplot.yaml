@@ -1,0 +1,14 @@
+
+infra:
+    log_dir: /data1/dri/hidisc/hidisc/exps/Exp020 # where all the experiments are
+    exp_name: a # use the same name as the training experiment
+    comment: patient_disc_dev # can use this to customize for each experiment
+    seed: 1000
+model:
+    backbone: RN50
+    mlp_hidden: []
+    num_embedding_out: 128
+
+    patch_templates : {'Cellularity': [
+      'A histopathology slide showing high cellularity.', 
+      'Histopathology image of highly cellular tissue.', 
