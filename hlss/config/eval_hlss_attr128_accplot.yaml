@@ -971,3 +971,949 @@ model:
     "The SRH image reveals distinct patterns of tumor-associated fibroblast density, indicating the abundance and distribution of fibroblasts within the tumor microenvironment.",
     "Histopathology slide showcases variations in tumor-associated fibroblast density, providing insights into the dynamic interactions between fibroblasts and tumor cells.",
     "The brain tumor tissue exhibits specific tumor-associated fibroblast density patterns, offering valuable information about the stromal composition.",
+    "Understanding tumor-associated fibroblast density in the image contributes to a comprehensive assessment of the fibroblast-mediated effects on tumor progression."
+  ],
+  "Stromal Inflammatory Infiltration": [
+    "Observation of significant stromal inflammatory infiltration in the SRH image indicates the presence and extent of immune cells within the tumor microenvironment.",
+    "Histopathology slide highlights distinct stromal inflammatory infiltration, suggesting a robust immune response surrounding the tumor.",
+    "Prominent stromal inflammatory infiltration is evident in the brain tumor tissue, emphasizing the dynamic interplay between immune cells and tumor cells.",
+    "The extent of stromal inflammatory infiltration in the image provides valuable information about the local immune response to the tumor."
+  ],
+  "Tumor-Adjacent Tissue Interaction": [
+    "Analysis of tumor-adjacent tissue interaction in the SRH image unveils the dynamic crosstalk between the tumor and the surrounding non-tumor tissue.",
+    "Histopathology slide showcases distinct tumor-adjacent tissue interaction, providing insights into how the tumor influences the adjacent tissue.",
+    "The brain tumor tissue exhibits specific tumor-adjacent tissue interaction patterns, offering valuable information about the reciprocal effects of the tumor on neighboring tissues.",
+    "Understanding tumor-adjacent tissue interaction in the image contributes to a nuanced view of the interplay between the tumor and its microenvironment."
+  ],
+  "Stromal Vascular Support": [
+    "Detection of stromal vascular support in the SRH image suggests the role of stromal elements in supporting the vasculature within the tumor microenvironment.",
+    "Histopathology slide exhibits distinct stromal vascular support, indicating the presence of stromal cells contributing to vascular integrity.",
+    "Stromal vascular support is evident in the brain tumor tissue, highlighting the collaborative relationship between stromal and vascular components.",
+    "The presence of stromal vascular support in the image provides valuable information about the vascular network within the tumor microenvironment."
+  ],
+  "Stromal Immune Cell Composition": [
+    "Analysis of stromal immune cell composition in the SRH image reveals the types and distribution of immune cells within the tumor stroma.",
+    "Histopathology slide showcases distinct stromal immune cell composition, providing insights into the immune landscape within the tumor microenvironment.",
+    "The brain tumor tissue exhibits specific stromal immune cell composition patterns, offering valuable information about the immune cell populations present in the stroma.",
+    "Understanding stromal immune cell composition in the image contributes to a comprehensive assessment of the immune contexture in the tumor microenvironment."
+  ],
+  "Tumor-Stromal Interface Patterns": [
+    "Observation of tumor-stromal interface patterns in the SRH image reveals the structural relationships and boundaries between the tumor and its stromal components.",
+    "Histopathology slide highlights distinct tumor-stromal interface patterns, providing insights into the architectural features defining the tumor-stromal interface.",
+    "The brain tumor tissue exhibits specific tumor-stromal interface patterns, offering valuable information about the spatial organization at the interface between tumor and stroma.",
+    "Understanding tumor-stromal interface patterns in the image contributes to a detailed characterization of the interactions between the tumor and its stromal environment."
+  ],
+  "Tumor-Adjacent Tissue Morphology": [
+    "Detection of tumor-adjacent tissue morphology in the SRH image suggests variations in the structural characteristics of the non-tumor tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct tumor-adjacent tissue morphology, indicating the morphological changes induced by the adjacent tumor microenvironment.",
+    "Tumor-adjacent tissue morphology is evident in the brain tumor tissue, highlighting alterations in the structure of neighboring tissues.",
+    "The presence of tumor-adjacent tissue morphology in the image provides valuable information about the morphological effects of the tumor on surrounding tissues."
+  ],
+  "Peritumoral Edema": [
+    "Analysis of peritumoral edema in the SRH image reveals the presence of fluid accumulation in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral edema, indicating the extent and distribution of edematous regions adjacent to the tumor.",
+    "Peritumoral edema is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture and cell behavior.",
+    "Understanding peritumoral edema in the image contributes to a comprehensive assessment of the fluid dynamics in the tumor microenvironment."
+  ],
+  "Tumor Margin Smoothness": [
+    "Observation of tumor margin smoothness in the SRH image suggests the regularity and uniformity of the tumor boundary.",
+    "Histopathology slide highlights distinct tumor margin smoothness, indicating a well-defined and smooth boundary of the tumor.",
+    "The brain tumor tissue exhibits specific tumor margin smoothness, offering valuable information about the regularity of the tumor periphery.",
+    "Understanding tumor margin smoothness in the image contributes to a detailed characterization of the tumor's architectural features."
+  ],
+  "Tumor Stroma Collagen Distribution": [
+    "Detection of tumor stroma collagen distribution in the SRH image provides insights into the arrangement and density of collagen fibers within the tumor stroma.",
+    "Histopathology slide exhibits distinct tumor stroma collagen distribution, indicating the spatial organization of collagenous structures in the stroma.",
+    "Tumor stroma collagen distribution is evident in the brain tumor tissue, highlighting the potential impact on the mechanical properties of the tumor microenvironment.",
+    "The presence of tumor stroma collagen distribution in the image provides valuable information about the fibrous components contributing to the stromal architecture."
+  ],
+  "Stromal Cellularity": [
+    "The SRH image showcases distinctive patterns of stromal cellularity, providing insights into the density and distribution of stromal cells within the tumor microenvironment.",
+    "Histopathology slide highlights variations in stromal cellularity, suggesting dynamic interactions between stromal cells and the tumor.",
+    "Prominent stromal cellularity is evident in the brain tumor tissue, emphasizing the spatial organization and abundance of stromal components.",
+    "The extent of stromal cellularity in the image offers valuable information about the stromal cell populations influencing the tumor microenvironment."
+  ],
+  "Peritumoral Lymphatic Density": [
+    "Analysis of peritumoral lymphatic density in the SRH image reveals the presence and distribution of lymphatic vessels in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral lymphatic density, indicating the extent of lymphatic network involvement in the peritumoral region.",
+    "Peritumoral lymphatic density is evident in the brain tumor tissue, highlighting the potential impact on immune cell trafficking and fluid drainage.",
+    "Understanding peritumoral lymphatic density in the image contributes to a comprehensive assessment of the lymphatic microenvironment around the tumor."
+  ],
+  "Tumor Microenvironment Angiogenesis": [
+    "Observation of tumor microenvironment angiogenesis in the SRH image reveals the formation of new blood vessels within the tumor stroma.",
+    "Histopathology slide highlights distinct tumor microenvironment angiogenesis, indicating the dynamic processes of blood vessel formation in response to tumor growth.",
+    "Tumor microenvironment angiogenesis is evident in the brain tumor tissue, emphasizing the role of angiogenic factors in shaping the vascular network.",
+    "The presence of tumor microenvironment angiogenesis in the image provides valuable information about the vascular changes associated with tumor progression."
+  ],
+  "Tumor-Stroma Metabolic Interactions": [
+    "Detection of tumor-stroma metabolic interactions in the SRH image suggests the biochemical cross-talk between tumor and stromal cells within the tumor microenvironment.",
+    "Histopathology slide exhibits distinct tumor-stroma metabolic interactions, providing insights into the metabolic alterations induced by the tumor-stroma interplay.",
+    "Tumor-stroma metabolic interactions are evident in the brain tumor tissue, highlighting the influence of tumor metabolism on the surrounding stroma.",
+    "The presence of tumor-stroma metabolic interactions in the image contributes to a comprehensive understanding of the metabolic changes associated with tumor growth."
+  ],
+  "Tumor-Stroma Signaling Crosstalk": [
+    "Analysis of tumor-stroma signaling crosstalk in the SRH image reveals the communication pathways between tumor and stromal cells within the tumor microenvironment.",
+    "Histopathology slide showcases distinct tumor-stroma signaling crosstalk, indicating the complex molecular interactions influencing tumor-stroma communication.",
+    "Tumor-stroma signaling crosstalk is evident in the brain tumor tissue, emphasizing the role of signaling molecules in mediating cellular responses.",
+    "Understanding tumor-stroma signaling crosstalk in the image contributes to a nuanced view of the molecular interactions shaping the tumor microenvironment."
+  ],
+  "Peritumoral Nerve Infiltration": [
+    "Observation of peritumoral nerve infiltration in the SRH image suggests the involvement and infiltration of nerve fibers in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral nerve infiltration, indicating potential interactions between nerve fibers and tumor cells.",
+    "Peritumoral nerve infiltration is evident in the brain tumor tissue, emphasizing the potential impact on pain perception and tumor progression.",
+    "The presence of peritumoral nerve infiltration in the image provides valuable information about the neural elements influencing the tumor microenvironment."
+  ],
+  "Tumor Margin Vascularization": [
+    "Analysis of tumor margin vascularization in the SRH image reveals the vascular patterns and blood vessel distribution at the periphery of the tumor.",
+    "Histopathology slide exhibits distinct tumor margin vascularization, providing insights into the angiogenic processes influencing the tumor margin.",
+    "Tumor margin vascularization is evident in the brain tumor tissue, highlighting the potential impact on nutrient supply and tumor growth.",
+    "Understanding tumor margin vascularization in the image contributes to a comprehensive assessment of the vascular dynamics at the tumor periphery."
+  ],
+  "Stromal Lymphatic Network": [
+    "Observation of stromal lymphatic network in the SRH image reveals the intricate network of lymphatic vessels within the tumor stroma.",
+    "Histopathology slide showcases distinct stromal lymphatic network, indicating the spatial organization of lymphatic vessels in the stromal compartment.",
+    "The brain tumor tissue exhibits specific stromal lymphatic network patterns, offering valuable information about the lymphatic drainage within the stromal environment.",
+    "Understanding stromal lymphatic network in the image contributes to a detailed characterization of the lymphatic architecture within the tumor microenvironment."
+  ],
+  "Peritumoral Fibrosis": [
+    "Detection of peritumoral fibrosis in the SRH image suggests the presence of fibrotic tissue alterations in the non-tumor regions surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral fibrosis, indicating the formation of fibrous tissue in response to the tumor microenvironment.",
+    "Peritumoral fibrosis is evident in the brain tumor tissue, emphasizing the potential impact on tissue stiffness and mechanical properties.",
+    "The presence of peritumoral fibrosis in the image provides valuable information about the fibrotic changes induced by the tumor microenvironment."
+  ],
+  "Tumor Microenvironment pH Levels": [
+    "Analysis of tumor microenvironment pH levels in the SRH image reveals the acidity or alkalinity of the extracellular milieu within the tumor microenvironment.",
+    "Histopathology slide showcases distinct tumor microenvironment pH levels, providing insights into the acidic or basic conditions associated with tumor growth.",
+    "Tumor microenvironment pH levels are evident in the brain tumor tissue, highlighting the potential impact on cellular functions and signaling.",
+    "Understanding tumor microenvironment pH levels in the image contributes to a nuanced view of the physiological conditions within the tumor microenvironment."
+  ],
+  "Tumor Margin Elasticity": [
+    "Observation of tumor margin elasticity in the SRH image provides insights into the mechanical properties and stiffness of the tumor boundary.",
+    "Histopathology slide showcases distinct tumor margin elasticity, indicating the elastic characteristics at the periphery of the tumor.",
+    "Tumor margin elasticity is evident in the brain tumor tissue, highlighting the potential impact on tissue deformability and tumor invasion.",
+    "Understanding tumor margin elasticity in the image contributes to a comprehensive assessment of the mechanical features at the tumor periphery."
+  ],
+  "Stromal Glycosaminoglycans": [
+    "Detection of stromal glycosaminoglycans in the SRH image suggests the presence and distribution of glycosaminoglycan molecules within the tumor stroma.",
+    "Histopathology slide exhibits distinct stromal glycosaminoglycans, providing insights into the composition of the stromal extracellular matrix.",
+    "Stromal glycosaminoglycans are evident in the brain tumor tissue, highlighting their potential role in modulating the stromal microenvironment.",
+    "The presence of stromal glycosaminoglycans in the image provides valuable information about the structural components influencing the stromal matrix."
+  ],
+  "Peritumoral Cytokine Expression": [
+    "Analysis of peritumoral cytokine expression in the SRH image reveals the levels and distribution of cytokines in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral cytokine expression, indicating the cytokine milieu and inflammatory signaling in the peritumoral region.",
+    "Peritumoral cytokine expression is evident in the brain tumor tissue, highlighting the potential impact on immune responses and cellular behavior.",
+    "Understanding peritumoral cytokine expression in the image contributes to a comprehensive assessment of the inflammatory and immunomodulatory environment."
+  ],
+  "Tumor-Stroma Neurotransmitter Signaling": [
+    "Observation of tumor-stroma neurotransmitter signaling in the SRH image reveals the molecular communication between tumor and stromal cells involving neurotransmitters.",
+    "Histopathology slide highlights distinct tumor-stroma neurotransmitter signaling, indicating the neurochemical interactions influencing cellular responses.",
+    "Tumor-stroma neurotransmitter signaling is evident in the brain tumor tissue, emphasizing the potential impact on neural signaling within the tumor microenvironment.",
+    "The presence of tumor-stroma neurotransmitter signaling in the image provides valuable information about the neurochemical interactions shaping the tumor-stroma interplay."
+  ],
+  "Tumor Margin Hypoxia Levels": [
+    "Detection of tumor margin hypoxia levels in the SRH image provides insights into the oxygen levels and distribution at the periphery of the tumor.",
+    "Histopathology slide exhibits distinct tumor margin hypoxia levels, indicating the hypoxic conditions influencing the tumor margin.",
+    "Tumor margin hypoxia levels are evident in the brain tumor tissue, highlighting the potential impact on angiogenesis and cellular adaptation.",
+    "Understanding tumor margin hypoxia levels in the image contributes to a comprehensive assessment of the oxygenation status at the tumor periphery."
+  ],
+  "Stromal Lipid Accumulation": [
+    "Analysis of stromal lipid accumulation in the SRH image reveals the presence and distribution of lipid-rich regions within the tumor stroma.",
+    "Histopathology slide showcases distinct stromal lipid accumulation, providing insights into the lipid content and storage in the stromal microenvironment.",
+    "Stromal lipid accumulation is evident in the brain tumor tissue, highlighting the potential impact on cellular metabolism and energy storage.",
+    "The presence of stromal lipid accumulation in the image provides valuable information about the lipid-related features influencing the stromal environment."
+  ],
+  "Peritumoral Cellular Stress Response": [
+    "Observation of peritumoral cellular stress response in the SRH image suggests the cellular reactions to stress conditions in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral cellular stress response, indicating the cellular adaptations to the tumor microenvironment.",
+    "Peritumoral cellular stress response is evident in the brain tumor tissue, emphasizing the potential impact on cell survival and function.",
+    "Understanding peritumoral cellular stress response in the image contributes to a comprehensive assessment of the cellular dynamics in the peritumoral region."
+  ],
+  "Tumor Microenvironment Extracellular Vesicles": [
+    "Analysis of tumor microenvironment extracellular vesicles in the SRH image reveals the presence and distribution of extracellular vesicles within the tumor stroma.",
+    "Histopathology slide exhibits distinct tumor microenvironment extracellular vesicles, providing insights into the intercellular communication mediated by vesicular transport.",
+    "Tumor microenvironment extracellular vesicles are evident in the brain tumor tissue, highlighting their potential role in signaling and information exchange.",
+    "The presence of tumor microenvironment extracellular vesicles in the image provides valuable information about the vesicle-mediated communication within the tumor microenvironment."
+  ],
+  "Tumor-Stroma Mechanical Properties": [
+    "Detection of tumor-stroma mechanical properties in the SRH image suggests the physical characteristics and behavior of the tumor-stroma interface.",
+    "Histopathology slide showcases distinct tumor-stroma mechanical properties, indicating the structural features influencing mechanical interactions.",
+    "Tumor-stroma mechanical properties are evident in the brain tumor tissue, highlighting the potential impact on tissue deformation and biomechanical responses.",
+    "Understanding tumor-stroma mechanical properties in the image contributes to a comprehensive assessment of the mechanical aspects at the tumor-stroma interface."
+  ],
+  "Peritumoral Oxidative Stress": [
+    "Observation of peritumoral oxidative stress in the SRH image provides insights into the levels of reactive oxygen species and oxidative damage in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral oxidative stress, indicating the redox imbalances and cellular responses to oxidative conditions.",
+    "Peritumoral oxidative stress is evident in the brain tumor tissue, emphasizing the potential impact on DNA damage and cellular survival.",
+    "Understanding peritumoral oxidative stress in the image contributes to a comprehensive assessment of the redox status in the peritumoral region."
+  ],
+  "Tumor Margin Immune Suppression": [
+    "Observation of tumor margin immune suppression in the SRH image suggests the inhibitory mechanisms affecting immune responses at the periphery of the tumor.",
+    "Histopathology slide showcases distinct tumor margin immune suppression, indicating the immunosuppressive factors influencing the tumor margin.",
+    "Tumor margin immune suppression is evident in the brain tumor tissue, emphasizing the potential impact on immune cell function and antitumor responses.",
+    "Understanding tumor margin immune suppression in the image contributes to a comprehensive assessment of the immunomodulatory environment at the tumor periphery."
+  ],
+  "Stromal Fibroblast Activation": [
+    "Detection of stromal fibroblast activation in the SRH image reveals the state of activation and functional changes in fibroblasts within the tumor stroma.",
+    "Histopathology slide exhibits distinct stromal fibroblast activation, providing insights into the dynamic roles of fibroblasts in the tumor microenvironment.",
+    "Stromal fibroblast activation is evident in the brain tumor tissue, highlighting the potential impact on extracellular matrix remodeling and tissue homeostasis.",
+    "The presence of stromal fibroblast activation in the image provides valuable information about the cellular processes influencing the stromal microenvironment."
+  ],
+  "Peritumoral Angiocrine Signaling": [
+    "Analysis of peritumoral angiocrine signaling in the SRH image reveals the signaling processes mediated by endothelial cells in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral angiocrine signaling, indicating the paracrine signals released by endothelial cells in the peritumoral region.",
+    "Peritumoral angiocrine signaling is evident in the brain tumor tissue, emphasizing the potential impact on cellular communication and tissue homeostasis.",
+    "Understanding peritumoral angiocrine signaling in the image contributes to a comprehensive assessment of the angiogenic and paracrine interactions in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Growth Factor Interactions": [
+    "Observation of tumor-stroma growth factor interactions in the SRH image reveals the molecular communication involving growth factors between tumor and stromal cells.",
+    "Histopathology slide highlights distinct tumor-stroma growth factor interactions, indicating the influence of growth factors on cellular responses and proliferation.",
+    "Tumor-stroma growth factor interactions are evident in the brain tumor tissue, emphasizing the potential impact on cell growth and tissue development.",
+    "The presence of tumor-stroma growth factor interactions in the image provides valuable information about the growth regulatory mechanisms shaping the tumor-stroma interplay."
+  ],
+  "Tumor Microenvironment Metabolomic Profiles": [
+    "Detection of tumor microenvironment metabolomic profiles in the SRH image provides insights into the metabolic composition and signature of the tumor microenvironment.",
+    "Histopathology slide exhibits distinct tumor microenvironment metabolomic profiles, offering valuable information about the metabolic changes associated with tumor growth.",
+    "Tumor microenvironment metabolomic profiles are evident in the brain tumor tissue, highlighting the potential impact on cellular metabolism and energy production.",
+    "Understanding tumor microenvironment metabolomic profiles in the image contributes to a comprehensive assessment of the metabolic landscape within the tumor microenvironment."
+  ],
+  "Peritumoral Stiffness": [
+    "Analysis of peritumoral stiffness in the SRH image reveals the mechanical properties and stiffness of the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral stiffness, indicating the tissue rigidity and mechanical characteristics in the peritumoral region.",
+    "Peritumoral stiffness is evident in the brain tumor tissue, emphasizing the potential impact on tissue deformation and mechanical interactions.",
+    "Understanding peritumoral stiffness in the image contributes to a comprehensive assessment of the mechanical aspects in the peritumoral microenvironment."
+  ],
+  "Tumor Margin Immune Cell Exhaustion": [
+    "Observation of tumor margin immune cell exhaustion in the SRH image suggests the functional exhaustion and reduced activity of immune cells at the periphery of the tumor.",
+    "Histopathology slide showcases distinct tumor margin immune cell exhaustion, indicating the compromised functionality of immune cells at the tumor margin.",
+    "Tumor margin immune cell exhaustion is evident in the brain tumor tissue, emphasizing the potential impact on antitumor immune responses and immune surveillance.",
+    "Understanding tumor margin immune cell exhaustion in the image contributes to a comprehensive assessment of the immune landscape at the tumor periphery."
+  ],
+  "Stromal Chemokine Gradients": [
+    "Detection of stromal chemokine gradients in the SRH image reveals the spatial distribution of chemokines within the tumor stroma.",
+    "Histopathology slide exhibits distinct stromal chemokine gradients, providing insights into the chemotactic signaling influencing cellular migration in the stromal microenvironment.",
+    "Stromal chemokine gradients are evident in the brain tumor tissue, highlighting the potential impact on immune cell recruitment and stromal interactions.",
+    "The presence of stromal chemokine gradients in the image provides valuable information about the chemokine-mediated cellular responses within the stromal environment."
+  ],
+  "Peritumoral Immune Cell Exhaustion": [
+    "Analysis of peritumoral immune cell exhaustion in the SRH image suggests the reduced functionality and exhaustion of immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral immune cell exhaustion, indicating the compromised activity of immune cells in the peritumoral region.",
+    "Peritumoral immune cell exhaustion is evident in the brain tumor tissue, emphasizing the potential impact on immune responses and immunosurveillance.",
+    "Understanding peritumoral immune cell exhaustion in the image contributes to a comprehensive assessment of the immune landscape in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Autophagy Levels": [
+    "Observation of tumor-stroma autophagy levels in the SRH image reveals the levels of autophagic activity within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma autophagy levels, providing insights into the autophagic processes influencing cellular homeostasis and survival.",
+    "Tumor-stroma autophagy levels are evident in the brain tumor tissue, highlighting the potential impact on cellular recycling and stress response.",
+    "The presence of tumor-stroma autophagy levels in the image provides valuable information about the autophagy-mediated cellular dynamics within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment MicroRNA Profiles": [
+    "Observation of tumor microenvironment microRNA profiles in the SRH image provides insights into the microRNA expression patterns shaping the molecular landscape within the tumor microenvironment.",
+    "Histopathology slide showcases distinct tumor microenvironment microRNA profiles, indicating the regulatory roles of microRNAs in cellular processes and gene expression.",
+    "Tumor microenvironment microRNA profiles are evident in the brain tumor tissue, highlighting the potential impact on post-transcriptional regulation and signaling pathways.",
+    "Understanding tumor microenvironment microRNA profiles in the image contributes to a comprehensive assessment of the molecular dynamics within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Suppressive Factors": [
+    "Detection of peritumoral immune suppressive factors in the SRH image suggests the presence of factors contributing to the suppression of immune responses in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune suppressive factors, providing insights into the immunosuppressive microenvironment in the peritumoral region.",
+    "Peritumoral immune suppressive factors are evident in the brain tumor tissue, emphasizing the potential impact on immune cell function and antitumor responses.",
+    "The presence of peritumoral immune suppressive factors in the image provides valuable information about the factors influencing immune suppression in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Epigenetic Modifications": [
+    "Analysis of tumor-stroma epigenetic modifications in the SRH image reveals the alterations in epigenetic marks within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma epigenetic modifications, providing insights into the epigenetic changes influencing gene expression and cellular behavior.",
+    "Tumor-stroma epigenetic modifications are evident in the brain tumor tissue, highlighting the potential impact on chromatin structure and epigenetic regulation.",
+    "Understanding tumor-stroma epigenetic modifications in the image contributes to a comprehensive assessment of the epigenetic landscape within the tumor-stroma interface."
+  ],
+  "Peritumoral Immune Cell Polarization": [
+    "Observation of peritumoral immune cell polarization in the SRH image suggests the directional orientation and activation states of immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral immune cell polarization, indicating the polarization of immune cells and their involvement in the peritumoral immune response.",
+    "Peritumoral immune cell polarization is evident in the brain tumor tissue, emphasizing the potential impact on immune cell functions and their interactions with the tumor microenvironment.",
+    "Understanding peritumoral immune cell polarization in the image contributes to a comprehensive assessment of the immune cell dynamics and responses in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Extracellular Vesicle Cargo": [
+    "Detection of tumor-stroma extracellular vesicle cargo in the SRH image reveals the molecular cargo and content transported by extracellular vesicles within the interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma extracellular vesicle cargo, providing insights into the intercellular communication mediated by vesicles and their cargo.",
+    "Tumor-stroma extracellular vesicle cargo is evident in the brain tumor tissue, highlighting the potential impact on cell signaling and information exchange.",
+    "The presence of tumor-stroma extracellular vesicle cargo in the image provides valuable information about the molecular cargo influencing the communication within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment Immune Cell Trafficking": [
+    "Analysis of tumor microenvironment immune cell trafficking in the SRH image reveals the movement and distribution of immune cells within the tumor microenvironment.",
+    "Histopathology slide showcases distinct tumor microenvironment immune cell trafficking, indicating the trafficking patterns and infiltration of immune cells in the tumor microenvironment.",
+    "Tumor microenvironment immune cell trafficking is evident in the brain tumor tissue, highlighting the potential impact on immune surveillance and antitumor responses.",
+    "Understanding tumor microenvironment immune cell trafficking in the image contributes to a comprehensive assessment of the immune cell dynamics within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue Necroptosis": [
+    "Observation of peritumoral tissue necroptosis in the SRH image suggests the occurrence of necroptotic cell death in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral tissue necroptosis, indicating the necroptotic processes and their potential impact on tissue integrity.",
+    "Peritumoral tissue necroptosis is evident in the brain tumor tissue, emphasizing the potential involvement of programmed necrosis in the peritumoral region.",
+    "Understanding peritumoral tissue necroptosis in the image contributes to a comprehensive assessment of the cell death mechanisms in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Endothelial Cell Activation": [
+    "Analysis of tumor-stroma endothelial cell activation in the SRH image reveals the activation state and functional changes in endothelial cells within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma endothelial cell activation, providing insights into the dynamic roles of endothelial cells in angiogenesis and vascular remodeling.",
+    "Tumor-stroma endothelial cell activation is evident in the brain tumor tissue, highlighting the potential impact on vascular function and angiogenic processes.",
+    "The presence of tumor-stroma endothelial cell activation in the image provides valuable information about the endothelial cell behavior influencing the vascular dynamics within the tumor-stroma interface."
+  ],
+  "Peritumoral Extracellular Matrix Stiffness": [
+    "Observation of peritumoral extracellular matrix stiffness in the SRH image suggests alterations in the stiffness and mechanical properties of the extracellular matrix in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral extracellular matrix stiffness, indicating changes in the mechanical microenvironment surrounding the tumor.",
+    "Peritumoral extracellular matrix stiffness is evident in the brain tumor tissue, emphasizing the potential impact on cell adhesion, migration, and tissue remodeling.",
+    "Understanding peritumoral extracellular matrix stiffness in the image contributes to a comprehensive assessment of the mechanical characteristics within the peritumoral microenvironment."
+  ],
+  "Tumor Margin Neovascularization": [
+    "Detection of tumor margin neovascularization in the SRH image reveals the formation of new blood vessels at the margin of the tumor.",
+    "Histopathology slide showcases distinct tumor margin neovascularization, indicating the angiogenic processes and blood vessel formation at the tumor margin.",
+    "Tumor margin neovascularization is evident in the brain tumor tissue, highlighting the potential impact on nutrient supply, oxygenation, and tumor growth.",
+    "The presence of tumor margin neovascularization in the image provides valuable information about the vascular changes occurring at the periphery of the tumor."
+  ],
+   "Stromal Tissue Tension": [
+    "Observation of stromal tissue tension in the SRH image reveals the mechanical tension and stress within the stromal tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal tissue tension, providing insights into the biomechanical properties and forces acting on the stromal components.",
+    "Stromal tissue tension is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture, cell behavior, and tumor-stroma interactions.",
+    "Understanding stromal tissue tension in the image contributes to a comprehensive assessment of the mechanical forces within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Cell Trafficking Patterns": [
+    "Detection of peritumoral immune cell trafficking patterns in the SRH image reveals the spatial patterns and movement of immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune cell trafficking patterns, providing insights into the orchestrated movements and distribution of immune cells.",
+    "Peritumoral immune cell trafficking patterns are evident in the brain tumor tissue, highlighting the potential impact on immune surveillance and antitumor responses.",
+    "The presence of peritumoral immune cell trafficking patterns in the image provides valuable information about the spatial dynamics of immune cells in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Lymphatic Drainage": [
+    "Analysis of tumor-stroma lymphatic drainage in the SRH image reveals the drainage patterns and flow of lymphatic vessels within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma lymphatic drainage, providing insights into the lymphatic network and its role in fluid transport and immune cell trafficking.",
+    "Tumor-stroma lymphatic drainage is evident in the brain tumor tissue, highlighting the potential impact on interstitial fluid balance and immune cell mobilization.",
+    "Understanding tumor-stroma lymphatic drainage in the image contributes to a comprehensive assessment of the lymphatic dynamics within the tumor-stroma interface."
+  ],
+  "Tumor Margin Mast Cell Infiltration": [
+    "Observation of tumor margin mast cell infiltration in the SRH image suggests the presence and infiltration of mast cells at the margin of the tumor.",
+    "Histopathology slide highlights distinct tumor margin mast cell infiltration, indicating the involvement of mast cells in the peritumoral microenvironment.",
+    "Tumor margin mast cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, angiogenesis, and tissue remodeling.",
+    "Understanding tumor margin mast cell infiltration in the image contributes to a comprehensive assessment of the mast cell dynamics at the periphery of the tumor."
+  ],
+  "Stromal Tissue Innervation": [
+    "Detection of stromal tissue innervation in the SRH image reveals the presence and distribution of nerve fibers within the stromal tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct stromal tissue innervation, providing insights into the neural network and its potential role in tumor-stroma communication.",
+    "Stromal tissue innervation is evident in the brain tumor tissue, highlighting the potential impact on sensory input, angiogenesis, and tissue homeostasis.",
+    "The presence of stromal tissue innervation in the image provides valuable information about the neurogenic influences within the tumor microenvironment."
+  ],
+  "Peritumoral Growth Factor Signaling": [
+    "Analysis of peritumoral growth factor signaling in the SRH image reveals the activation and signaling of growth factors in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral growth factor signaling, providing insights into the molecular signals influencing cell proliferation and tissue dynamics.",
+    "Peritumoral growth factor signaling is evident in the brain tumor tissue, highlighting the potential impact on cell survival, angiogenesis, and tissue repair.",
+    "Understanding peritumoral growth factor signaling in the image contributes to a comprehensive assessment of the molecular cues within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Myeloid Cell Infiltration": [
+    "Observation of tumor-stroma myeloid cell infiltration in the SRH image suggests the infiltration of myeloid cells within the interactions between tumor and stromal cells.",
+    "Histopathology slide highlights distinct tumor-stroma myeloid cell infiltration, indicating the involvement of myeloid cells in the tumor microenvironment.",
+    "Tumor-stroma myeloid cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, inflammation, and tissue remodeling.",
+    "Understanding tumor-stroma myeloid cell infiltration in the image contributes to a comprehensive assessment of the myeloid cell dynamics within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment Stromal Cell Proliferation": [
+    "Detection of tumor microenvironment stromal cell proliferation in the SRH image reveals the active proliferation of stromal cells within the tumor microenvironment.",
+    "Histopathology slide exhibits distinct tumor microenvironment stromal cell proliferation, providing insights into the proliferative capacity of stromal components.",
+    "Tumor microenvironment stromal cell proliferation is evident in the brain tumor tissue, highlighting the potential impact on tissue growth, remodeling, and support.",
+    "The presence of tumor microenvironment stromal cell proliferation in the image provides valuable information about the dynamic cellular processes within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue Oxygenation": [
+    "Observation of peritumoral tissue oxygenation in the SRH image reveals the levels of tissue oxygenation and vascular oxygen supply in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral tissue oxygenation, providing insights into the oxygen dynamics and vascular perfusion in the peritumoral region.",
+    "Peritumoral tissue oxygenation is evident in the brain tumor tissue, highlighting the potential impact on cellular metabolism, survival, and therapeutic responses.",
+    "Understanding peritumoral tissue oxygenation in the image contributes to a comprehensive assessment of the oxygen microenvironment within the peritumoral region."
+  ],
+  "Tumor-Stroma Natural Killer Cell Activity": [
+    "Analysis of tumor-stroma natural killer cell activity in the SRH image reveals the activity and presence of natural killer cells within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma natural killer cell activity, providing insights into the cytotoxic functions and antitumor responses of natural killer cells.",
+    "Tumor-stroma natural killer cell activity is evident in the brain tumor tissue, highlighting the potential impact on immune surveillance, tumor elimination, and tissue homeostasis.",
+    "Understanding tumor-stroma natural killer cell activity in the image contributes to a comprehensive assessment of the immune cell dynamics within the tumor-stroma interface."
+  ],
+   "Tumor Margin Tissue Perfusion": [
+    "Observation of tumor margin tissue perfusion in the SRH image suggests variations in tissue perfusion and blood flow at the margin of the tumor.",
+    "Histopathology slide highlights distinct tumor margin tissue perfusion, indicating the vascular dynamics and perfusion patterns at the tumor margin.",
+    "Tumor margin tissue perfusion is evident in the brain tumor tissue, emphasizing the potential impact on nutrient supply, oxygenation, and tumor growth.",
+    "Understanding tumor margin tissue perfusion in the image contributes to a comprehensive assessment of the vascular characteristics at the periphery of the tumor."
+  ],
+  "Stromal Tissue Viscosity": [
+    "Analysis of stromal tissue viscosity in the SRH image reveals the viscosity and resistance to flow within the stromal tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal tissue viscosity, providing insights into the biomechanical properties and fluid dynamics of the stromal components.",
+    "Stromal tissue viscosity is evident in the brain tumor tissue, highlighting the potential impact on tissue deformation, migration, and cell behavior.",
+    "Understanding stromal tissue viscosity in the image contributes to a comprehensive assessment of the mechanical and rheological properties within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Cell Metabolism": [
+    "Detection of peritumoral immune cell metabolism in the SRH image reveals the metabolic activities and energy consumption of immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune cell metabolism, providing insights into the bioenergetic processes and metabolic adaptations of immune cells.",
+    "Peritumoral immune cell metabolism is evident in the brain tumor tissue, highlighting the potential impact on immune responses, inflammation, and tissue homeostasis.",
+    "The presence of peritumoral immune cell metabolism in the image provides valuable information about the metabolic dynamics within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma T Cell Infiltration": [
+    "Observation of tumor-stroma T cell infiltration in the SRH image suggests the infiltration and distribution of T cells within the interactions between tumor and stromal cells.",
+    "Histopathology slide highlights distinct tumor-stroma T cell infiltration, indicating the involvement of T cells in the antitumor immune response.",
+    "Tumor-stroma T cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune surveillance, cytotoxicity, and tumor elimination.",
+    "Understanding tumor-stroma T cell infiltration in the image contributes to a comprehensive assessment of the T cell dynamics within the tumor-stroma interface."
+  ],
+  "Tumor Margin Collagen Crosslinking": [
+    "Analysis of tumor margin collagen crosslinking in the SRH image reveals the presence and distribution of crosslinked collagen fibers at the margin of the tumor.",
+    "Histopathology slide showcases distinct tumor margin collagen crosslinking, providing insights into the structural stability and mechanical properties of the collagen network.",
+    "Tumor margin collagen crosslinking is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture, stiffness, and extracellular matrix remodeling.",
+    "Understanding tumor margin collagen crosslinking in the image contributes to a comprehensive assessment of the collagen modifications at the periphery of the tumor."
+  ],
+  "Stromal Matrix Elasticity": [
+    "Observation of stromal matrix elasticity in the SRH image reveals the elasticity and flexibility of the stromal matrix surrounding the tumor.",
+    "Histopathology slide highlights distinct stromal matrix elasticity, providing insights into the biomechanical properties and deformability of the stromal components.",
+    "Stromal matrix elasticity is evident in the brain tumor tissue, emphasizing the potential impact on cell migration, tissue invasion, and mechanical signaling.",
+    "Understanding stromal matrix elasticity in the image contributes to a comprehensive assessment of the mechanical properties within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Cell Senescence": [
+    "Detection of peritumoral immune cell senescence in the SRH image reveals the presence and distribution of senescent immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune cell senescence, providing insights into the aging and altered functions of immune cells in the peritumoral microenvironment.",
+    "Peritumoral immune cell senescence is evident in the brain tumor tissue, highlighting the potential impact on immune responses, inflammation, and tissue homeostasis.",
+    "The presence of peritumoral immune cell senescence in the image provides valuable information about the senescence-associated changes within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Matrix Metalloproteinase Levels": [
+    "Analysis of tumor-stroma matrix metalloproteinase levels in the SRH image reveals the levels and distribution of matrix metalloproteinases within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma matrix metalloproteinase levels, providing insights into the proteolytic activities and extracellular matrix remodeling.",
+    "Tumor-stroma matrix metalloproteinase levels are evident in the brain tumor tissue, emphasizing the potential impact on tissue invasion, angiogenesis, and matrix turnover.",
+    "Understanding tumor-stroma matrix metalloproteinase levels in the image contributes to a comprehensive assessment of the proteolytic activities within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment Cytokine Gradients": [
+    "Observation of tumor microenvironment cytokine gradients in the SRH image reveals the spatial distribution and concentration gradients of cytokines within the tumor microenvironment.",
+    "Histopathology slide highlights distinct tumor microenvironment cytokine gradients, providing insights into the signaling network and immune modulation within the tumor microenvironment.",
+    "Tumor microenvironment cytokine gradients are evident in the brain tumor tissue, emphasizing the potential impact on immune responses, inflammation, and cellular behaviors.",
+    "Understanding tumor microenvironment cytokine gradients in the image contributes to a comprehensive assessment of the immune and signaling dynamics within the tumor microenvironment."
+  ],
+  "Peritumoral Vascular Endothelial Growth Factor": [
+    "Analysis of peritumoral vascular endothelial growth factor (VEGF) in the SRH image reveals the levels and distribution of VEGF within the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral VEGF expression, providing insights into angiogenic processes and vascular permeability in the peritumoral microenvironment.",
+    "Peritumoral VEGF expression is evident in the brain tumor tissue, highlighting the potential impact on blood vessel formation, angiogenesis, and tissue perfusion.",
+    "Understanding peritumoral VEGF expression in the image contributes to a comprehensive assessment of the angiogenic factors within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Chemokine Receptor Expression": [
+    "Detection of tumor-stroma chemokine receptor expression in the SRH image reveals the expression and distribution of chemokine receptors within the interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma chemokine receptor expression, providing insights into the chemotactic responses and immune cell recruitment within the tumor microenvironment.",
+    "Tumor-stroma chemokine receptor expression is evident in the brain tumor tissue, emphasizing the potential impact on immune cell migration, inflammation, and antitumor responses.",
+    "The presence of tumor-stroma chemokine receptor expression in the image provides valuable information about the chemotactic signaling within the tumor-stroma interface."
+  ],
+  "Tumor Margin Immune Checkpoint Expression": [
+    "Observation of tumor margin immune checkpoint expression in the SRH image suggests the expression and distribution of immune checkpoint molecules at the margin of the tumor.",
+    "Histopathology slide highlights distinct tumor margin immune checkpoint expression, indicating the potential immunoregulatory mechanisms and immune evasion strategies at the tumor margin.",
+    "Tumor margin immune checkpoint expression is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, T cell exhaustion, and antitumor immunity.",
+    "Understanding tumor margin immune checkpoint expression in the image contributes to a comprehensive assessment of the immunomodulatory features at the periphery of the tumor."
+  ],
+  "Stromal Tissue Angiostatic Factors": [
+    "Observation of stromal tissue angiostatic factors in the SRH image reveals factors that inhibit angiogenesis within the stromal components surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal tissue angiostatic factors, providing insights into the anti-angiogenic properties and regulation of blood vessel formation.",
+    "Stromal tissue angiostatic factors are evident in the brain tumor tissue, highlighting the potential impact on angiogenic balance and tumor vascularization.",
+    "Understanding stromal tissue angiostatic factors in the image contributes to a comprehensive assessment of the angiogenic regulation within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue pH Levels": [
+    "Analysis of peritumoral tissue pH levels in the SRH image reveals the acidity or alkalinity levels in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral tissue pH levels, providing insights into the pH dynamics and acid-base balance in the peritumoral microenvironment.",
+    "Peritumoral tissue pH levels are evident in the brain tumor tissue, highlighting the potential impact on metabolic activities, enzyme function, and cellular responses.",
+    "Understanding peritumoral tissue pH levels in the image contributes to a comprehensive assessment of the metabolic and physiological conditions within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Cell Adhesion Molecules": [
+    "Detection of tumor-stroma cell adhesion molecules in the SRH image reveals the presence and distribution of molecules mediating cell-cell interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma cell adhesion molecules, providing insights into the adhesive interactions and communication within the tumor-stroma interface.",
+    "Tumor-stroma cell adhesion molecules are evident in the brain tumor tissue, emphasizing the potential impact on cell migration, invasion, and cellular signaling.",
+    "The presence of tumor-stroma cell adhesion molecules in the image provides valuable information about the molecular interactions within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment Immune Cell Exhaustion": [
+    "Observation of tumor microenvironment immune cell exhaustion in the SRH image suggests the presence and exhaustion status of immune cells within the tumor microenvironment.",
+    "Histopathology slide highlights distinct tumor microenvironment immune cell exhaustion, indicating the potential functional impairment and reduced activity of immune cells.",
+    "Tumor microenvironment immune cell exhaustion is evident in the brain tumor tissue, emphasizing the potential impact on immunosuppression, immune evasion, and tumor progression.",
+    "Understanding tumor microenvironment immune cell exhaustion in the image contributes to a comprehensive assessment of the immune checkpoint regulation within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue Glycoprotein Expression": [
+    "Analysis of peritumoral tissue glycoprotein expression in the SRH image reveals the expression and distribution of glycoproteins in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral tissue glycoprotein expression, providing insights into the glycosylation patterns and molecular features of the peritumoral microenvironment.",
+    "Peritumoral tissue glycoprotein expression is evident in the brain tumor tissue, highlighting the potential impact on cell adhesion, signaling, and extracellular matrix interactions.",
+    "Understanding peritumoral tissue glycoprotein expression in the image contributes to a comprehensive assessment of the molecular characteristics within the peritumoral microenvironment."
+  ]
+  }
+    patient_templates : {
+      'Chemical Composition': [
+        'The image displays a diverse chemical composition within the tissue.', 
+        'Specific chemical components are visually identified in the histopathology slide.', 
+        'Chemical composition data is vital for characterizing the tissue in the pathology image.', 
+        'Variations in chemical composition are evident throughout the tissue sample.'], 
+      'Metabolic Pathway Indicators': [
+        'Histopathology image showing indicators related to specific metabolic pathways within the tissue.', 
+        'Tissue with visible indicators related to metabolic pathways in the image, indicative of specific pathway-related markers.', 
+        'Indicators related to specific metabolic pathways are evident in the pathology sample, providing insights into metabolic processes within the tissue.', 
+        'Specific indicators associated with metabolic pathways are detected within the tissue in the image.'],
+        "Tumor Heterogeneity": [
+      "A diverse histopathology slide indicating varying tumor cell characteristics.",
+      "Presence of heterogeneous growth patterns in the histopathology image.",
+      "Tumor heterogeneity is evident, showcasing diverse cellular features.",
+      "The slide exhibits significant variability in cellular morphology, indicating tumor heterogeneity."
+    ],
+    "Growth Patterns": [
+      "Distinct growth patterns are observable in this histopathology slide.",
+      "The image illustrates specific tumor growth patterns.",
+      "Pathological tissue showing characteristic growth patterns.",
+      "The histopathology slide displays discernible tumor growth patterns."
+    ],
+    "Satellite Lesions": [
+      "Satellite lesions are visible in the histopathology image, indicating secondary tumor foci.",
+      "The presence of satellite lesions suggests multifocal tumor development.",
+      "Histopathology slide showcasing satellite lesions around the primary tumor.",
+      "Observation of satellite lesions implies the spread of tumor cells to adjacent regions."
+    ],
+    "Tumor Borders": [
+      "Well-defined tumor borders are evident in this histopathology image.",
+      "Distinct tumor borders are observable, aiding in delineating tumor extent.",
+      "The slide shows clear demarcation of tumor borders.",
+      "Histopathology image displaying defined borders of the tumor mass."
+    ],
+    "Vascular Network": [
+      "The histopathology image illustrates the intricate vascular network surrounding the tumor.",
+      "Distinct blood vessels form a complex vascular network in the pathological tissue.",
+      "Vascular network characteristics are evident in this slide.",
+      "Observation of the vascular network provides insights into tumor vasculature."
+    ],
+    "Peritumoral Characteristics": [
+      "Peritumoral characteristics are observable in the surrounding tissue of this histopathology slide.",
+      "Histopathology image indicating features in the peritumoral region.",
+      "Observation of peritumoral characteristics reveals tissue alterations surrounding the tumor.",
+      "The slide highlights changes in the peritumoral microenvironment."
+    ],
+    "Microenvironment Morphology": [
+      "Distinctive microenvironment morphology is observable in this histopathology image.",
+      "The slide showcases unique features characterizing the tumor microenvironment.",
+      "Microenvironment morphology is evident, reflecting tissue changes around the tumor.",
+      "Observation of microenvironmental changes provides insights into tumor surroundings."
+    ],
+    "Infiltrative Margins": [
+      "Infiltrative tumor margins are evident in the histopathology image.",
+      "Distinct infiltration of tumor cells along the margins is observable.",
+      "The slide illustrates infiltrative margins, indicating tumor invasion into adjacent tissue.",
+      "Observation of infiltrative margins suggests aggressive tumor behavior."
+    ],
+    "Tumor Angiogenesis": [
+      "Histopathology image revealing signs of tumor angiogenesis.",
+      "The slide showcases characteristic features of tumor angiogenesis.",
+      "Observation of enhanced blood vessel formation suggests tumor angiogenesis.",
+      "Tumor angiogenesis is evident in the pathological tissue, indicating increased vascularity."
+    ],
+    "Necrosis Patterns": [
+      "Distinct necrosis patterns are visible in this histopathology image.",
+      "The slide exhibits characteristic necrosis patterns within the tumor mass.",
+      "Necrosis patterns are observable, reflecting areas of cell death in the pathological tissue.",
+      "Observation of necrosis patterns provides insights into tumor pathology."
+    ],
+    "Stromal-Tumor Interaction": [
+      "The histopathology image illustrates dynamic interaction between stromal and tumor components.",
+      "Distinct features indicating stromal-tumor interaction are observable in the slide.",
+      "Observation of stromal-tumor interaction provides insights into the tumor microenvironment.",
+      "Histopathology image highlighting the reciprocal relationship between stromal and tumor elements."
+    ],
+    "Vascular Supply": [
+      "Vascular supply characteristics are evident in the histopathology image.",
+      "Distinct features indicating the vascular supply to the tumor are observable in the slide.",
+      "Observation of vascular supply provides insights into nutrient delivery to the tumor.",
+      "The histopathology image highlights the intricate vascular network supplying the tumor."
+    ],
+     "Cellular Density": [
+      "The histopathology slide displays variations in cellular density throughout the tumor mass.",
+      "Distinct cellular density patterns are observable, providing insights into tumor cell distribution.",
+      "Observation of cellular density reveals heterogeneous cell populations within the pathological tissue.",
+      "Histopathology image showing differences in cellular density, indicative of tumor heterogeneity."
+    ],
+    "Margin Integrity": [
+      "Well-maintained margin integrity is evident in this histopathology image.",
+      "Distinct features indicating intact margin integrity are observable in the slide.",
+      "Observation of margin integrity suggests well-demarcated boundaries of the tumor mass.",
+      "Histopathology image highlighting the structural integrity of the tumor margins."
+    ],
+    "Immune Response": [
+      "The histopathology slide shows signs of immune response within the tumor microenvironment.",
+      "Distinct features indicating an immune response are observable, suggesting interactions with immune cells.",
+      "Observation of immune response provides insights into the host's reaction to the tumor.",
+      "Histopathology image highlighting the presence of immune cells and immune response patterns."
+    ],
+    "Vasculature Integrity": [
+      "The integrity of the vasculature is evident in this histopathology image.",
+      "Distinct features indicating vasculature integrity are observable in the slide.",
+      "Observation of vasculature integrity suggests functional blood vessels within the tumor mass.",
+      "Histopathology image highlighting the structural integrity of the tumor vasculature."
+    ],
+    "Global Cellularity": [
+      "The histopathology slide provides a global view of cellular distribution and density throughout the tumor.",
+      "Distinct features indicating global cellularity patterns are observable in the slide.",
+      "Observation of global cellularity provides an overall assessment of cellular composition within the pathological tissue.",
+      "Histopathology image offering a comprehensive view of cellular distribution across the entire tumor mass."
+    ],
+    "Microenvironmental Heterogeneity": [
+      "Distinct microenvironmental heterogeneity is observable in this histopathology image.",
+      "The slide showcases variations in the tumor microenvironment, reflecting heterogeneity.",
+      "Observation of microenvironmental heterogeneity provides insights into tissue changes around the tumor.",
+      "Histopathology image highlighting diverse microenvironmental features indicative of tumor heterogeneity."
+    ],
+    "Inflammatory Patterns": [
+      "The histopathology slide exhibits characteristic patterns of inflammation within the tumor.",
+      "Distinct features indicating inflammatory patterns are observable, suggesting an inflammatory response.",
+      "Observation of inflammatory patterns provides insights into the nature of the immune response.",
+      "Histopathology image highlighting specific patterns of inflammation within the pathological tissue."
+    ],
+    "Margin Perfusion": [
+      "The perfusion patterns along the tumor margin are evident in this histopathology image.",
+      "Distinct features indicating margin perfusion are observable, reflecting blood flow to the tumor edges.",
+      "Observation of margin perfusion provides insights into vascular supply dynamics near the tumor borders.",
+      "Histopathology image highlighting patterns of perfusion along the tumor margin."
+    ],
+    "Microarchitecture": [
+      "Distinct microarchitectural features are observable in this histopathology image.",
+      "The slide showcases specific structural characteristics, providing insights into tissue organization.",
+      "Observation of microarchitecture reveals detailed tissue organization and structural patterns.",
+      "Histopathology image highlighting unique microarchitectural features within the pathological tissue."
+    ],
+    "Stromal-Tumor Crosstalk": [
+      "The histopathology slide illustrates dynamic crosstalk between stromal and tumor components.",
+      "Distinct features indicating stromal-tumor crosstalk are observable in the slide.",
+      "Observation of stromal-tumor crosstalk provides insights into reciprocal interactions between tissue elements.",
+      "Histopathology image highlighting the interplay between stromal and tumor components."
+    ],
+    "Extracellular Matrix": [
+      "The extracellular matrix characteristics are evident in this histopathology image.",
+      "Distinct features indicating extracellular matrix composition are observable in the slide.",
+      "Observation of the extracellular matrix provides insights into the structural support of the tumor.",
+      "Histopathology image highlighting specific features of the extracellular matrix within the pathological tissue."
+    ],
+    "Vascular Permeability": [
+      "The permeability of the vasculature is evident in this histopathology image.",
+      "Distinct features indicating vascular permeability are observable in the slide.",
+      "Observation of vascular permeability provides insights into blood vessel dynamics within the tumor.",
+      "Histopathology image highlighting characteristics of vascular permeability within the pathological tissue."
+    ],
+     "Microenvironmental Vascularity": [
+      "The histopathology slide showcases microenvironmental vascularity patterns surrounding the tumor.",
+      "Distinct features indicating microenvironmental vascularity are observable, reflecting blood vessel density.",
+      "Observation of microenvironmental vascularity provides insights into the vascular network around the tumor.",
+      "Histopathology image highlighting specific features of microenvironmental vascularity in the pathological tissue."
+    ],
+    "Global Proliferation": [
+      "The histopathology slide provides a global view of proliferation patterns throughout the tumor mass.",
+      "Distinct features indicating global proliferation are observable in the slide, reflecting cell division activity.",
+      "Observation of global proliferation offers insights into the overall cell proliferation rate within the pathological tissue.",
+      "Histopathology image offering a comprehensive view of cell proliferation patterns across the entire tumor mass."
+    ],
+    "Margin Collagen Distribution": [
+      "Distinct collagen distribution along the tumor margin is evident in this histopathology image.",
+      "The slide showcases specific patterns of collagen distribution, providing insights into tissue structure.",
+      "Observation of margin collagen distribution reveals details about the extracellular matrix near the tumor borders.",
+      "Histopathology image highlighting unique features of collagen distribution along the tumor margin."
+    ],
+    "Immune Infiltration": [
+      "The histopathology slide illustrates immune cell infiltration patterns within the tumor microenvironment.",
+      "Distinct features indicating immune infiltration are observable in the slide, reflecting immune cell presence.",
+      "Observation of immune infiltration provides insights into the distribution and type of immune cells within the pathological tissue.",
+      "Histopathology image highlighting specific patterns of immune cell infiltration in the tumor microenvironment."
+    ],
+    "Immune Suppression": [
+      "Signs of immune suppression within the tumor microenvironment are evident in this histopathology image.",
+      "Distinct features indicating immune suppression are observable, reflecting inhibitory immune responses.",
+      "Observation of immune suppression provides insights into mechanisms dampening immune activity in the pathological tissue.",
+      "Histopathology image highlighting specific features of immune suppression within the tumor microenvironment."
+    ],
+    "Apoptosis Levels": [
+      "The histopathology slide showcases patterns of apoptosis levels within the tumor.",
+      "Distinct features indicating apoptosis levels are observable, reflecting programmed cell death.",
+      "Observation of apoptosis levels provides insights into the rate of cell death within the pathological tissue.",
+      "Histopathology image highlighting specific features of apoptosis levels in the tumor."
+    ],
+    "Lipid Content": [
+      "Distinct lipid content patterns are observable in this histopathology image.",
+      "The slide showcases specific features of lipid content, providing insights into cellular lipid composition.",
+      "Observation of lipid content reveals details about the presence and distribution of lipids within the pathological tissue.",
+      "Histopathology image highlighting unique features of lipid content within the tumor."
+    ],
+    "Metabolic Crosstalk": [
+      "The histopathology slide illustrates metabolic crosstalk between different cellular components.",
+      "Distinct features indicating metabolic crosstalk are observable in the slide.",
+      "Observation of metabolic crosstalk provides insights into interactions between metabolic pathways within the pathological tissue.",
+      "Histopathology image highlighting the interconnected metabolic activities in the tumor microenvironment."
+    ],
+    "Protein Expression": [
+      "Distinct patterns of protein expression are observable in this histopathology image.",
+      "The slide showcases specific features of protein expression, providing insights into cellular protein profiles.",
+      "Observation of protein expression reveals details about the abundance and distribution of proteins within the pathological tissue.",
+      "Histopathology image highlighting unique features of protein expression within the tumor."
+    ],
+    "Genetic Features": [
+      "The histopathology slide provides insights into genetic features associated with the tumor.",
+      "Distinct features indicating genetic characteristics are observable in the slide.",
+      "Observation of genetic features offers insights into the specific genetic alterations present in the pathological tissue.",
+      "Histopathology image highlighting unique genetic features associated with the tumor."
+    ],
+    "Molecular Signatures": [
+      "Distinct molecular signatures are observable in this histopathology image.",
+      "The slide showcases specific features of molecular signatures, providing insights into cellular molecular profiles.",
+      "Observation of molecular signatures reveals details about the unique molecular characteristics within the pathological tissue.",
+      "Histopathology image highlighting specific molecular signatures associated with the tumor."
+    ],
+    "Epigenetic Changes": [
+      "The histopathology slide illustrates epigenetic changes within the tumor.",
+      "Distinct features indicating epigenetic alterations are observable in the slide.",
+      "Observation of epigenetic changes provides insights into modifications influencing gene expression in the pathological tissue.",
+      "Histopathology image highlighting specific features of epigenetic changes within the tumor."
+    ],
+    "Cellular Morphology": [
+      "Distinct cellular morphology patterns are observable in this histopathology image.",
+      "The slide showcases specific features of cellular morphology, providing insights into the shape and structure of cells.",
+      "Observation of cellular morphology reveals details about the size, shape, and arrangement of cells within the pathological tissue.",
+      "Histopathology image highlighting unique features of cellular morphology within the tumor."
+    ],
+    "Stromal Composition": [
+      "The histopathology slide illustrates the composition of stromal elements within the tumor microenvironment.",
+      "Distinct features indicating stromal composition are observable in the slide.",
+      "Observation of stromal composition provides insights into the types and distribution of stromal cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal composition within the tumor microenvironment."
+    ],
+    "Lipid Distribution": [
+      "Distinct lipid distribution patterns are observable in this histopathology image.",
+      "The slide showcases specific features of lipid distribution, providing insights into the spatial arrangement of lipids.",
+      "Observation of lipid distribution reveals details about the presence and localization of lipids within the pathological tissue.",
+      "Histopathology image highlighting unique features of lipid distribution within the tumor."
+    ],
+    "Nuclear Characteristics": [
+      "The histopathology slide provides insights into nuclear characteristics associated with the tumor.",
+      "Distinct features indicating nuclear characteristics are observable in the slide.",
+      "Observation of nuclear characteristics offers insights into the size, shape, and structure of nuclei within the pathological tissue.",
+      "Histopathology image highlighting unique nuclear characteristics associated with the tumor."
+    ],
+    "Stromal-Tumor Fusion Genes": [
+      "Distinct features indicating the presence of stromal-tumor fusion genes are observable in this histopathology image.",
+      "The slide showcases specific patterns of gene fusion, providing insights into genetic alterations within the tumor microenvironment.",
+      "Observation of stromal-tumor fusion genes reveals details about the specific gene rearrangements present in the pathological tissue.",
+      "Histopathology image highlighting the presence of stromal-tumor fusion genes within the tumor microenvironment."
+    ],
+    "Margin Tissue Differentiation": [
+      "The histopathology slide illustrates the differentiation patterns of tissue along the tumor margin.",
+      "Distinct features indicating tissue differentiation are observable in the slide.",
+      "Observation of tissue differentiation provides insights into the varying cell types present in the margin of the pathological tissue.",
+      "Histopathology image highlighting specific features of tissue differentiation along the tumor margin."
+    ],
+    "Nuclear-Cytoplasmic Ratio": [
+      "Distinct nuclear-cytoplasmic ratio patterns are observable in this histopathology image.",
+      "The slide showcases specific features of nuclear-cytoplasmic ratio, providing insights into the relative sizes of nuclei and cytoplasm.",
+      "Observation of nuclear-cytoplasmic ratio reveals details about the cellular composition and morphology within the pathological tissue.",
+      "Histopathology image highlighting unique features of nuclear-cytoplasmic ratio within the tumor."
+    ],
+    "Chemical Diversity": [
+      "Distinct chemical diversity patterns are observable in this histopathology image.",
+      "The slide showcases specific features of chemical diversity, providing insights into the variety of chemical components within the tissue.",
+      "Observation of chemical diversity reveals details about the presence and distribution of various chemical compounds within the pathological tissue.",
+      "Histopathology image highlighting unique features of chemical diversity within the tumor."
+    ],
+    "Stromal Fiber Morphology": [
+      "Distinct stromal fiber morphology patterns are observable in this histopathology image.",
+      "The slide showcases specific features of stromal fiber morphology, providing insights into the structure and arrangement of stromal fibers.",
+      "Observation of stromal fiber morphology reveals details about the density and organization of stromal fibers within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal fiber morphology within the tumor."
+    ],
+    "Stromal Aggregations": [
+      "The histopathology slide illustrates aggregations of stromal elements within the tumor microenvironment.",
+      "Distinct features indicating stromal aggregations are observable in the slide.",
+      "Observation of stromal aggregations provides insights into the clustering and distribution of stromal cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal aggregations within the tumor microenvironment."
+    ],
+    "Stromal Fiber Density": [
+      "Distinct stromal fiber density patterns are observable in this histopathology image.",
+      "The slide showcases specific features of stromal fiber density, providing insights into the concentration and distribution of stromal fibers.",
+      "Observation of stromal fiber density reveals details about the overall density and arrangement of stromal fibers within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal fiber density within the tumor."
+    ],
+    "Cellular Heterogeneity": [
+      "The histopathology slide provides insights into the cellular heterogeneity associated with the tumor.",
+      "Distinct features indicating cellular heterogeneity are observable in the slide.",
+      "Observation of cellular heterogeneity offers insights into the variability of cell types and features within the pathological tissue.",
+      "Histopathology image highlighting unique cellular heterogeneity associated with the tumor."
+    ],
+    "Stromal Matrix Integrity": [
+      "The histopathology slide illustrates the integrity of the stromal matrix within the tumor microenvironment.",
+      "Distinct features indicating stromal matrix integrity are observable in the slide.",
+      "Observation of stromal matrix integrity provides insights into the stability and structural soundness of the extracellular matrix within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal matrix integrity within the tumor microenvironment."
+    ],
+    "Stromal Matrix Composition": [
+      "Distinct features indicating the composition of the stromal matrix are observable in this histopathology image.",
+      "The slide showcases specific patterns of stromal matrix composition, providing insights into the types and distribution of matrix elements.",
+      "Observation of stromal matrix composition reveals details about the variety and arrangement of matrix components within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal matrix composition within the tumor microenvironment."
+    ],
+    "Stromal Matrix Remodeling": [
+      "The histopathology slide illustrates the remodeling patterns of the stromal matrix within the tumor microenvironment.",
+      "Distinct features indicating stromal matrix remodeling are observable in the slide.",
+      "Observation of stromal matrix remodeling provides insights into the dynamic changes and alterations in the extracellular matrix within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal matrix remodeling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Protein-Protein Interactions": [
+      "Distinct features indicating protein-protein interactions between stromal and tumor elements are observable in this histopathology image.",
+      "The slide showcases specific patterns of molecular interactions, providing insights into the communication between stromal and tumor cells.",
+      "Observation of protein-protein interactions reveals details about the molecular signaling and crosstalk within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor protein-protein interactions within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor Margin Vascularization": [
+      "The histopathology slide illustrates the vascularization patterns along the tumor margin involving stromal-tumor interactions.",
+      "Distinct features indicating tumor margin vascularization are observable in the slide.",
+      "Observation of stromal-tumor interactions in tumor margin vascularization provides insights into the blood supply dynamics within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor tumor margin vascularization within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Matrix Metalloproteinase Levels": [
+      "Distinct features indicating matrix metalloproteinase levels in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix metalloproteinase activity, providing insights into the enzymatic processes involved in stromal-tumor crosstalk.",
+      "Observation of matrix metalloproteinase levels reveals details about the proteolytic activity within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor matrix metalloproteinase levels within the tumor microenvironment."
+    ],
+    "Stromal-Tumor T Cell Infiltration": [
+      "The histopathology slide illustrates T cell infiltration patterns involved in stromal-tumor interactions.",
+      "Distinct features indicating T cell infiltration are observable in the slide.",
+      "Observation of stromal-tumor interactions in T cell infiltration provides insights into the immune response within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor T cell infiltration within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Natural Killer Cell Activity": [
+      "Distinct features indicating natural killer cell activity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of natural killer cell involvement, providing insights into the immune response dynamics within the pathological tissue.",
+      "Observation of stromal-tumor interactions in natural killer cell activity reveals details about the cytotoxic effects within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor natural killer cell activity within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Immune Cell Trafficking Patterns": [
+      "The histopathology slide illustrates immune cell trafficking patterns involved in stromal-tumor interactions.",
+      "Distinct features indicating immune cell trafficking are observable in the slide.",
+      "Observation of stromal-tumor interactions in immune cell trafficking provides insights into the movement and distribution of immune cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor immune cell trafficking patterns within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Immune Cell Senescence": [
+      "Distinct features indicating immune cell senescence in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune cell senescence, providing insights into the aging and dysfunction of immune cells within the pathological tissue.",
+      "Observation of stromal-tumor interactions in immune cell senescence reveals details about the compromised immune response within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor immune cell senescence within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Growth Factor Signaling": [
+      "The histopathology slide illustrates growth factor signaling patterns involved in stromal-tumor interactions.",
+      "Distinct features indicating growth factor signaling are observable in the slide.",
+      "Observation of stromal-tumor interactions in growth factor signaling provides insights into the molecular communication and cell proliferation within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor growth factor signaling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Chemokine Receptor Expression": [
+      "Distinct features indicating chemokine receptor expression in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of chemokine receptor expression, providing insights into the chemotactic signaling involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in chemokine receptor expression reveals details about the recruitment and positioning of cells within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor chemokine receptor expression within the tumor microenvironment."
+    ],
+     "Stromal-Tumor Extracellular Vesicle Cargo": [
+      "Distinct features indicating the cargo of extracellular vesicles in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of extracellular vesicle content, providing insights into the intercellular communication involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in extracellular vesicle cargo reveals details about the molecular signaling and exchange of genetic material within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor extracellular vesicle cargo within the tumor microenvironment."
+    ],
+    "Tumor Margin Immune Checkpoint Expression": [
+      "The histopathology slide illustrates the expression patterns of immune checkpoint molecules at the tumor margin.",
+      "Distinct features indicating immune checkpoint expression are observable in the slide.",
+      "Observation of immune checkpoint expression at the tumor margin provides insights into the regulation of the immune response within the pathological tissue.",
+      "Histopathology image highlighting specific features of tumor margin immune checkpoint expression within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Signaling Crosstalk": [
+      "Distinct features indicating signaling crosstalk between stromal and tumor elements are observable in this histopathology image.",
+      "The slide showcases specific patterns of molecular interactions, providing insights into the communication between stromal and tumor cells.",
+      "Observation of stromal-tumor signaling crosstalk reveals details about the complex signaling pathways involved in stromal-tumor interactions within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor signaling crosstalk within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Immune Exhaustion": [
+      "The histopathology slide illustrates patterns of immune exhaustion in stromal-tumor interactions.",
+      "Distinct features indicating immune cell exhaustion are observable in the slide.",
+      "Observation of stromal-tumor interactions in immune exhaustion provides insights into the compromised immune response within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor immune exhaustion within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Angiocrine Signaling": [
+      "Distinct features indicating angiocrine signaling in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of molecular signaling, providing insights into the paracrine signaling involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in angiocrine signaling reveals details about the vascular support and communication between cells within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor angiocrine signaling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Extracellular Matrix Features": [
+      "The histopathology slide illustrates features of the extracellular matrix in stromal-tumor interactions.",
+      "Distinct features indicating extracellular matrix characteristics are observable in the slide.",
+      "Observation of stromal-tumor interactions in extracellular matrix features provides insights into the structural support and signaling within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor extracellular matrix features within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Immune Suppressive Factors": [
+      "Distinct features indicating immune suppressive factors in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of immunosuppression, providing insights into the inhibitory factors involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in immune suppressive factors reveals details about the modulation of the immune response within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor immune suppressive factors within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Extracellular Matrix Stiffness": [
+      "The histopathology slide illustrates the stiffness patterns of the extracellular matrix in stromal-tumor interactions.",
+      "Distinct features indicating extracellular matrix stiffness are observable in the slide.",
+      "Observation of stromal-tumor interactions in extracellular matrix stiffness provides insights into the mechanical properties and tumor-supporting features within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor extracellular matrix stiffness within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Extracellular Matrix Remodeling": [
+      "Distinct features indicating remodeling of the extracellular matrix in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix remodeling, providing insights into the dynamic changes and alterations in the extracellular environment within the pathological tissue.",
+      "Observation of stromal-tumor interactions in extracellular matrix remodeling reveals details about the tissue reorganization and adaptability within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor extracellular matrix remodeling within the tumor microenvironment."
+    ],
+    "Peritumoral Lymphatic Density": [
+      "The histopathology slide illustrates the density patterns of lymphatic vessels in the peritumoral region.",
+      "Distinct features indicating lymphatic density are observable in the slide.",
+      "Observation of peritumoral lymphatic density provides insights into the lymphatic network and drainage dynamics around the pathological tissue.",
+      "Histopathology image highlighting specific features of peritumoral lymphatic density within the tumor microenvironment."
+    ],
+    "Stromal-Tumor MicroRNA Profiles": [
+      "Distinct features indicating microRNA profiles in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of microRNA expression, providing insights into the regulatory roles of microRNAs in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in microRNA profiles reveals details about the post-transcriptional regulation within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor microRNA profiles within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Epigenetic Modifications": [
+      "The histopathology slide illustrates patterns of epigenetic modifications in stromal-tumor interactions.",
+      "Distinct features indicating epigenetic changes are observable in the slide.",
+      "Observation of stromal-tumor interactions in epigenetic modifications provides insights into the heritable alterations and gene expression regulation within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor epigenetic modifications within the tumor microenvironment."
+    ],
+     "Stromal-Tumor Immune Cell Trafficking": [
+      "Distinct features indicating the trafficking of immune cells between stromal and tumor regions are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune cell migration, providing insights into the dynamic interactions and surveillance within the pathological tissue.",
+      "Observation of stromal-tumor immune cell trafficking reveals details about the infiltration and movement of immune cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor immune cell trafficking within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Necroptosis": [
+      "The histopathology slide illustrates patterns of tissue necroptosis in stromal-tumor interactions.",
+      "Distinct features indicating tissue necroptosis are observable in the slide.",
+      "Observation of stromal-tumor interactions in tissue necroptosis provides insights into the regulated cell death and tissue damage within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor tissue necroptosis within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Endothelial Cell Activation": [
+      "Distinct features indicating endothelial cell activation in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of endothelial cell response, providing insights into the vascular changes and angiogenic signaling within the pathological tissue.",
+      "Observation of stromal-tumor interactions in endothelial cell activation reveals details about the modulation of blood vessel function within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor endothelial cell activation within the tumor microenvironment."
+    ],
+    "Peritumoral Tissue Oxygenation": [
+      "The histopathology slide illustrates patterns of tissue oxygenation in the peritumoral region.",
+      "Distinct features indicating tissue oxygenation are observable in the slide.",
+      "Observation of peritumoral tissue oxygenation provides insights into the oxygen supply dynamics and hypoxic conditions around the pathological tissue.",
+      "Histopathology image highlighting specific features of peritumoral tissue oxygenation within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Nucleotide Metabolism": [
+      "Distinct features indicating nucleotide metabolism in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of nucleotide processing, providing insights into the metabolic activities and cellular energy dynamics within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tissue nucleotide metabolism reveals details about the molecular processes supporting cell survival within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tissue nucleotide metabolism within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor Margin Neovascularization": [
+      "Distinct features indicating neovascularization at the tumor margin in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of blood vessel formation, providing insights into the angiogenic responses and vascular support within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor margin neovascularization reveals details about the structural changes in blood vessel networks within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor margin neovascularization within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue pH Levels": [
+      "The histopathology slide illustrates patterns of tissue pH levels in stromal-tumor interactions.",
+      "Distinct features indicating tissue pH variations are observable in the slide.",
+      "Observation of stromal-tumor interactions in tissue pH levels provides insights into the acidity or alkalinity conditions and their impact on cellular functions within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor tissue pH levels within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Cell Adhesion Molecules": [
+      "Distinct features indicating cell adhesion molecule expression in stromal-tumor interactions are observable in this histopathology image.",
