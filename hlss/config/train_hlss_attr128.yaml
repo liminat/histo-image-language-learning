@@ -1,0 +1,8 @@
+infra:
+    log_dir: /data1/dri/hlss/hlss/exps/Exp007 # where all the experiments are
+    exp_name: a # create a subdirectory for each set of experiments
+    comment: patient_disc_dev # can use this to customize for each experiment
+    seed: 1000
+data:
+    db_root: /data1/dri/hlss/hlss/datasets/opensrh
+    data_classes : {'Cellularity', 'Nuclear Pleomorphism', 'Vascularity', 'Tissue Architecture', 'Necrosis', 'Cell Infiltration', 'Inflammatory Response', 'Molecular Markers', 'Lipid Content', 'Protein Density', 'Nucleic Acid Presence', 'Cellular Morphology', 'Chemical Composition', 'Microcalcifications', 'Cytoplasmic Inclusions', 'Stromal Components', 'Mit

@@ -2839,3 +2839,331 @@ model:
   "Chemical Component Gradients": [
     "Histopathology image showing gradients in the distribution of chemical components within the tissue.",
     "Tissue with visible gradients in chemical component distribution in the image, indicative of varying concentrations of specific chemical species.",
+    "Gradients in chemical component distribution are evident in the pathology sample, providing insights into variations in chemical composition across the tissue.",
+    "Chemical components exhibit concentration gradients within the tissue in the image."
+  ],
+  "Chemical Component Aggregations": [
+    "Histopathology image illustrating aggregations of specific chemical components within the tissue.",
+    "Tissue with visible aggregations of chemical components in the image, indicative of localized gatherings of specific chemical species.",
+    "Aggregations of chemical components are evident in the pathology sample, highlighting the clustering of certain chemical species within the tissue.",
+    "Specific chemical components aggregate within the tissue in the image."
+  ],
+  "Detection of Metabolic Byproducts": [
+    "Histopathology image showing the identification of metabolic byproducts within the tissue.",
+    "Tissue with visible detection of metabolic byproducts in the image, indicative of identifying substances produced during metabolism.",
+    "Identification of metabolic byproducts is evident in the pathology sample, providing insights into metabolic processes within the tissue.",
+    "Specific metabolic byproducts are detected within the tissue in the image."
+  ],
+  "Differences in Metabolite Concentrations": [
+    "Histopathology image illustrating variations in metabolite concentrations within the tissue.",
+    "Tissue with visible differences in metabolite concentrations in the image, indicative of varying levels of specific metabolites.",
+    "Variations in metabolite concentrations are evident in the pathology sample, highlighting differences in metabolite content across the tissue.",
+    "Metabolite concentrations vary within the tissue in the image."
+  ],
+  "Chemical Component Variation Across Regions": [
+    "Histopathology image showing variations in chemical component distribution across different tissue regions.",
+    "Tissue with visible variations in chemical component distribution across regions in the image, indicative of differences in chemical composition in distinct tissue areas.",
+    "Variations in chemical component distribution across regions are evident in the pathology sample, providing insights into spatial differences in chemical makeup.",
+    "Chemical components exhibit variations across different regions of the tissue in the image."
+  ],
+  "Metabolite-Rich Regions": [
+    "Histopathology image illustrating regions with high concentrations of specific metabolites within the tissue.",
+    "Tissue with visible metabolite-rich regions in the image, indicative of areas with elevated metabolite content.",
+    "Metabolite-rich regions are evident in the pathology sample, highlighting areas of high metabolite concentration.",
+    "Regions with high concentrations of specific metabolites are observed within the tissue in the image."
+  ],
+  "Metabolic Pathway Indicators": [
+    "Histopathology image showing indicators related to specific metabolic pathways within the tissue.",
+    "Tissue with visible indicators related to metabolic pathways in the image, indicative of specific pathway-related markers.",
+    "Indicators related to specific metabolic pathways are evident in the pathology sample, providing insights into metabolic processes within the tissue.",
+    "Specific indicators associated with metabolic pathways are detected within the tissue in the image."
+  ],
+  "Fibrous Tissue Density": [
+    "Histopathology image illustrating variations in the density of fibrous tissue within the tissue.",
+    "Tissue with visible variations in fibrous tissue density in the image, indicative of differences in fibrous tissue concentration.",
+    "Variations in fibrous tissue density are evident in the pathology sample, highlighting differences in fibrous tissue content across the tissue.",
+    "Diversity in fibrous tissue density is observed within the tissue in the image."
+  ],
+  "Collagen Fiber Presence": [
+    "Histopathology image showing the presence and distribution of collagen fibers within the tissue.",
+    "Tissue with visible collagen fiber presence in the image, indicative of the existence of collagen fibers throughout the tissue.",
+    "Presence and distribution of collagen fibers are evident in the pathology sample, highlighting the distribution and arrangement of these fibers within the tissue.",
+    "Collagen fibers are detected within the tissue in the image."
+  ],
+  "Stromal Aggregations": [
+    "Histopathology image illustrating aggregations of stromal components within the tissue.",
+    "Tissue with visible stromal aggregations in the image, indicative of localized gatherings of stromal components.",
+    "Aggregations of stromal components are evident in the pathology sample, highlighting the clustering of stromal components within the tissue.",
+    "Specific stromal components aggregate within the tissue in the image."
+  ],
+  "Stromal Fiber Thickness": [
+    "Histopathology image showing variations in the thickness of stromal fibers within the tissue.",
+    "Tissue with visible variations in stromal fiber thickness in the image, indicative of differences in the thickness of stromal fibers.",
+    "Variations in stromal fiber thickness are evident in the pathology sample, highlighting differences in fiber thickness across the tissue.",
+    "Diversity in stromal fiber thickness is observed within the tissue in the image."
+  ],
+  "Stromal Fiber Morphology": [
+    "Histopathology image illustrating varied shapes and structures of stromal fibers within the tissue.",
+    "Tissue with visible variations in stromal fiber morphology in the image, indicative of diverse shapes and structures of stromal fibers.",
+    "Varied stromal fiber morphology is evident in the pathology sample, showcasing the range of shapes and structures of these fibers within the tissue.",
+    "Different shapes and structures of stromal fibers are observed within the tissue in the image."
+  ],
+  "Stromal Localization Patterns": [
+    "Histopathology image showing patterns in the localization of stromal components within the tissue.",
+    "Tissue with visible stromal localization patterns in the image, indicative of distinct patterns in the distribution of stromal components.",
+    "Patterns in stromal component localization are evident in the pathology sample, providing insights into spatial variations in stromal component positioning within the tissue.",
+    "Specific patterns in the localization of stromal components are detected within the tissue in the image."
+  ],
+  "Stromal Tissue Grading": [
+    "Histopathology image illustrating the grading of the characteristics of stromal tissue within the tissue.",
+    "Tissue with visible stromal tissue grading in the image, indicative of an assessment of the properties and features of stromal tissue.",
+    "Grading of stromal tissue characteristics is evident in the pathology sample, providing insights into the quality and attributes of stromal tissue within the tissue.",
+    "Stromal tissue is graded based on its characteristics within the tissue in the image."
+  ],
+  "Stromal Component Aggregates": [
+    "Histopathology image illustrating aggregations of stromal components within the tissue.",
+    "Tissue with visible stromal component aggregates in the image, indicative of localized gatherings of specific stromal components.",
+    "Aggregations of stromal components are evident in the pathology sample, highlighting the clustering of certain stromal components within the tissue.",
+    "Specific stromal components aggregate within the tissue in the image."
+  ],
+  "Stromal Fiber Distributions": [
+    "Histopathology image showing patterns in the distribution of stromal fibers within the tissue.",
+    "Tissue with visible stromal fiber distributions in the image, indicative of specific arrangements and patterns in the distribution of stromal fibers.",
+    "Patterns in stromal fiber distribution are evident in the pathology sample, providing insights into the organization of stromal fibers within the tissue.",
+    "Stromal fibers exhibit distinct distribution patterns within the tissue in the image."
+  ],
+  "Stromal Component Composition": [
+    "Histopathology image illustrating variations in the types of stromal components within the tissue.",
+    "Tissue with visible variations in stromal component composition in the image, indicative of differences in the types of stromal components present.",
+    "Variations in stromal component composition are evident in the pathology sample, highlighting the diversity of stromal component types within the tissue.",
+    "Different types of stromal components are observed within the tissue in the image."
+  ],
+  "Mitotic Figure Frequency": [
+    "Histopathology image illustrating the frequency of mitotic figures within the tissue.",
+    "Tissue with visible variations in the frequency of mitotic figures in the image, indicative of differences in mitotic figure occurrence.",
+    "Variations in the frequency of mitotic figures are evident in the pathology sample, providing insights into the density of mitotic figures within the tissue.",
+    "The image showcases different frequencies of mitotic figures within the tissue."
+  ],
+  "Mitotic Figure Morphology": [
+    "Histopathology image showing variations in the shapes and structures of mitotic figures.",
+    "Tissue with visible variations in mitotic figure morphology in the image, indicative of diverse shapes and structures of mitotic figures.",
+    "Varied mitotic figure morphology is evident in the pathology sample, showcasing the range of shapes and structures of these figures within the tissue.",
+    "Different shapes and structures of mitotic figures are observed within the tissue in the image."
+  ],
+  "Mitotic Figure Localization": [
+    "Histopathology image illustrating the localization of mitotic figures within tissue regions.",
+    "Tissue with visible mitotic figure localization patterns in the image, indicative of distinct patterns in the distribution of mitotic figures within tissue regions.",
+    "Patterns in mitotic figure localization are evident in the pathology sample, providing insights into spatial variations in mitotic figure positioning within tissue regions.",
+    "Specific patterns in the localization of mitotic figures are detected within the tissue in the image."
+  ],
+  "Mitotic Figure Size": [
+    "Histopathology image showing variation in the size of mitotic figures within the tissue.",
+    "Tissue with visible variations in mitotic figure size in the image, indicative of differences in the size of mitotic figures.",
+    "Variations in mitotic figure size are evident in the pathology sample, highlighting differences in figure dimensions across the tissue.",
+    "Diversity in mitotic figure size is observed within the tissue in the image."
+  ],
+  "Myelin Presence": [
+    "Histopathology image illustrating the presence of myelin within the tissue.",
+    "Tissue with visible presence of myelin in the image, indicating the presence of myelin structures within the tissue.",
+    "The presence of myelin is evident in the pathology sample, highlighting the existence of myelin components within the tissue.",
+    "The image showcases the presence of myelin within the tissue."
+  ],
+  "Myelin Fiber Density": [
+    "Histopathology image showing differences in the density of myelin fibers within the tissue.",
+    "Tissue with visible variations in myelin fiber density in the image, indicative of differences in the concentration of myelin fibers.",
+    "Variations in myelin fiber density are evident in the pathology sample, providing insights into the density of myelin structures within the tissue.",
+    "The image showcases differences in myelin fiber density within the tissue."
+  ],
+  "Myelin Fiber Size": [
+    "Histopathology image illustrating variation in the size of myelin fibers within the tissue.",
+    "Tissue with visible variations in myelin fiber size in the image, indicative of diverse sizes of myelin fibers.",
+    "Varied myelin fiber size is evident in the pathology sample, showcasing the range of sizes of myelin structures within the tissue.",
+    "Different sizes of myelin fibers are observed within the tissue in the image."
+  ],
+  "Myelin Staining Intensity": [
+    "Histopathology image showing differences in the staining intensity of myelin within the tissue.",
+    "Tissue with visible variations in myelin staining intensity in the image, indicative of differences in the color intensity of myelin structures.",
+    "Variations in myelin staining intensity are evident in the pathology sample, highlighting differences in the staining intensity of myelin within the tissue.",
+    "The image showcases variations in myelin staining intensity within the tissue."
+  ]
+  
+}
+data:
+    db_root:  /data1/dri/hidisc/hidisc/datasets/opensrh
+    data_classes : {"Cellularity","Nuclear Pleomorphism","Vascularity","Tissue Architecture","Necrosis","Cell Infiltration",
+    "Inflammatory Response","Molecular Markers","Lipid Content","Protein Density","Nucleic Acid Presence","Cellular Morphology",
+    "Chemical Composition","Microcalcifications","Cytoplasmic Inclusions","Stromal Components","Mitotic Figures","Myelin Content"}
+    backbone: RN50
+    mlp_hidden: []
+    num_embedding_out: 128
+    train_alg: hidisc
+
+    patch : {
+    "Cellularity", "Nuclear Pleomorphism", "Lipid Content", "Protein Density", "Nucleic Acid Presence",
+    "Cellular Morphology", "Microcalcifications", "Cytoplasmic Inclusions", "Mitotic Figures", "Myelin Presence",
+    "Cell Density", "Nuclear Size Variation", "Cell Clustering", "Cell Dispersal", "Cell Border Definition",
+    "Mitotic Activity", "Cell Shape Irregularity", "Nuclear-Cytoplasmic Ratio", "Pleomorphic Cell Types",
+    "Cellular Pleomorphism", "Nuclear Shape Irregularity", "Chromatin Pattern", "Nuclear Membrane Distortion",
+    "Nuclear Grooves", "Hyperchromasia", "Heterogeneity of Nuclei", "Abnormal Nuclear Structure",
+    "Lipid Droplet Presence", "Lipid Droplet Size Variation", "Lipid Droplet Distribution", "Lipid Droplet Morphology",
+    "Lipid-Rich Regions", "Lipid Vacuoles", "Lipid Microdomains", "Lipid Content Grading", "Lipid Inclusions in Cells",
+    "Lipid Droplet Aggregates", "Protein Accumulation in Nuclei", "Perinuclear Protein Patterns", "Protease Digestion Resistance",
+    "Protein Microdomains", "Protein Distribution Gradients", "Protein Cluster Formation", "Protein Aggregates",
+    "Protein Localization Patterns", "Protein Concentration Variability", "DNA Localization", "RNA Localization",
+    "Nucleic Acid Distribution", "DNA-RNA Co-Localization", "Detection of Specific Gene Sequences", "Nucleic Acid Aggregates",
+    "Nucleic Acid-rich Regions", "Nucleic Acid Dot Structures", "Nucleic Acid Inclusions", "Nucleic Acid Staining Patterns",
+    "Chemical Component Diversity", "Specific Molecule Detection", "Metabolite Localization", "Chemical Component Gradients",
+    "Chemical Component Aggregations", "Detection of Metabolic Byproducts", "Differences in Metabolite Concentrations",
+    "Chemical Component Variation Across Regions", "Metabolite-Rich Regions", "Metabolic Pathway Indicators",
+    "Fibrous Tissue Density", "Collagen Fiber Presence", "Stromal Aggregations", "Stromal Fiber Thickness",
+    "Stromal Fiber Morphology", "Stromal Localization Patterns", "Stromal Tissue Grading", "Stromal Component Aggregates",
+    "Stromal Fiber Distributions", "Stromal Component Composition", "Mitotic Figure Frequency", "Mitotic Figure Morphology",
+    "Mitotic Figure Localization", "Mitotic Figure Size", "Myelin Fiber Density", "Myelin Fiber Size", "Myelin Staining Intensity",
+    "Nuclear Pores Presence","Nuclear Folds","Cellular Orientation","Cell Membrane Integrity","Microvilli Presence",
+    "Nuclear Hypersegmentation","Chromosomal Aberrations","Nuclear Body Formation","Cytoplasmic Vacuolization","Cellular Fracturing",
+    "Nuclear Blebbing","Cellular Swelling","Mitochondrial Density","Peroxisome Distribution","Ribosomal Aggregates",
+    "Endoplasmic Reticulum Morphology","Glycogen Granule Presence","Cytoskeleton Arrangement","Nuclear Spindle Formation",
+    "Centrosome Abnormalities","Microtubule Disruptions","Cellular Bridges","Cellular Cannibalism","Nuclear Pseudoinclusions",
+    "Chromosomal Bridges","Cellular Atypia","Nuclear Enlargement","Cytoplasmic Granulation","Nuclear Folding Patterns",
+    "Centriole Duplication","Peroxisomal Aggregations","Ribosomal RNA Localization","Nuclear Chromocenters","Cellular Invaginations",
+    "Nuclear Vacuolization","Golgi Apparatus Integrity","Cytoplasmic Blebbing","Endocytic Vesicle Presence","Lysosomal Accumulation",
+    "Cellular Repulsion","Mitotic Slippage","DNA Damage Foci","Nuclear Malformations","Microtubule Bundles","Chromatin Granularity"
+}
+
+    slide : {
+    "Vascularity", "Tissue Architecture", "Necrosis", "Cell Infiltration", "Inflammatory Response",
+    "Molecular Markers", "Blood Vessel Size", "Blood Vessel Density", "Blood Vessel Morphology", "Vascular Patterning",
+    "Blood Vessel Integrity", "Presence of Angiogenesis", "Vascular Leakage", "Pericyte Coverage", "Vascular Tortuosity",
+    "Hemorrhage", "Geographic Necrosis", "Pseudo-Palisading Necrosis", "Central Necrosis", "Necrotic Patterns", "Apoptotic Bodies",
+    "Lymphocytic Infiltration", "Macrophage Infiltration", "Presence of Neutrophils", "Immune Cell Aggregates",
+    "Inflammatory Patterns", "Presence of Plasma Cells", "Eosinophil Infiltration", "Granulocyte Infiltration",
+    "Inflammatory Cytokine Expression", "Immune Cell Localization", "Genetic Mutations", "Expression of Specific Proteins",
+    "Altered Protein Phosphorylation", "Fusion Genes", "Altered Apoptosis Regulators", "Epigenetic Changes",
+    "Aberrant Protein Phosphorylation", "Presence of Fusion Genes", "Altered Expression of Apoptosis Regulators",
+    "Presence of Specific Molecular Markers", "Tumor Margin Definition","Stromal Infiltration",
+  "Tumor Microenvironment Characteristics","Tumor Border Irregularity","Stromal Matrix Composition",
+  "Extracellular Matrix Features","Cellular Density Gradients","Cellular Organization",
+  "Tumor Stroma Heterogeneity","Stromal Tissue Remodeling","Tumor-Associated Fibroblast Density",
+  "Stromal Inflammatory Infiltration","Tumor-Adjacent Tissue Interaction","Stromal Vascular Support",
+  "Stromal Immune Cell Composition","Tumor-Stromal Interface Patterns","Tumor-Adjacent Tissue Morphology",
+  "Peritumoral Edema","Tumor Margin Smoothness","Tumor Stroma Collagen Distribution",
+  "Stromal Cellularity","Peritumoral Lymphatic Density","Tumor Microenvironment Angiogenesis",
+  "Tumor-Stroma Metabolic Interactions","Tumor-Stroma Signaling Crosstalk","Peritumoral Nerve Infiltration",
+  "Tumor Margin Vascularization","Stromal Lymphatic Network","Peritumoral Fibrosis",
+  "Tumor Microenvironment pH Levels","Tumor Margin Elasticity","Stromal Glycosaminoglycans",
+  "Peritumoral Cytokine Expression","Tumor-Stroma Neurotransmitter Signaling","Tumor Margin Hypoxia Levels",
+  "Stromal Lipid Accumulation","Peritumoral Cellular Stress Response","Tumor Microenvironment Extracellular Vesicles",
+  "Tumor-Stroma Mechanical Properties","Peritumoral Oxidative Stress","Tumor Margin Immune Suppression",
+  "Stromal Fibroblast Activation","Peritumoral Angiocrine Signaling","Tumor-Stroma Growth Factor Interactions",
+  "Tumor Microenvironment Metabolomic Profiles","Peritumoral Stiffness","Tumor Margin Immune Cell Exhaustion",
+  "Stromal Chemokine Gradients","Peritumoral Immune Cell Exhaustion","Tumor-Stroma Autophagy Levels",
+  "Tumor Microenvironment MicroRNA Profiles","Peritumoral Immune Suppressive Factors","Tumor-Stroma Epigenetic Modifications",
+  "Peritumoral Immune Cell Polarization","Tumor-Stroma Extracellular Vesicle Cargo","Tumor Microenvironment Immune Cell Trafficking",
+  "Peritumoral Tissue Necroptosis","Tumor-Stroma Endothelial Cell Activation",
+  "Peritumoral Extracellular Matrix Stiffness","Tumor Margin Neovascularization",
+  "Stromal Tissue Tension","Peritumoral Immune Cell Trafficking Patterns","Tumor-Stroma Lymphatic Drainage",
+  "Tumor Margin Mast Cell Infiltration","Stromal Tissue Innervation","Peritumoral Growth Factor Signaling",
+  "Tumor-Stroma Myeloid Cell Infiltration","Tumor Microenvironment Stromal Cell Proliferation","Peritumoral Tissue Oxygenation",
+  "Tumor-Stroma Natural Killer Cell Activity","Tumor Margin Tissue Perfusion","Stromal Tissue Viscosity",
+  "Peritumoral Immune Cell Metabolism","Tumor-Stroma T Cell Infiltration",
+  "Tumor Margin Collagen Crosslinking","Stromal Matrix Elasticity","Peritumoral Immune Cell Senescence",
+  "Tumor-Stroma Matrix Metalloproteinase Levels","Tumor Microenvironment Cytokine Gradients","Peritumoral Vascular Endothelial Growth Factor",
+  "Tumor-Stroma Chemokine Receptor Expression","Tumor Margin Immune Checkpoint Expression","Stromal Tissue Angiostatic Factors",
+  "Peritumoral Tissue pH Levels","Tumor-Stroma Cell Adhesion Molecules","Tumor Microenvironment Immune Cell Exhaustion",
+  "Peritumoral Tissue Glycoprotein Expression"
+}
+
+    patient : {
+    "Chemical Composition", "Metabolic Pathway Indicators","Tumor Heterogeneity",
+    "Growth Patterns","Satellite Lesions", "Tumor Borders","Vascular Network",
+    "Peritumoral Characteristics","Microenvironment Morphology","Infiltrative Margins",
+    "Tumor Angiogenesis","Necrosis Patterns","Stromal-Tumor Interaction","Vascular Supply",
+    "Cellular Density","Margin Integrity","Immune Response","Vasculature Integrity",
+    "Global Cellularity","Microenvironmental Heterogeneity","Inflammatory Patterns","Margin Perfusion",
+    "Microarchitecture","Stromal-Tumor Crosstalk","Extracellular Matrix","Vascular Permeability",
+    "Microenvironmental Vascularity","Global Proliferation","Margin Collagen Distribution","Immune Infiltration",
+    "Immune Suppression","Apoptosis Levels","Lipid Content","Metabolic Crosstalk",
+    "Protein Expression","Genetic Features","Molecular Signatures","Epigenetic Changes",
+    "Cellular Morphology","Stromal Composition","Lipid Distribution","Nuclear Characteristics",
+    "Stromal-Tumor Fusion Genes","Margin Tissue Differentiation","Nuclear-Cytoplasmic Ratio",
+    "Chemical Diversity","Stromal Fiber Morphology","Stromal Aggregations",
+    "Stromal Fiber Density","Cellular Heterogeneity","Stromal Matrix Integrity","Stromal Matrix Composition",
+    "Stromal Matrix Remodeling","Stromal-Tumor Protein-Protein Interactions","Stromal-Tumor Tumor Margin Vascularization",
+    "Stromal-Tumor Matrix Metalloproteinase Levels","Stromal-Tumor T Cell Infiltration",
+    "Stromal-Tumor Natural Killer Cell Activity", "Stromal-Tumor Immune Cell Trafficking Patterns",
+    "Stromal-Tumor Immune Cell Senescence",
+    "Stromal-Tumor Growth Factor Signaling",
+    "Stromal-Tumor Chemokine Receptor Expression",
+    "Stromal-Tumor Extracellular Vesicle Cargo",
+    "Tumor Margin Immune Checkpoint Expression",
+    "Stromal-Tumor Signaling Crosstalk",
+    "Stromal-Tumor Immune Exhaustion",
+    "Stromal-Tumor Angiocrine Signaling",
+    "Stromal-Tumor Extracellular Matrix Features",
+    "Stromal-Tumor Immune Suppressive Factors",
+    "Stromal-Tumor Extracellular Matrix Stiffness",
+    "Stromal-Tumor Extracellular Matrix Remodeling",
+    "Peritumoral Lymphatic Density",
+    "Stromal-Tumor MicroRNA Profiles",
+    "Stromal-Tumor Epigenetic Modifications",
+    "Stromal-Tumor Immune Cell Trafficking",
+    "Stromal-Tumor Tissue Necroptosis",
+    "Stromal-Tumor Endothelial Cell Activation",
+    "Peritumoral Tissue Oxygenation",
+    "Stromal-Tumor Tissue Nucleotide Metabolism",
+    "Stromal-Tumor Tumor Margin Neovascularization",
+    "Stromal-Tumor Tissue pH Levels",
+    "Stromal-Tumor Cell Adhesion Molecules",
+    "Stromal-Tumor Tissue Tension",
+    "Peritumoral Immune Cell Trafficking Patterns",
+    "Stromal-Tumor Lymphatic Drainage",
+    "Tumor Margin Mast Cell Infiltration",
+    "Stromal-Tumor Tissue Innervation",
+    "Stromal-Tumor Peritumoral Growth Factor Signaling",
+    "Stromal-Tumor Tumor-Stroma Myeloid Cell Infiltration",
+    "Stromal-Tumor Tumor Microenvironment Stromal Cell Proliferation",
+    "Peritumoral Tissue Oxygenation",
+    "Stromal-Tumor Tumor-Stroma Natural Killer Cell Activity",
+    "Tumor Margin Tissue Perfusion",
+    "Stromal-Tumor Tissue Viscosity",
+    "Immune Cell Metabolism",
+    "Tumor-Stroma T Cell Infiltration",
+    "Margin Collagen Crosslinking",
+    "Stromal Matrix Elasticity",
+    "Immune Cell Senescence",
+    "Matrix Metalloproteinase Levels",
+    "Cytokine Gradients",
+    "Vascular Endothelial Growth Factor",
+    "Chemokine Receptor Expression",
+    "Immune Checkpoint Expression",
+    "Tumor-Stroma Growth Factor Interactions",
+    "Immune Cell Exhaustion",
+    "MicroRNA Profiles",
+    "Immune Suppressive Factors",
+    "Epigenetic Modifications",
+    "Immune Cell Polarization",
+    "Extracellular Vesicle Cargo",
+    "Tissue Necroptosis",
+    "Endothelial Cell Activation",
+    "Tissue Oxygenation",
+    "Tissue Nucleotide Metabolism",
+    "Tumor Margin Neovascularization",
+    "Tissue pH Levels",
+    "Cell Adhesion Molecules",
+    "Tissue Tension",
+    "Immune Cell Trafficking Patterns",
+    "Lymphatic Drainage",
+    "Tumor Margin Mast Cell Infiltration",
+    "Tissue Innervation",
+    "Peritumoral Growth Factor Signaling",
+    "Tumor-Stroma Myeloid Cell Infiltration",
+    "Tumor Microenvironment Stromal Cell Proliferation",
+    "Peritumoral Tissue Oxygenation",
+    "Tumor-Stroma Natural Killer Cell Activity", "Tumor Metastasis Risk",
+    "Patient-Specific Molecular Profiles","Tumor Microenvironment Immune Response"
+}
+
+eval:
+    predict_batch_size: 128
+    knn_batch_size: 1024
+    ckpt_dir : 39b699cc-Feb19-05-27-28-patient_disc_dev_/models
