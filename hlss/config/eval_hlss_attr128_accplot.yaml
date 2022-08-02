@@ -1917,3 +1917,925 @@ model:
     ],
     "Stromal-Tumor Cell Adhesion Molecules": [
       "Distinct features indicating cell adhesion molecule expression in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of adhesion molecule presence, providing insights into the cell-to-cell interactions and tissue architecture within the pathological tissue.",
+      "Observation of stromal-tumor interactions in cell adhesion molecules reveals details about the adhesive properties and communication between cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor cell adhesion molecules within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Tension": [
+      "The histopathology slide illustrates patterns of tissue tension in stromal-tumor interactions.",
+      "Distinct features indicating tissue tension variations are observable in the slide.",
+      "Observation of stromal-tumor interactions in tissue tension provides insights into the mechanical forces and structural changes within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor tissue tension within the tumor microenvironment."
+    ],
+    "Peritumoral Immune Cell Trafficking Patterns": [
+      "Distinct features indicating immune cell trafficking patterns in the peritumoral region are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune cell movement, providing insights into the surveillance and immune response dynamics around the pathological tissue.",
+      "Observation of peritumoral immune cell trafficking patterns reveals details about the infiltration and distribution of immune cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral immune cell trafficking patterns within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Lymphatic Drainage": [
+      "The histopathology slide illustrates patterns of lymphatic drainage in stromal-tumor interactions.",
+      "Distinct features indicating lymphatic vessel dynamics are observable in the slide.",
+      "Observation of stromal-tumor interactions in lymphatic drainage provides insights into the fluid dynamics and immune cell trafficking within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor lymphatic drainage within the tumor microenvironment."
+    ],
+    "Tumor Margin Mast Cell Infiltration": [
+      "Distinct features indicating mast cell infiltration at the tumor margin in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of mast cell presence, providing insights into the inflammatory and immune responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor margin mast cell infiltration reveals details about the role of mast cells in the microenvironmental modulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor margin mast cell infiltration within the tumor microenvironment."
+    ],
+     "Stromal-Tumor Tissue Innervation": [
+      "Distinct features indicating tissue innervation in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of nerve presence, providing insights into the neural interactions and signaling within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tissue innervation reveals details about the innervation patterns and their potential impact on tumor growth within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tissue innervation within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Peritumoral Growth Factor Signaling": [
+      "Distinct features indicating peritumoral growth factor signaling in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the signaling cascades and cellular responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in peritumoral growth factor signaling reveals details about the paracrine communication and growth regulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor peritumoral growth factor signaling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor-Stroma Myeloid Cell Infiltration": [
+      "Distinct features indicating myeloid cell infiltration in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of myeloid cell presence, providing insights into the immune responses and inflammatory reactions within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor-stroma myeloid cell infiltration reveals details about the role of myeloid cells in the microenvironmental modulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma myeloid cell infiltration within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor Microenvironment Stromal Cell Proliferation": [
+      "Distinct features indicating stromal cell proliferation in the tumor microenvironment are observable in this histopathology image.",
+      "The slide showcases specific patterns of stromal cell growth, providing insights into the dynamic changes and cellular activity within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor microenvironment stromal cell proliferation reveals details about the stromal response and tissue remodeling within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor microenvironment stromal cell proliferation within the tumor microenvironment."
+    ],
+    "Peritumoral Tissue Oxygenation": [
+      "The histopathology slide illustrates patterns of tissue oxygenation in the peritumoral region.",
+      "Distinct features indicating tissue oxygenation are observable in the slide.",
+      "Observation of peritumoral tissue oxygenation provides insights into the oxygen supply dynamics and hypoxic conditions around the pathological tissue.",
+      "Histopathology image highlighting specific features of peritumoral tissue oxygenation within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor-Stroma Natural Killer Cell Activity": [
+      "Distinct features indicating natural killer cell activity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of natural killer cell presence, providing insights into the anti-tumor immune responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor-stroma natural killer cell activity reveals details about the cytotoxicity and immune surveillance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma natural killer cell activity within the tumor microenvironment."
+    ],
+    "Tumor Margin Tissue Perfusion": [
+      "The histopathology slide illustrates patterns of tissue perfusion at the tumor margin.",
+      "Distinct features indicating variations in tissue perfusion are observable in the slide.",
+      "Observation of tumor margin tissue perfusion provides insights into the blood flow dynamics and nutrient supply around the tumor.",
+      "Histopathology image highlighting specific features of tumor margin tissue perfusion within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Viscosity": [
+      "Distinct features indicating tissue viscosity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of viscosity, providing insights into the physical properties and fluid dynamics within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tissue viscosity reveals details about the extracellular matrix characteristics and stromal composition within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tissue viscosity within the tumor microenvironment."
+    ],
+    "Immune Cell Metabolism": [
+      "The histopathology slide illustrates patterns of immune cell metabolism within the tumor microenvironment.",
+      "Distinct features indicating variations in immune cell metabolic activity are observable in the slide.",
+      "Observation of immune cell metabolism provides insights into the energy demands and functional characteristics of immune cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of immune cell metabolism within the tumor microenvironment."
+    ],
+    "Tumor-Stroma T Cell Infiltration": [
+      "Distinct features indicating T cell infiltration in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of T cell presence, providing insights into the adaptive immune responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in T cell infiltration reveals details about the antitumor immune responses and immune cell distribution within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor T cell infiltration within the tumor microenvironment."
+    ],
+    "Margin Collagen Crosslinking": [
+      "The histopathology slide illustrates patterns of collagen crosslinking at the tumor margin.",
+      "Distinct features indicating variations in collagen crosslinking are observable in the slide.",
+      "Observation of margin collagen crosslinking provides insights into the structural changes and extracellular matrix modifications around the tumor.",
+      "Histopathology image highlighting specific features of margin collagen crosslinking within the tumor microenvironment."
+    ],
+    "Stromal Matrix Elasticity": [
+      "Distinct features indicating stromal matrix elasticity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix elasticity, providing insights into the mechanical properties and flexibility of the stromal matrix within the pathological tissue.",
+      "Observation of stromal-tumor interactions in stromal matrix elasticity reveals details about the physical characteristics and tissue mechanics within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor stromal matrix elasticity within the tumor microenvironment."
+    ],
+    "Immune Cell Senescence": [
+      "Distinct features indicating immune cell senescence are observable in this histopathology image.",
+      "The slide showcases specific patterns of senescent immune cells, providing insights into the aging-related changes and altered functions within the pathological tissue.",
+      "Observation of immune cell senescence reveals details about the immunological aging processes and their impact on the immune surveillance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell senescence within the tumor microenvironment."
+    ],
+    "Matrix Metalloproteinase Levels": [
+      "Distinct features indicating matrix metalloproteinase levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix metalloproteinase expression, providing insights into the extracellular matrix remodeling and tissue degradation within the pathological tissue.",
+      "Observation of matrix metalloproteinase levels reveals details about the proteolytic activities and stromal-tumor interactions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of matrix metalloproteinase levels within the tumor microenvironment."
+    ],
+    "Cytokine Gradients": [
+      "Distinct features indicating cytokine gradients are observable in this histopathology image.",
+      "The slide showcases specific patterns of cytokine distribution, providing insights into the local immune responses and signaling cascades within the pathological tissue.",
+      "Observation of cytokine gradients reveals details about the inflammatory microenvironment and immune cell communication within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of cytokine gradients within the tumor microenvironment."
+    ],
+    "Vascular Endothelial Growth Factor": [
+      "The histopathology slide illustrates patterns of vascular endothelial growth factor expression within the tumor microenvironment.",
+      "Distinct features indicating variations in vascular endothelial growth factor levels are observable in the slide.",
+      "Observation of vascular endothelial growth factor provides insights into the angiogenic processes and blood vessel formation within the pathological tissue.",
+      "Histopathology image highlighting specific features of vascular endothelial growth factor expression within the tumor microenvironment."
+    ],
+    "Chemokine Receptor Expression": [
+      "Distinct features indicating chemokine receptor expression are observable in this histopathology image.",
+      "The slide showcases specific patterns of chemokine receptor presence, providing insights into the chemotactic responses and immune cell recruitment within the pathological tissue.",
+      "Observation of chemokine receptor expression reveals details about the cellular migration patterns and immune cell interactions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of chemokine receptor expression within the tumor microenvironment."
+    ],
+    "Immune Checkpoint Expression": [
+      "Distinct features indicating immune checkpoint expression are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune checkpoint molecules, providing insights into the immune evasion mechanisms and regulatory pathways within the pathological tissue.",
+      "Observation of immune checkpoint expression reveals details about the immune tolerance and adaptive immune resistance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune checkpoint expression within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Growth Factor Interactions": [
+      "Distinct features indicating growth factor interactions between the tumor and stroma are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the paracrine communication and reciprocal signaling within the pathological tissue.",
+      "Observation of tumor-stroma growth factor interactions reveals details about the dynamic crosstalk and growth regulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tumor-stroma growth factor interactions within the tumor microenvironment."
+    ],
+    "Immune Cell Exhaustion": [
+      "Distinct features indicating immune cell exhaustion are observable in this histopathology image.",
+      "The slide showcases specific patterns of exhausted immune cells, providing insights into the immunosuppressive microenvironment and dysfunctional immune responses within the pathological tissue.",
+      "Observation of immune cell exhaustion reveals details about the impaired antitumor immunity and resistance mechanisms within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell exhaustion within the tumor microenvironment."
+    ],
+    "MicroRNA Profiles": [
+      "Distinct features indicating microRNA profiles are observable in this histopathology image.",
+      "The slide showcases specific patterns of microRNA expression, providing insights into the post-transcriptional regulation and molecular signatures within the pathological tissue.",
+      "Observation of microRNA profiles reveals details about the gene expression modulation and regulatory networks within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of microRNA profiles within the tumor microenvironment."
+    ],
+    "Immune Suppressive Factors": [
+      "Distinct features indicating immune suppressive factors are observable in this histopathology image.",
+      "The slide showcases specific patterns of suppressive factor presence, providing insights into the immunosuppressive microenvironment and regulatory mechanisms within the pathological tissue.",
+      "Observation of immune suppressive factors reveals details about the inhibitory signals and tolerance-inducing factors within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune suppressive factors within the tumor microenvironment."
+    ],
+    "Epigenetic Modifications": [
+      "Distinct features indicating epigenetic modifications are observable in this histopathology image.",
+      "The slide showcases specific patterns of epigenetic alterations, providing insights into the heritable changes and gene expression regulation within the pathological tissue.",
+      "Observation of epigenetic modifications reveals details about the chromatin dynamics and molecular events within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of epigenetic modifications within the tumor microenvironment."
+    ],
+    "Immune Cell Polarization": [
+      "Distinct features indicating immune cell polarization are observable in this histopathology image.",
+      "The slide showcases specific patterns of polarized immune cells, providing insights into the functional specialization and diverse effector responses within the pathological tissue.",
+      "Observation of immune cell polarization reveals details about the immune cell plasticity and context-dependent immune functions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell polarization within the tumor microenvironment."
+    ],
+    "Extracellular Vesicle Cargo": [
+      "Distinct features indicating extracellular vesicle cargo are observable in this histopathology image.",
+      "The slide showcases specific patterns of cargo within extracellular vesicles, providing insights into intercellular communication and molecular signaling within the pathological tissue.",
+      "Observation of extracellular vesicle cargo reveals details about the transfer of bioactive molecules and their impact on the microenvironment within the tumor tissue.",
+      "Histopathology image highlighting unique features of extracellular vesicle cargo within the tumor microenvironment."
+    ],
+    "Tissue Necroptosis": [
+      "Distinct features indicating tissue necroptosis are observable in this histopathology image.",
+      "The slide showcases specific patterns of necroptotic cell death, providing insights into the regulated necrosis processes within the pathological tissue.",
+      "Observation of tissue necroptosis reveals details about the inflammatory responses and cell death pathways within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue necroptosis within the tumor microenvironment."
+    ],
+    "Endothelial Cell Activation": [
+      "Distinct features indicating endothelial cell activation are observable in this histopathology image.",
+      "The slide showcases specific patterns of activated endothelial cells, providing insights into the angiogenic responses and blood vessel dynamics within the pathological tissue.",
+      "Observation of endothelial cell activation reveals details about the vascular changes and microvascular architecture within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of endothelial cell activation within the tumor microenvironment."
+    ],
+    "Tissue Oxygenation": [
+      "Distinct features indicating tissue oxygenation levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of oxygen availability, providing insights into the oxygenation status and hypoxia responses within the pathological tissue.",
+      "Observation of tissue oxygenation reveals details about the metabolic conditions and cellular adaptations within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue oxygenation within the tumor microenvironment."
+    ],
+    "Tissue Nucleotide Metabolism": [
+      "Distinct features indicating tissue nucleotide metabolism are observable in this histopathology image.",
+      "The slide showcases specific patterns of nucleotide processing, providing insights into the bioenergetic processes and nucleic acid metabolism within the pathological tissue.",
+      "Observation of tissue nucleotide metabolism reveals details about the cell's energy requirements and molecular synthesis within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue nucleotide metabolism within the tumor microenvironment."
+    ],
+    "Tumor Margin Neovascularization": [
+      "The histopathology slide illustrates patterns of neovascularization at the tumor margin.",
+      "Distinct features indicating variations in neovascularization levels are observable in the slide.",
+      "Observation of tumor margin neovascularization provides insights into the angiogenic processes and blood vessel formation at the periphery of the pathological tissue.",
+      "Histopathology image highlighting specific features of tumor margin neovascularization within the tumor microenvironment."
+    ],
+    "Tissue pH Levels": [
+      "Distinct features indicating tissue pH levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of pH variations, providing insights into the acidic or alkaline microenvironment within the pathological tissue.",
+      "Observation of tissue pH levels reveals details about the metabolic conditions and extracellular acidity within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue pH levels within the tumor microenvironment."
+    ],
+    "Cell Adhesion Molecules": [
+      "Distinct features indicating cell adhesion molecules are observable in this histopathology image.",
+      "The slide showcases specific patterns of adhesion molecule expression, providing insights into cellular interactions and tissue organization within the pathological tissue.",
+      "Observation of cell adhesion molecules reveals details about the adhesive properties and molecular signaling within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of cell adhesion molecules within the tumor microenvironment."
+    ],
+    "Tissue Tension": [
+      "Distinct features indicating tissue tension are observable in this histopathology image.",
+      "The slide showcases specific patterns of mechanical tension, providing insights into the physical forces and tissue mechanics within the pathological tissue.",
+      "Observation of tissue tension reveals details about the structural integrity and mechanical properties within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue tension within the tumor microenvironment."
+    ],
+    "Immune Cell Trafficking Patterns": [
+      "Distinct features indicating immune cell trafficking patterns are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune cell migration, providing insights into the trafficking dynamics and immune surveillance within the pathological tissue.",
+      "Observation of immune cell trafficking patterns reveals details about the movement and distribution of immune cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell trafficking patterns within the tumor microenvironment."
+    ],
+    "Lymphatic Drainage": [
+      "Distinct features indicating lymphatic drainage are observable in this histopathology image.",
+      "The slide showcases specific patterns of lymphatic vessel distribution, providing insights into the drainage pathways and fluid transport within the pathological tissue.",
+      "Observation of lymphatic drainage reveals details about the lymphatic network and its role in the microenvironmental homeostasis within the tumor tissue.",
+      "Histopathology image highlighting unique features of lymphatic drainage within the tumor microenvironment."
+    ],
+    "Tumor Margin Mast Cell Infiltration": [
+      "The histopathology slide illustrates patterns of mast cell infiltration at the tumor margin.",
+      "Distinct features indicating variations in mast cell density are observable in the slide.",
+      "Observation of tumor margin mast cell infiltration provides insights into the immune responses and mast cell involvement at the periphery of the pathological tissue.",
+      "Histopathology image highlighting specific features of tumor margin mast cell infiltration within the tumor microenvironment."
+    ],
+    "Tissue Innervation": [
+      "Distinct features indicating tissue innervation are observable in this histopathology image.",
+      "The slide showcases specific patterns of neural elements, providing insights into the innervation patterns and nerve distribution within the pathological tissue.",
+      "Observation of tissue innervation reveals details about the neural network and its potential impact on tumor growth and microenvironmental responses.",
+      "Histopathology image highlighting unique features of tissue innervation within the tumor microenvironment."
+    ],
+    "Peritumoral Growth Factor Signaling": [
+      "Distinct features indicating peritumoral growth factor signaling are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the signaling dynamics and paracrine interactions within the pathological tissue.",
+      "Observation of peritumoral growth factor signaling reveals details about the communication between tumor cells and the surrounding microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral growth factor signaling within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Myeloid Cell Infiltration": [
+      "Distinct features indicating tumor-stroma myeloid cell infiltration are observable in this histopathology image.",
+      "The slide showcases specific patterns of myeloid cell presence, providing insights into the immune responses and myeloid cell distribution within the pathological tissue.",
+      "Observation of tumor-stroma myeloid cell infiltration reveals details about the interactions between myeloid cells and tumor-stromal components in the microenvironment.",
+      "Histopathology image highlighting unique features of tumor-stroma myeloid cell infiltration within the tumor microenvironment."
+    ],
+    "Tumor Microenvironment Stromal Cell Proliferation": [
+      "Distinct features indicating tumor microenvironment stromal cell proliferation are observable in this histopathology image.",
+      "The slide showcases specific patterns of stromal cell growth, providing insights into the proliferation dynamics and tissue remodeling within the pathological tissue.",
+      "Observation of tumor microenvironment stromal cell proliferation reveals details about the contribution of stromal cells to the overall cellular composition within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tumor microenvironment stromal cell proliferation within the tumor microenvironment."
+    ],
+    "Peritumoral Tissue Oxygenation": [
+      "Distinct features indicating peritumoral tissue oxygenation levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of oxygen availability, providing insights into the oxygenation status and hypoxia responses within the peritumoral tissue.",
+      "Observation of peritumoral tissue oxygenation reveals details about the metabolic conditions and cellular adaptations in the surrounding microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral tissue oxygenation within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Natural Killer Cell Activity": [
+      "Distinct features indicating tumor-stroma natural killer cell activity are observable in this histopathology image.",
+      "The slide showcases specific patterns of natural killer cell presence and activity, providing insights into the immune responses and cytotoxic effects within the tumor-stroma interface.",
+      "Observation of tumor-stroma natural killer cell activity reveals details about the interactions between natural killer cells and tumor-stromal components in the microenvironment.",
+      "Histopathology image highlighting unique features of tumor-stroma natural killer cell activity within the tumor microenvironment."
+    ],
+    "Tumor Metastasis Risk": [
+      "Distinct features indicating the risk of tumor metastasis are evident in this histopathology image.",
+      "The slide reveals specific patterns and characteristics associated with the potential for metastatic spread, providing critical information for prognosis.",
+      "Observation of metastasis risk features helps assess the likelihood of tumor cells spreading to other regions in the body.",
+      "Histopathology image highlighting unique features associated with the risk of tumor metastasis."
+    ],
+    "Patient-Specific Molecular Profiles": [
+      "Distinct features related to patient-specific molecular profiles are observable in this histopathology image.",
+      "The slide showcases molecular patterns unique to the individual patient, allowing for personalized diagnostic insights and treatment strategies.",
+      "Observation of patient-specific molecular profiles provides valuable information for precision medicine and tailored therapeutic approaches.",
+      "Histopathology image highlighting unique molecular signatures specific to the individual patient."
+    ],
+    "Tumor Microenvironment Immune Response": [
+      "Distinct features indicating the immune response within the tumor microenvironment are evident in this histopathology image.",
+      "The slide reveals specific patterns of immune cell infiltration, cytokine expression, and other immune-related characteristics, contributing to the understanding of antitumor immunity.",
+      "Observation of tumor microenvironment immune response features helps assess the dynamic interactions between the immune system and tumor cells.",
+      "Histopathology image highlighting unique features associated with the immune response within the tumor microenvironment."
+    ]
+    }
+
+    templates: {
+    "Cellularity": [
+      "A histopathology slide showing high cellularity.",
+      "Histopathology image of highly cellular tissue.",
+      "Pathology tissue showing high cellularity.",
+      "Presence of highly cellular tissue on the image."
+    ],
+    "Nuclear Pleomorphism": [
+      "Noticeable variation in nuclear size and shape in the histopathology image.",
+      "The histological slide exhibits significant nuclear pleomorphism.",
+      "Presence of nuclear size diversity on the pathology slide.",
+      "High nuclear pleomorphism is evident in the tissue image."
+    ],
+    "Vascularity": [
+      "A histopathology image highlighting prominent vascular patterns.",
+      "The tissue exhibits a well-defined vascular network.",
+      "The presence of distinct blood vessels is visible in the pathology slide.",
+      "Vascularity is a notable feature in the image."
+    ],
+    "Tissue Architecture": [
+      "The histological slide displays organized tissue architecture.",
+      "Tissue structures are clearly defined in the pathology image.",
+      "Distinctive tissue architecture is evident in the tissue sample.",
+      "Tissue organization is a key feature in the image."
+    ],
+    "Necrosis": [
+      "The presence of necrotic regions is visible in the histopathology image.",
+      "Necrosis is apparent in the pathology tissue.",
+      "Notable areas of tissue necrosis are seen in the slide.",
+      "The image displays tissue with visible necrotic changes."
+    ],
+    "Cell Infiltration": [
+      "The histological slide shows extensive cell infiltration into the surrounding tissue.",
+      "Cell invasion is evident in the pathology image.",
+      "Infiltration of tumor cells into healthy tissue is notable in the slide.",
+      "The image reveals extensive cell infiltration."
+    ],
+    "Inflammatory Response": [
+      "An inflammatory response is observed in the histopathology image.",
+      "The presence of inflammatory cells is evident in the pathology tissue.",
+      "The image highlights a clear immune system response.",
+      "Inflammation is a key feature in the tissue image."
+    ],
+    "Molecular Markers": [
+      "The histological slide exhibits distinct molecular markers.",
+      "Presence of specific genetic markers is visible in the pathology image.",
+      "Molecular markers provide valuable information in the tissue sample.",
+      "The image showcases important molecular marker data."
+    ],
+    "Lipid Content": [
+      "The image shows variations in lipid content within the tissue.",
+      "Lipid-rich regions are evident in the histopathology slide.",
+      "Lipid content contributes to the tissue's distinct appearance in the pathology image.",
+      "The tissue displays notable variations in lipid content."
+    ],
+    "Protein Density": [
+      "Protein density is visibly different in various areas of the histological slide.",
+      "The pathology image exhibits variations in protein concentration.",
+      "The tissue's protein density is a prominent feature in the image.",
+      "Protein density varies across the tissue sample."
+    ],
+    "Nucleic Acid Presence": [
+      "The presence of nucleic acids is evident in the histopathology image.",
+      "Distinct Raman peaks indicate the localization of nucleic acids in the pathology tissue.",
+      "The image reveals the presence of DNA and RNA within the tissue.",
+      "Nucleic acids are a notable component of the tissue sample."
+    ],
+    "Cellular Morphology": [
+      "The histological slide provides insights into cellular morphology, including cell size and shape.",
+      "Cellular organization and structure are observable in the pathology image.",
+      "Distinct cell morphologies are evident in the tissue sample.",
+      "Cellular morphology varies across different regions of the image."
+    ],
+    "Chemical Composition": [
+      "The image displays a diverse chemical composition within the tissue.",
+      "Specific chemical components are visually identified in the histopathology slide.",
+      "Chemical composition data is vital for characterizing the tissue in the pathology image.",
+      "Variations in chemical composition are evident throughout the tissue sample."
+    ],
+    "Microcalcifications": [
+      "Microcalcifications are visible as small, bright specks in the histopathology image.",
+      "Distinct microcalcifications are evident in the pathology tissue.",
+      "The image showcases the presence of tiny calcium deposits in the tissue.",
+      "Microcalcifications add a unique feature to the overall appearance of the image."
+    ],
+    "Cytoplasmic Inclusions": [
+      "Cytoplasmic inclusions can be observed within the cells in the histopathology image.",
+      "Distinctive cytoplasmic inclusions are present in the pathology tissue.",
+      "The image reveals abnormal structures within the cell's cytoplasm, known as inclusions.",
+      "Cytoplasmic inclusions contribute to the unique cellular features of the image."
+    ],
+    "Stromal Components": [
+      "The image displays stromal components, including fibrous tissue and collagen fibers.",
+      "Distinct stromal elements are evident in the histopathology slide.",
+      "Stromal components provide important context for the overall tissue structure in the pathology image.",
+      "Variations in stromal components influence the tissue's appearance in different regions of the image."
+    ],
+    "Mitotic Figures": [
+      "Mitotic figures are visible as cells in the process of cell division in the histopathology image.",
+      "The image highlights cells undergoing mitosis in the pathology tissue.",
+      "Mitotic figures contribute to the assessment of tumor growth and aggressiveness in the tissue.",
+      "The presence and frequency of mitotic figures provide valuable insights into the image."
+    ],
+    "Myelin Content": [
+      "The image reveals variations in myelin content within the tissue.",
+      "Distinct myelin-rich regions are observable in the histopathology slide.",
+      "Myelin content contributes to the tissue's distinct appearance in the pathology image.",
+      "Variations in myelin content are evident across the tissue sample."
+  ],
+  "Cell Density": [
+    "Histopathology slide illustrating varying cell densities.",
+    "Image of tissue with differential cell density.",
+    "Pathological tissue displays varying cell densities.",
+    "Presence of diverse cell densities in the image."
+  ],
+  "Nuclear Size Variation": [
+    "Histological slide depicting variation in nuclear sizes.",
+    "Image showcasing diverse nuclear size within the tissue.",
+    "Pathology sample displays notable nuclear size variation.",
+    "Presence of varying nuclear sizes in the image."
+  ],
+  "Cell Clustering": [
+    "Histopathology image showing cell clustering patterns.",
+    "Tissue displaying distinctive cell clustering.",
+    "Clustering of cells in the pathology sample is evident.",
+    "Presence of clustered cells in the image."
+  ],
+  "Cell Dispersal": [
+    "Histological slide illustrating uniform cell dispersal.",
+    "Tissue with even cell distribution in the image.",
+    "Uniform cell dispersal is observed in the pathology sample.",
+    "Presence of evenly dispersed cells in the image."
+  ],
+  "Cell Border Definition": [
+    "Histopathology image displaying clear cell borders.",
+    "Distinct cell border definition in the tissue.",
+    "Pathology sample shows well-defined cell borders.",
+    "Presence of clear cell borders in the image."
+  ],
+  "Mitotic Activity": [
+    "Histological slide illustrating mitotic cell activity.",
+    "Image showing cells in various stages of mitosis.",
+    "Mitotic activity is evident in the pathology sample.",
+    "Presence of cells undergoing mitosis in the image."
+  ],
+  "Cell Shape Irregularity": [
+    "Histopathology image showing irregular cell shapes.",
+    "Tissue with cells exhibiting atypical shapes.",
+    "Cellular irregularities are observed in the pathology sample.",
+    "Presence of cells with irregular shapes in the image."
+  ],
+  "Nuclear-Cytoplasmic Ratio": [
+    "Histological slide depicting variations in nuclear-cytoplasmic ratios.",
+    "Image showing differences in nucleus-to-cytoplasm ratios.",
+    "Nuclear-cytoplasmic ratio variations in the pathology sample.",
+    "Presence of varying nuclear-cytoplasmic ratios in the image."
+  ],
+  "Pleomorphic Cell Types": [
+    "Histopathology image showing pleomorphic cell types.",
+    "Presence of diverse cell types in the tissue.",
+    "Pathology sample displays distinctive pleomorphic cell types.",
+    "Presence of pleomorphic cell types in the image."
+  ],
+  "Cellular Pleomorphism": [
+    "Histological slide illustrating cellular pleomorphism.",
+    "Tissue displaying cellular variation and pleomorphism in the image.",
+    "Cellular pleomorphism is evident in the pathology sample.",
+    "Presence of variable cellular morphology in the image."
+  ],
+  "Nuclear Shape Irregularity": [
+    "Histological slide showing irregular nuclear shapes.",
+    "Tissue with nuclei exhibiting atypical shapes.",
+    "Irregular nuclear shapes are observed in the pathology sample.",
+    "Presence of nuclei with irregular shapes in the image."
+  ],
+  "Chromatin Pattern": [
+    "Histopathology image displaying diverse chromatin patterns.",
+    "Variation in chromatin patterns within the tissue is observed in the image.",
+    "Chromatin pattern differences are evident in the pathology sample.",
+    "Presence of distinct chromatin patterns in the image."
+  ],
+  "Nuclear Membrane Distortion": [
+    "Histological slide illustrating distorted nuclear membranes.",
+    "Tissue with irregularities in nuclear membrane structure in the image.",
+    "Nuclear membrane distortion is observed in the pathology sample.",
+    "Presence of nuclei with distorted nuclear membranes in the image."
+  ],
+  "Nuclear Grooves": [
+    "Histopathology image showing the presence of nuclear grooves.",
+    "Nuclei with distinctive grooves are observed within the tissue in the image.",
+    "Pathology sample displays notable nuclear grooves.",
+    "Presence of nuclei with characteristic grooves in the image."
+  ],
+  "Hyperchromasia": [
+    "Histological slide illustrating hyperchromatic nuclei.",
+    "Tissue with nuclei exhibiting intense chromatin staining in the image.",
+    "Hyperchromasia is evident in the pathology sample.",
+    "Presence of nuclei with intense chromatin staining in the image."
+  ],
+  "Heterogeneity of Nuclei": [
+    "Histopathology image displaying diverse nuclear features.",
+    "Variation in nuclear characteristics within the tissue is observed in the image.",
+    "Heterogeneity of nuclei is evident in the pathology sample.",
+    "Presence of nuclei with varying features in the image."
+  ],
+  "Abnormal Nuclear Structure": [
+    "Histological slide illustrating irregular nuclear structures.",
+    "Tissue with nuclei exhibiting atypical structures in the image.",
+    "Abnormal nuclear structures are observed in the pathology sample.",
+    "Presence of nuclei with irregular structures in the image."
+  ],
+  "Blood Vessel Size": [
+    "Histopathology image showing variations in blood vessel sizes.",
+    "Tissue with blood vessels of differing sizes in the image.",
+    "Blood vessel size variation is evident in the pathology sample.",
+    "Presence of blood vessels with diverse sizes in the image."
+  ],
+  "Blood Vessel Density": [
+    "Histological slide illustrating differences in blood vessel density.",
+    "Variation in the number of blood vessels within the tissue is observed in the image.",
+    "Blood vessel density differences are evident in the pathology sample.",
+    "Presence of areas with varying blood vessel density in the image."
+  ],
+  "Blood Vessel Morphology": [
+    "Histopathology image displaying varied blood vessel shapes and structures.",
+    "Tissue with blood vessels of diverse morphologies in the image.",
+    "Blood vessel morphology differences are evident in the pathology sample.",
+    "Presence of blood vessels with distinct shapes and structures in the image."
+  ],
+  "Vascular Patterning": [
+    "Histological slide illustrating variations in vascular patterns.",
+    "Tissue with differing vascular patterns within the image.",
+    "Vascular pattern differences are evident in the pathology sample.",
+    "Presence of varying vascular patterns in the image."
+  ],
+  "Blood Vessel Integrity": [
+    "Histopathology image showing variations in blood vessel integrity.",
+    "Tissue with blood vessels of varying structural integrity in the image.",
+    "Blood vessel integrity differences are evident in the pathology sample.",
+    "Presence of blood vessels with differing structural integrity in the image."
+  ],
+  "Presence of Angiogenesis": [
+    "Histological slide illustrating the formation of new blood vessels (angiogenesis).",
+    "Tissue with visible angiogenesis within the image.",
+    "Angiogenesis is evident in the pathology sample.",
+    "Presence of newly formed blood vessels (angiogenesis) in the image."
+  ],
+  "Vascular Leakage": [
+    "Histopathology image showing leakage of blood components from vessels.",
+    "Tissue with visible vascular leakage within the image.",
+    "Vascular leakage is evident in the pathology sample.",
+    "Presence of leakage of blood components from vessels in the image."
+  ],
+  "Pericyte Coverage": [
+    "Histopathology image showing the presence and coverage of pericytes in blood vessels within the tissue.",
+    "Tissue with visible pericytes covering blood vessels in the image.",
+    "Pericyte coverage is evident in the pathology sample, highlighting their role in blood vessel support.",
+    "Presence of pericytes and their coverage along blood vessels within the tissue in the image."
+  ],
+  "Vascular Tortuosity": [
+    "Histopathology image showing the twisting or irregular curvature of blood vessels within the tissue.",
+    "Tissue with visible vascular tortuosity patterns in the image.",
+    "Vascular tortuosity is evident in the pathology sample, indicating abnormal blood vessel shapes.",
+    "Presence of twisting or irregularly curved blood vessels within the tissue in the image."
+  ],
+  "Hemorrhage": [
+    "Histopathology image showing the presence of bleeding within or around vessels within the tissue.",
+    "Tissue with visible hemorrhagic areas in the image.",
+    "Hemorrhage is evident in the pathology sample, indicating the occurrence of bleeding in or around vessels.",
+    "Presence of bleeding within or around vessels within the tissue in the image."
+  ],
+  "Geographic Necrosis": [
+    "Histopathology image showing large, geographic regions of necrotic tissue within the pathology sample.",
+    "Tissue with visible extensive necrotic areas in the image, forming a geographic pattern.",
+    "Presence of geographic necrosis is evident in the pathology sample, indicating large regions of cell death.",
+    "Large, geographic regions of necrotic tissue are observed within the tissue in the image."
+  ],
+  "Pseudo-Palisading Necrosis": [
+    "Histopathology image illustrating necrotic areas with a characteristic pseudo-palisading pattern within the tissue.",
+    "Tissue with visible pseudo-palisading necrotic features in the image.",
+    "Presence of pseudo-palisading necrosis is evident in the pathology sample, with necrotic areas arranged in a distinctive pattern.",
+    "Necrotic areas with a pseudo-palisading pattern are observed within the tissue in the image."
+  ],
+  "Central Necrosis": [
+    "Histopathology image showing central areas of cell death within the tissue.",
+    "Tissue with visible central necrotic regions in the image.",
+    "Presence of central necrosis is evident in the pathology sample, indicating cell death at the center of tissue structures.",
+    "Central areas of cell death are observed within the tissue in the image."
+  ],
+  "Necrotic Patterns": [
+    "Histopathology image illustrating patterns and distribution of necrotic regions within the tissue.",
+    "Tissue with visible variations in necrotic patterns and their distribution in the image.",
+    "Necrotic patterns and distribution are evident in the pathology sample, providing insights into tissue changes.",
+    "Presence of distinct patterns and distribution of necrotic regions within the tissue in the image."
+  ],
+  "Apoptotic Bodies": [
+    "Histopathology image showing the presence of apoptotic cells and cellular debris in necrotic areas within the tissue.",
+    "Tissue with visible apoptotic bodies in the image, indicative of cell death processes.",
+    "Presence of apoptotic cells and cellular debris is evident in the pathology sample, particularly within necrotic areas.",
+    "Apoptotic cells and cellular debris are observed within the necrotic regions of the tissue in the image."
+  ],
+  "Lymphocytic Infiltration": [
+    "Histopathology image showing infiltration by lymphocytes as part of an immune response within the tissue.",
+    "Tissue with visible lymphocytic infiltration in the image, indicative of an immune response.",
+    "Presence of lymphocytic infiltration is evident in the pathology sample, highlighting immune cell activity.",
+    "Lymphocytes infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Macrophage Infiltration": [
+    "Histopathology image illustrating infiltration by macrophages as part of an immune response within the tissue.",
+    "Tissue with visible macrophage infiltration in the image, indicative of an immune response.",
+    "Presence of macrophage infiltration is evident in the pathology sample, highlighting the role of macrophages in immune response.",
+    "Macrophages infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Presence of Neutrophils": [
+    "Histopathology image showing infiltration by neutrophils as part of an immune response within the tissue.",
+    "Tissue with visible presence of neutrophils in the image, indicative of an immune response.",
+    "Neutrophil infiltration is evident in the pathology sample, indicating an immune response involving neutrophils.",
+    "Neutrophils infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Immune Cell Aggregates": [
+    "Histopathology image illustrating the clustering of immune cells within the tissue.",
+    "Tissue with visible immune cell aggregates in the image, indicating localized immune cell clustering.",
+    "Presence of immune cell aggregates is evident in the pathology sample, showing immune cells coming together.",
+    "Immune cells form aggregates within the tissue in the image as part of an immune response."
+  ],
+  "Inflammatory Patterns": [
+    "Histopathology image showing patterns in the distribution of inflammatory cells within the tissue.",
+    "Tissue with visible patterns of inflammatory cell distribution in the image, providing insights into inflammation.",
+    "Distinct inflammatory patterns are evident in the pathology sample, highlighting variations in cell distribution.",
+    "Inflammatory cells exhibit specific patterns of distribution within the tissue in the image."
+  ],
+  "Presence of Plasma Cells": [
+    "Histopathology image illustrating infiltration by plasma cells as part of an immune response within the tissue.",
+    "Tissue with visible presence of plasma cells in the image, indicative of an immune response.",
+    "Plasma cell infiltration is evident in the pathology sample, indicating their role in immune response.",
+    "Plasma cells infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Eosinophil Infiltration": [
+    "Histopathology image showing infiltration by eosinophils as part of an immune response within the tissue.",
+    "Tissue with visible eosinophil infiltration in the image, indicative of an immune response.",
+    "Presence of eosinophil infiltration is evident in the pathology sample, highlighting eosinophils' role in an immune response.",
+    "Eosinophils infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Granulocyte Infiltration": [
+    "Histopathology image illustrating infiltration by granulocytes as part of an immune response within the tissue.",
+    "Tissue with visible granulocyte infiltration in the image, indicative of an immune response.",
+    "Presence of granulocyte infiltration is evident in the pathology sample, highlighting the role of granulocytes in immune response.",
+    "Granulocytes infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Inflammatory Cytokine Expression": [
+    "Histopathology image showing the expression of inflammatory cytokines in the tissue.",
+    "Tissue with visible expression of inflammatory cytokines in the image, indicative of an immune response.",
+    "Presence of inflammatory cytokine expression is evident in the pathology sample, indicating immune cell activity and signaling.",
+    "Inflammatory cytokines are expressed within the tissue in the image as part of an immune response."
+  ],
+  "Immune Cell Localization": [
+    "Histopathology image illustrating the localization of immune cells in different regions of the tissue.",
+    "Tissue with visible localization of immune cells in distinct regions in the image, providing insights into immune cell distribution.",
+    "Distinct immune cell localization is evident in the pathology sample, highlighting variations in their presence across the tissue.",
+    "Immune cells are localized in different regions of the tissue in the image as part of an immune response."
+  ],
+  "Genetic Mutations": [
+    "Histopathology image showing the presence of specific genetic mutations or alterations within the tissue.",
+    "Tissue with visible genetic mutations or alterations in the image, indicative of genetic changes.",
+    "Presence of genetic mutations is evident in the pathology sample, highlighting specific alterations in the DNA.",
+    "Specific genetic mutations or alterations are observed within the tissue in the image."
+  ],
+  "Expression of Specific Proteins": [
+    "Histopathology image illustrating aberrant expression of specific proteins or markers within the tissue.",
+    "Tissue with visible aberrant protein expression in the image, indicative of protein expression changes.",
+    "Aberrant expression of specific proteins is evident in the pathology sample, highlighting protein expression anomalies.",
+    "Specific proteins or markers exhibit altered expression within the tissue in the image."
+  ],
+  "Altered Protein Phosphorylation": [
+    "Histopathology image showing changes in the phosphorylation states of proteins within the tissue.",
+    "Tissue with visible alterations in protein phosphorylation states in the image, indicative of phosphorylation changes.",
+    "Changes in protein phosphorylation are evident in the pathology sample, highlighting alterations in protein signaling.",
+    "Proteins within the tissue in the image exhibit changes in their phosphorylation states."
+  ],
+  "Fusion Genes": [
+    "Histopathology image illustrating the detection of fusion genes in the tissue.",
+    "Tissue with visible fusion genes in the image, indicative of gene fusion events.",
+    "Detection of fusion genes is evident in the pathology sample, highlighting gene fusion events in the DNA.",
+    "Fusion genes are observed within the tissue in the image."
+  ],
+  "Altered Apoptosis Regulators": [
+    "Histopathology image showing changes in the expression of apoptosis regulators within the tissue.",
+    "Tissue with visible alterations in the expression of apoptosis regulators in the image, indicative of changes in apoptotic processes.",
+    "Changes in the expression of apoptosis regulators are evident in the pathology sample, highlighting apoptosis-related alterations.",
+    "Apoptosis regulators within the tissue in the image exhibit altered expression."
+  ],
+  "Epigenetic Changes": [
+    "Histopathology image illustrating changes in DNA methylation patterns within the tissue.",
+    "Tissue with visible alterations in DNA methylation patterns in the image, indicative of epigenetic changes.",
+    "Changes in DNA methylation patterns are evident in the pathology sample, highlighting epigenetic modifications.",
+    "Epigenetic changes within the tissue in the image are observed."
+  ],
+  "Aberrant Protein Phosphorylation": [
+    "Histopathology image showing altered protein phosphorylation states within the tissue.",
+    "Tissue with visible aberrant protein phosphorylation in the image, indicative of abnormal protein signaling.",
+    "Altered protein phosphorylation states are evident in the pathology sample, highlighting disruptions in protein phosphorylation.",
+    "Proteins within the tissue in the image exhibit aberrant phosphorylation states."
+  ],
+  "Presence of Fusion Genes": [
+    "Histopathology image illustrating the detection of fusion genes in the tissue.",
+    "Tissue with visible presence of fusion genes in the image, indicative of gene fusion events.",
+    "Detection of fusion genes is evident in the pathology sample, highlighting gene fusion events in the DNA.",
+    "Fusion genes are observed within the tissue in the image."
+  ],
+  "Altered Expression of Apoptosis Regulators": [
+    "Histopathology image showing changes in the expression of apoptosis regulators within the tissue.",
+    "Tissue with visible alterations in the expression of apoptosis regulators in the image, indicative of changes in apoptotic processes.",
+    "Changes in the expression of apoptosis regulators are evident in the pathology sample, highlighting apoptosis-related alterations.",
+    "Apoptosis regulators within the tissue in the image exhibit altered expression."
+  ],
+  "Presence of Specific Molecular Markers": [
+    "Histopathology image illustrating the detection of specific molecular markers or genetic alterations within the tissue.",
+    "Tissue with visible presence of specific molecular markers in the image, indicative of important genetic markers.",
+    "Detection of specific molecular markers is evident in the pathology sample, providing valuable genetic information.",
+    "Specific molecular markers or genetic alterations are observed within the tissue in the image."
+  ],
+  "Lipid Droplet Presence": [
+    "Histopathology image showing the presence of lipid droplets within the tissue.",
+    "Tissue with visible lipid droplet presence in the image, indicative of the presence of lipid inclusions.",
+    "Presence of lipid droplets is evident in the pathology sample, highlighting the accumulation of lipids in the tissue.",
+    "Lipid droplets are observed within the tissue in the image."
+  ],
+  "Lipid Droplet Size Variation": [
+    "Histopathology image illustrating variation in the size of lipid droplets within the tissue.",
+    "Tissue with visible variation in lipid droplet size in the image, indicative of size diversity.",
+    "Variation in the size of lipid droplets is evident in the pathology sample, highlighting the range of droplet sizes.",
+    "Lipid droplets within the tissue in the image exhibit differences in size."
+  ],
+  "Lipid Droplet Distribution": [
+    "Histopathology image showing patterns in the distribution of lipid droplets within the tissue.",
+    "Tissue with visible lipid droplet distribution patterns in the image, indicative of distinct distribution patterns.",
+    "Distinct lipid droplet distribution patterns are evident in the pathology sample, providing insights into their arrangement.",
+    "Lipid droplets within the tissue in the image exhibit specific distribution patterns."
+  ],
+  "Lipid Droplet Morphology": [
+    "Histopathology image illustrating different shapes and structures of lipid droplets within the tissue.",
+    "Tissue with visible variation in lipid droplet morphology in the image, indicative of diverse shapes and structures.",
+    "Different shapes and structures of lipid droplets are evident in the pathology sample, highlighting their morphological diversity.",
+    "Lipid droplets within the tissue in the image exhibit various shapes and structures."
+  ],
+  "Lipid-Rich Regions": [
+    "Histopathology image showing regions of tissue with high lipid content.",
+    "Tissue with visible lipid-rich regions in the image, indicative of areas with elevated lipid content.",
+    "Lipid-rich regions are evident in the pathology sample, highlighting areas of high lipid concentration.",
+    "Regions of tissue with high lipid content are observed within the tissue in the image."
+  ],
+  "Lipid Vacuoles": [
+    "Histopathology image illustrating the presence of lipid-filled vacuoles within the tissue.",
+    "Tissue with visible lipid vacuoles in the image, indicative of the presence of lipid-filled structures.",
+    "Presence of lipid vacuoles is evident in the pathology sample, highlighting lipid-filled cellular compartments.",
+    "Lipid-filled vacuoles are observed within the tissue in the image."
+  ],
+  "Lipid Microdomains": [
+    "Histopathology image showing microscopic regions with distinct lipid composition.",
+    "Tissue with visible lipid microdomains in the image, indicative of regions with unique lipid composition.",
+    "Microscopic regions with distinct lipid composition are evident in the pathology sample, providing insights into lipid distribution.",
+    "Lipid microdomains with specific lipid composition are observed within the tissue in the image."
+  ],
+  "Lipid Content Grading": [
+    "Histopathology image illustrating the grading of lipid content in different areas of the tissue.",
+    "Tissue with visible grading of lipid content in the image, indicative of variations in lipid concentration.",
+    "Grading of lipid content is evident in the pathology sample, highlighting differences in lipid concentration across the tissue.",
+    "Lipid content is graded in different areas within the tissue in the image."
+  ],
+  "Lipid Inclusions in Cells": [
+    "Histopathology image showing the presence of lipid inclusions within cells.",
+    "Tissue with visible lipid inclusions within cells in the image, indicative of lipid storage within cellular structures.",
+    "Presence of lipid inclusions within cells is evident in the pathology sample, highlighting intracellular lipid deposits.",
+    "Lipid inclusions are observed within cells in the tissue in the image."
+  ],
+  "Lipid Droplet Aggregates": [
+    "Histopathology image illustrating the clustering of lipid droplets within the tissue.",
+    "Tissue with visible lipid droplet aggregates in the image, indicative of localized clusters of lipid droplets.",
+    "Clustering of lipid droplets is evident in the pathology sample, showing the aggregation of lipid-rich structures.",
+    "Lipid droplets form aggregates within the tissue in the image."
+  ],
+  "Protein Accumulation in Nuclei": [
+    "Histopathology image showing the accumulation of proteins within cell nuclei.",
+    "Tissue with visible protein accumulation in nuclei in the image, indicative of nuclear protein concentration.",
+    "Accumulation of proteins within cell nuclei is evident in the pathology sample, highlighting nuclear protein content.",
+    "Proteins accumulate within cell nuclei in the tissue in the image."
+  ],
+  "Protein-Rich Vesicles": [
+    "Histopathology image illustrating the presence of vesicles with high protein content within the tissue.",
+    "Tissue with visible protein-rich vesicles in the image, indicative of vesicles with elevated protein levels.",
+    "Presence of vesicles with high protein content is evident in the pathology sample, showing protein-rich vesicular structures.",
+    "Protein-rich vesicles are observed within the tissue in the image."
+  ],
+  "Perinuclear Protein Patterns": [
+    "Histopathology image showing patterns of proteins around the cell nuclei within the tissue.",
+    "Tissue with visible perinuclear protein patterns in the image, indicative of distinctive protein distribution around nuclei.",
+    "Distinct protein patterns around the cell nuclei are evident in the pathology sample, providing insights into perinuclear protein distribution.",
+    "Proteins exhibit specific patterns around the cell nuclei in the tissue in the image."
+  ],
+  "Protease Digestion Resistance": [
+    "Histopathology image illustrating the resistance of proteins to protease digestion within the tissue.",
+    "Tissue with visible protease digestion resistance in the image, indicative of protein stability against enzymatic digestion.",
+    "Resistance of proteins to protease digestion is evident in the pathology sample, highlighting protein stability.",
+    "Proteins within the tissue in the image show resistance to protease digestion."
+  ],
+  "Protein Microdomains": [
+    "Histopathology image showing microscopic regions with high protein density within the tissue.",
+    "Tissue with visible protein microdomains in the image, indicative of regions with elevated protein concentration.",
+    "Microscopic regions with high protein density are evident in the pathology sample, providing insights into localized protein accumulation.",
+    "Protein microdomains with specific protein density are observed within the tissue in the image."
+  ],
+  "Protein Distribution Gradients": [
+    "Histopathology image illustrating gradients in protein concentration within the tissue.",
+    "Tissue with visible protein distribution gradients in the image, indicative of varying protein concentrations.",
+    "Gradients in protein concentration are evident in the pathology sample, highlighting differences in protein density across the tissue.",
+    "Protein concentration varies along gradients within the tissue in the image."
+  ],
+  "Protein Cluster Formation": [
+    "Histopathology image illustrating the formation of protein clusters within cells.",
+    "Tissue with visible protein cluster formation in the image, indicative of intracellular protein aggregation.",
+    "Formation of protein clusters is evident in the pathology sample, showing intracellular protein aggregation.",
+    "Protein clusters form within cells in the tissue in the image."
+  ],
+  "Protein Aggregates": [
+    "Histopathology image showing the aggregation of proteins within the tissue.",
+    "Tissue with visible protein aggregates in the image, indicative of protein aggregation events.",
+    "Aggregation of proteins is evident in the pathology sample, highlighting the presence of protein aggregates.",
+    "Proteins aggregate within the tissue in the image."
+  ],
+  "Protein Localization Patterns": [
+    "Histopathology image illustrating patterns in the subcellular localization of proteins within the tissue.",
+    "Tissue with visible protein localization patterns in the image, indicative of distinct subcellular protein distribution.",
+    "Distinct patterns in the subcellular localization of proteins are evident in the pathology sample, providing insights into protein positioning.",
+    "Proteins exhibit specific localization patterns within the tissue in the image."
+  ],
+  "Protein Concentration Variability": [
+    "Histopathology image showing variations in protein density across different regions of the tissue.",
+    "Tissue with visible protein concentration variability in the image, indicative of fluctuations in protein density.",
+    "Variations in protein density are evident in the pathology sample, highlighting differences in protein concentration across various tissue regions.",
+    "Protein density varies across different regions of the tissue in the image."
+  ],
+  "DNA Localization": [
+    "Histopathology image illustrating the localization of DNA within the tissue.",
+    "Tissue with visible DNA localization in the image, indicative of specific DNA distribution.",
+    "Localization of DNA is evident in the pathology sample, highlighting the presence and positioning of DNA within the tissue.",
+    "DNA is localized within the tissue in the image."
+  ],
+  "RNA Localization": [
+    "Histopathology image showing the localization of RNA within the tissue.",
+    "Tissue with visible RNA localization in the image, indicative of specific RNA distribution.",
+    "Localization of RNA is evident in the pathology sample, highlighting the presence and positioning of RNA within the tissue.",
+    "RNA is localized within the tissue in the image."
+  ],
+  "Nucleic Acid Distribution": [
+    "Histopathology image illustrating patterns of nucleic acid distribution within the tissue.",
+    "Tissue with visible nucleic acid distribution patterns in the image, indicative of distinct nucleic acid arrangement.",
+    "Distinct patterns in nucleic acid distribution are evident in the pathology sample, providing insights into their spatial distribution within the tissue.",
+    "Nucleic acids exhibit specific distribution patterns within the tissue in the image."
+  ],
+  "DNA-RNA Co-Localization": [
+    "Histopathology image showing the co-localization of DNA and RNA in cells within the tissue.",
+    "Tissue with visible DNA-RNA co-localization in the image, indicative of the simultaneous presence of both nucleic acids in cells.",
+    "Co-localization of DNA and RNA is evident in the pathology sample, highlighting the presence of both types of nucleic acids within cells.",
+    "DNA and RNA co-localize within cells in the tissue in the image."
+  ],
+  "Detection of Specific Gene Sequences": [
+    "Histopathology image illustrating the identification of specific gene sequences within the tissue.",
+    "Tissue with visible detection of specific gene sequences in the image, indicative of gene sequence identification.",
+    "Identification of specific gene sequences is evident in the pathology sample, providing insights into genetic information within the tissue.",
+    "Specific gene sequences are detected within the tissue in the image."
+  ],
+  "Nucleic Acid Aggregates": [
+    "Histopathology image showing the aggregation of nucleic acids within the tissue.",
+    "Tissue with visible nucleic acid aggregates in the image, indicative of aggregated nucleic acid structures.",
+    "Aggregation of nucleic acids is evident in the pathology sample, highlighting the presence of nucleic acid aggregates.",
+    "Nucleic acids aggregate within the tissue in the image."
+  ],
+  "Nucleic Acid-rich Regions": [
+    "Histopathology image illustrating regions with high concentrations of nucleic acids within the tissue.",
+    "Tissue with visible nucleic acid-rich regions in the image, indicative of areas with elevated nucleic acid content.",
+    "Nucleic acid-rich regions are evident in the pathology sample, highlighting areas of high nucleic acid concentration.",
+    "Regions with high nucleic acid content are observed within the tissue in the image."
+  ],
+  "Nucleic Acid Dot Structures": [
+    "Histopathology image showing the presence of dot-like nucleic acid structures within the tissue.",
+    "Tissue with visible nucleic acid dot structures in the image, indicative of distinct dot-like nucleic acid features.",
+    "Presence of dot-like nucleic acid structures is evident in the pathology sample, adding unique features to the image.",
+    "Dot-like nucleic acid structures are observed within the tissue in the image."
+  ],
+  "Nucleic Acid Inclusions": [
+    "Histopathology image illustrating inclusions of nucleic acids within cells.",
+    "Tissue with visible nucleic acid inclusions within cells in the image, indicative of nucleic acid storage within cellular structures.",
+    "Inclusions of nucleic acids within cells are evident in the pathology sample, highlighting intracellular nucleic acid deposits.",
+    "Nucleic acid inclusions are observed within cells in the tissue in the image."
+  ],
+  "Nucleic Acid Staining Patterns": [
+    "Histopathology image illustrating patterns in nucleic acid staining within the tissue.",
+    "Tissue with visible nucleic acid staining patterns in the image, indicative of specific staining patterns related to nucleic acids.",
+    "Distinct patterns in nucleic acid staining are evident in the pathology sample, providing insights into staining characteristics within the tissue.",
+    "Nucleic acids exhibit specific staining patterns within the tissue in the image."
+  ],
+  "Chemical Component Diversity": [
+    "Histopathology image illustrating the diversity in the types of chemical components present in the tissue.",
+    "Tissue with visible diversity in chemical components in the image, indicative of a wide range of chemical species.",
+    "Diversity in chemical components is evident in the pathology sample, highlighting a spectrum of chemical species within the tissue.",
+    "Various chemical components with different properties and structures are observed within the tissue in the image."
+  ],
+  "Specific Molecule Detection": [
+    "Histopathology image showing the detection of specific molecules or molecular markers within the tissue.",
+    "Tissue with visible detection of specific molecules in the image, indicative of targeted molecule identification.",
+    "Detection of specific molecules is evident in the pathology sample, providing insights into the presence of distinct molecular markers within the tissue.",
+    "Specific molecules or molecular markers are detected within the tissue in the image."
+  ],
+  "Metabolite Localization": [
+    "Histopathology image illustrating the localization of metabolites within the tissue.",
+    "Tissue with visible metabolite localization in the image, indicative of specific metabolite distribution.",
+    "Localization of metabolites is evident in the pathology sample, highlighting the presence and positioning of metabolites within the tissue.",
+    "Metabolites are localized within the tissue in the image."
+  ],
+  "Chemical Component Gradients": [
+    "Histopathology image showing gradients in the distribution of chemical components within the tissue.",
+    "Tissue with visible gradients in chemical component distribution in the image, indicative of varying concentrations of specific chemical species.",
