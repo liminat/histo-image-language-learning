@@ -91,4 +91,20 @@ model:
       "High nuclear pleomorphism is evident in the tissue image."
     ],
     "Vascularity": [
-      "A h
+      "A histopathology image highlighting prominent vascular patterns.",
+      "The tissue exhibits a well-defined vascular network.",
+      "The presence of distinct blood vessels is visible in the pathology slide.",
+      "Vascularity is a notable feature in the image."
+    ],
+    "Tissue Architecture": [
+      "The histological slide displays organized tissue architecture.",
+      "Tissue structures are clearly defined in the pathology image.",
+      "Distinctive tissue architecture is evident in the tissue sample.",
+      "Tissue organization is a key feature in the image."
+    ],
+    "Necrosis": [
+      "The presence of necrotic regions is visible in the histopathology image.",
+      "Necrosis is apparent in the pathology tissue.",
+      "Notable areas of tissue necrosis are seen in the slide.",
+      "The image displays tissue with visible necrotic changes."
+    ]
