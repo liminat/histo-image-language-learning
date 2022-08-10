@@ -124,4 +124,20 @@ model:
       "The histological slide exhibits distinct molecular markers.",
       "Presence of specific genetic markers is visible in the pathology image.",
       "Molecular markers provide valuable information in the tissue sample.",
-      "The image sh
+      "The image showcases important molecular marker data."
+    ],
+    "Lipid Content": [
+      "The image shows variations in lipid content within the tissue.",
+      "Lipid-rich regions are evident in the histopathology slide.",
+      "Lipid content contributes to the tissue's distinct appearance in the pathology image.",
+      "The tissue displays notable variations in lipid content."
+    ],
+    "Protein Density": [
+      "Protein density is visibly different in various areas of the histological slide.",
+      "The pathology image exhibits variations in protein concentration.",
+      "The tissue's protein density is a prominent feature in the image.",
+      "Protein density varies across the tissue sample."
+    ],
+    "Nucleic Acid Presence": [
+      "The presence of nucleic acids is evident in the histopathology image.",
+      "Distinct Raman peaks indicate the localization of nu
