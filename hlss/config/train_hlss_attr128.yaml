@@ -140,4 +140,20 @@ model:
     ],
     "Nucleic Acid Presence": [
       "The presence of nucleic acids is evident in the histopathology image.",
-      "Distinct Raman peaks indicate the localization of nu
+      "Distinct Raman peaks indicate the localization of nucleic acids in the pathology tissue.",
+      "The image reveals the presence of DNA and RNA within the tissue.",
+      "Nucleic acids are a notable component of the tissue sample."
+    ],
+    "Cellular Morphology": [
+      "The histological slide provides insights into cellular morphology, including cell size and shape.",
+      "Cellular organization and structure are observable in the pathology image.",
+      "Distinct cell morphologies are evident in the tissue sample.",
+      "Cellular morphology varies across different regions of the image."
+    ],
+    "Chemical Composition": [
+      "The image displays a diverse chemical composition within the tissue.",
+      "Specific chemical components are visually identified in the histopathology slide.",
+      "Chemical composition data is vital for characterizing the tissue in the pathology image.",
+      "Variations in chemical composition are evident throughout the tissue sample."
+    ],
+    "Micr
