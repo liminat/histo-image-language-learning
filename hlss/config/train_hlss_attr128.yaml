@@ -170,4 +170,17 @@ model:
     ],
     "Stromal Components": [
       "The image displays stromal components, including fibrous tissue and collagen fibers.",
-      "Distinct stromal elements are evident in th
+      "Distinct stromal elements are evident in the histopathology slide.",
+      "Stromal components provide important context for the overall tissue structure in the pathology image.",
+      "Variations in stromal components influence the tissue's appearance in different regions of the image."
+    ],
+    "Mitotic Figures": [
+      "Mitotic figures are visible as cells in the process of cell division in the histopathology image.",
+      "The image highlights cells undergoing mitosis in the pathology tissue.",
+      "Mitotic figures contribute to the assessment of tumor growth and aggressiveness in the tissue.",
+      "The presence and frequency of mitotic figures provide valuable insights into the image."
+    ],
+    "Myelin Content": [
+      "The image reveals variations in myelin content within the tissue.",
+      "Distinct myelin-rich regions are observable in the histopathology slide.",
+      "Myelin content 
