@@ -183,4 +183,23 @@ model:
     "Myelin Content": [
       "The image reveals variations in myelin content within the tissue.",
       "Distinct myelin-rich regions are observable in the histopathology slide.",
-      "Myelin content 
+      "Myelin content contributes to the tissue's distinct appearance in the pathology image.",
+      "Variations in myelin content are evident across the tissue sample."
+  ],
+  "Cell Density": [
+    "Histopathology slide illustrating varying cell densities.",
+    "Image of tissue with differential cell density.",
+    "Pathological tissue displays varying cell densities.",
+    "Presence of diverse cell densities in the image."
+  ],
+  "Nuclear Size Variation": [
+    "Histological slide depicting variation in nuclear sizes.",
+    "Image showcasing diverse nuclear size within the tissue.",
+    "Pathology sample displays notable nuclear size variation.",
+    "Presence of varying nuclear sizes in the image."
+  ],
+  "Cell Clustering": [
+    "Histopathology image showing cell clustering patterns.",
+    "Tissue displaying distinctive cell clustering.",
+    "Clustering of cells in the pathology sample is evident.",
+    "Presence 
