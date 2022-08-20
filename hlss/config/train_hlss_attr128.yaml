@@ -223,4 +223,23 @@ model:
     "Presence of cells undergoing mitosis in the image."
   ],
   "Cell Shape Irregularity": [
-    "Histopathology image showing irregular cell shape
+    "Histopathology image showing irregular cell shapes.",
+    "Tissue with cells exhibiting atypical shapes.",
+    "Cellular irregularities are observed in the pathology sample.",
+    "Presence of cells with irregular shapes in the image."
+  ],
+  "Nuclear-Cytoplasmic Ratio": [
+    "Histological slide depicting variations in nuclear-cytoplasmic ratios.",
+    "Image showing differences in nucleus-to-cytoplasm ratios.",
+    "Nuclear-cytoplasmic ratio variations in the pathology sample.",
+    "Presence of varying nuclear-cytoplasmic ratios in the image."
+  ],
+  "Pleomorphic Cell Types": [
+    "Histopathology image showing pleomorphic cell types.",
+    "Presence of diverse cell types in the tissue.",
+    "Pathology sample displays distinctive pleomorphic cell types.",
+    "Presence of pleomorphic cell types in the image."
+  ],
+  "Cellular Pleomorphism": [
+    "Histological slide illustrating cellular pleomorphism.",
+    "Tissue displaying cel
