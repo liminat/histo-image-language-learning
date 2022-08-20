@@ -202,4 +202,25 @@ model:
     "Histopathology image showing cell clustering patterns.",
     "Tissue displaying distinctive cell clustering.",
     "Clustering of cells in the pathology sample is evident.",
-    "Presence 
+    "Presence of clustered cells in the image."
+  ],
+  "Cell Dispersal": [
+    "Histological slide illustrating uniform cell dispersal.",
+    "Tissue with even cell distribution in the image.",
+    "Uniform cell dispersal is observed in the pathology sample.",
+    "Presence of evenly dispersed cells in the image."
+  ],
+  "Cell Border Definition": [
+    "Histopathology image displaying clear cell borders.",
+    "Distinct cell border definition in the tissue.",
+    "Pathology sample shows well-defined cell borders.",
+    "Presence of clear cell borders in the image."
+  ],
+  "Mitotic Activity": [
+    "Histological slide illustrating mitotic cell activity.",
+    "Image showing cells in various stages of mitosis.",
+    "Mitotic activity is evident in the pathology sample.",
+    "Presence of cells undergoing mitosis in the image."
+  ],
+  "Cell Shape Irregularity": [
+    "Histopathology image showing irregular cell shape
