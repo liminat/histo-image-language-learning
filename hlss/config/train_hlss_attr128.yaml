@@ -343,4 +343,16 @@ model:
     "Presence of twisting or irregularly curved blood vessels within the tissue in the image."
   ],
   "Hemorrhage": [
-    "Histopathology image showing the p
+    "Histopathology image showing the presence of bleeding within or around vessels within the tissue.",
+    "Tissue with visible hemorrhagic areas in the image.",
+    "Hemorrhage is evident in the pathology sample, indicating the occurrence of bleeding in or around vessels.",
+    "Presence of bleeding within or around vessels within the tissue in the image."
+  ],
+  "Geographic Necrosis": [
+    "Histopathology image showing large, geographic regions of necrotic tissue within the pathology sample.",
+    "Tissue with visible extensive necrotic areas in the image, forming a geographic pattern.",
+    "Presence of geographic necrosis is evident in the pathology sample, indicating large regions of cell death.",
+    "Large, geographic regions of necrotic tissue are observed within the tissue in the image."
+  ],
+  "Pseudo-Palisading Necrosis": [
+    "Histopathology image illustrating necrotic areas with a characteristic pseudo-palisading pattern within the tissue
