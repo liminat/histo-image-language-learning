@@ -368,4 +368,16 @@ model:
   ],
   "Necrotic Patterns": [
     "Histopathology image illustrating patterns and distribution of necrotic regions within the tissue.",
-    "Tissue with visible variations in necrotic patterns and their distribution in the imag
+    "Tissue with visible variations in necrotic patterns and their distribution in the image.",
+    "Necrotic patterns and distribution are evident in the pathology sample, providing insights into tissue changes.",
+    "Presence of distinct patterns and distribution of necrotic regions within the tissue in the image."
+  ],
+  "Apoptotic Bodies": [
+    "Histopathology image showing the presence of apoptotic cells and cellular debris in necrotic areas within the tissue.",
+    "Tissue with visible apoptotic bodies in the image, indicative of cell death processes.",
+    "Presence of apoptotic cells and cellular debris is evident in the pathology sample, particularly within necrotic areas.",
+    "Apoptotic cells and cellular debris are observed within the necrotic regions of the tissue in the image."
+  ],
+  "Lymphocytic Infiltration": [
+    "Histopathology image showing infiltration by lymphocytes as part of an immune response within the tissue.",
+    "Tissue with visible lymphocytic infiltration in the image, indicative of an immune respo
