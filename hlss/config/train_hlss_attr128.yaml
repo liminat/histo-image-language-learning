@@ -355,4 +355,17 @@ model:
     "Large, geographic regions of necrotic tissue are observed within the tissue in the image."
   ],
   "Pseudo-Palisading Necrosis": [
-    "Histopathology image illustrating necrotic areas with a characteristic pseudo-palisading pattern within the tissue
+    "Histopathology image illustrating necrotic areas with a characteristic pseudo-palisading pattern within the tissue.",
+    "Tissue with visible pseudo-palisading necrotic features in the image.",
+    "Presence of pseudo-palisading necrosis is evident in the pathology sample, with necrotic areas arranged in a distinctive pattern.",
+    "Necrotic areas with a pseudo-palisading pattern are observed within the tissue in the image."
+  ],
+  "Central Necrosis": [
+    "Histopathology image showing central areas of cell death within the tissue.",
+    "Tissue with visible central necrotic regions in the image.",
+    "Presence of central necrosis is evident in the pathology sample, indicating cell death at the center of tissue structures.",
+    "Central areas of cell death are observed within the tissue in the image."
+  ],
+  "Necrotic Patterns": [
+    "Histopathology image illustrating patterns and distribution of necrotic regions within the tissue.",
+    "Tissue with visible variations in necrotic patterns and their distribution in the imag
