@@ -380,4 +380,16 @@ model:
   ],
   "Lymphocytic Infiltration": [
     "Histopathology image showing infiltration by lymphocytes as part of an immune response within the tissue.",
-    "Tissue with visible lymphocytic infiltration in the image, indicative of an immune respo
+    "Tissue with visible lymphocytic infiltration in the image, indicative of an immune response.",
+    "Presence of lymphocytic infiltration is evident in the pathology sample, highlighting immune cell activity.",
+    "Lymphocytes infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Macrophage Infiltration": [
+    "Histopathology image illustrating infiltration by macrophages as part of an immune response within the tissue.",
+    "Tissue with visible macrophage infiltration in the image, indicative of an immune response.",
+    "Presence of macrophage infiltration is evident in the pathology sample, highlighting the role of macrophages in immune response.",
+    "Macrophages infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Presence of Neutrophils": [
+    "Histopathology image showing infiltration by neutrophils as part of an immune response within the tissue.",
+    "Tissue with visible presence of neutrophils in the 
