@@ -416,4 +416,16 @@ model:
   ],
   "Eosinophil Infiltration": [
     "Histopathology image showing infiltration by eosinophils as part of an immune response within the tissue.",
-    "Tissue with visible eosinophil infiltration in the image, indicative of an immune r
+    "Tissue with visible eosinophil infiltration in the image, indicative of an immune response.",
+    "Presence of eosinophil infiltration is evident in the pathology sample, highlighting eosinophils' role in an immune response.",
+    "Eosinophils infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Granulocyte Infiltration": [
+    "Histopathology image illustrating infiltration by granulocytes as part of an immune response within the tissue.",
+    "Tissue with visible granulocyte infiltration in the image, indicative of an immune response.",
+    "Presence of granulocyte infiltration is evident in the pathology sample, highlighting the role of granulocytes in immune response.",
+    "Granulocytes infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Inflammatory Cytokine Expression": [
+    "Histopathology image showing the expression of inflammatory cytokines in the tissue.",
+    "Tissue with visible expression of inflammatory cytokines in the image, indicative 
