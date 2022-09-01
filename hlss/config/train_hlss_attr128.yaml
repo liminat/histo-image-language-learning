@@ -428,4 +428,15 @@ model:
   ],
   "Inflammatory Cytokine Expression": [
     "Histopathology image showing the expression of inflammatory cytokines in the tissue.",
-    "Tissue with visible expression of inflammatory cytokines in the image, indicative 
+    "Tissue with visible expression of inflammatory cytokines in the image, indicative of an immune response.",
+    "Presence of inflammatory cytokine expression is evident in the pathology sample, indicating immune cell activity and signaling.",
+    "Inflammatory cytokines are expressed within the tissue in the image as part of an immune response."
+  ],
+  "Immune Cell Localization": [
+    "Histopathology image illustrating the localization of immune cells in different regions of the tissue.",
+    "Tissue with visible localization of immune cells in distinct regions in the image, providing insights into immune cell distribution.",
+    "Distinct immune cell localization is evident in the pathology sample, highlighting variations in their presence across the tissue.",
+    "Immune cells are localized in different regions of the tissue in the image as part of an immune response."
+  ],
+  "Genetic Mutations": [
+    "Histopathology image showing the presence of specific genetic mutations or alterations within the
