@@ -452,4 +452,16 @@ model:
   ],
   "Altered Protein Phosphorylation": [
     "Histopathology image showing changes in the phosphorylation states of proteins within the tissue.",
-   
+    "Tissue with visible alterations in protein phosphorylation states in the image, indicative of phosphorylation changes.",
+    "Changes in protein phosphorylation are evident in the pathology sample, highlighting alterations in protein signaling.",
+    "Proteins within the tissue in the image exhibit changes in their phosphorylation states."
+  ],
+  "Fusion Genes": [
+    "Histopathology image illustrating the detection of fusion genes in the tissue.",
+    "Tissue with visible fusion genes in the image, indicative of gene fusion events.",
+    "Detection of fusion genes is evident in the pathology sample, highlighting gene fusion events in the DNA.",
+    "Fusion genes are observed within the tissue in the image."
+  ],
+  "Altered Apoptosis Regulators": [
+    "Histopathology image showing changes in the expression of apoptosis regulators within the tissue.",
+    "Tissue with
