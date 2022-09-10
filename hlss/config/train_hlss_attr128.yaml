@@ -464,4 +464,15 @@ model:
   ],
   "Altered Apoptosis Regulators": [
     "Histopathology image showing changes in the expression of apoptosis regulators within the tissue.",
-    "Tissue with
+    "Tissue with visible alterations in the expression of apoptosis regulators in the image, indicative of changes in apoptotic processes.",
+    "Changes in the expression of apoptosis regulators are evident in the pathology sample, highlighting apoptosis-related alterations.",
+    "Apoptosis regulators within the tissue in the image exhibit altered expression."
+  ],
+  "Epigenetic Changes": [
+    "Histopathology image illustrating changes in DNA methylation patterns within the tissue.",
+    "Tissue with visible alterations in DNA methylation patterns in the image, indicative of epigenetic changes.",
+    "Changes in DNA methylation patterns are evident in the pathology sample, highlighting epigenetic modifications.",
+    "Epigenetic changes within the tissue in the image are observed."
+  ],
+  "Aberrant Protein Phosphorylation": [
+    "Histopathology image showing altered protein phosphorylatio
