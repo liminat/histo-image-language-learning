@@ -523,4 +523,17 @@ model:
     "Lipid droplets within the tissue in the image exhibit various shapes and structures."
   ],
   "Lipid-Rich Regions": [
-    "Histopathology image showing regions of t
+    "Histopathology image showing regions of tissue with high lipid content.",
+    "Tissue with visible lipid-rich regions in the image, indicative of areas with elevated lipid content.",
+    "Lipid-rich regions are evident in the pathology sample, highlighting areas of high lipid concentration.",
+    "Regions of tissue with high lipid content are observed within the tissue in the image."
+  ],
+  "Lipid Vacuoles": [
+    "Histopathology image illustrating the presence of lipid-filled vacuoles within the tissue.",
+    "Tissue with visible lipid vacuoles in the image, indicative of the presence of lipid-filled structures.",
+    "Presence of lipid vacuoles is evident in the pathology sample, highlighting lipid-filled cellular compartments.",
+    "Lipid-filled vacuoles are observed within the tissue in the image."
+  ],
+  "Lipid Microdomains": [
+    "Histopathology image showing microscopic regions with distinct lipid composition.",
+    "Tissue with visible lipid microdomains in the image, indicative of regions with
