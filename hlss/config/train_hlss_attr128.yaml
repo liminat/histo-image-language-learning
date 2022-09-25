@@ -667,4 +667,13 @@ model:
     "Dot-like nucleic acid structures are observed within the tissue in the image."
   ],
   "Nucleic Acid Inclusions": [
-    "Histopat
+    "Histopathology image illustrating inclusions of nucleic acids within cells.",
+    "Tissue with visible nucleic acid inclusions within cells in the image, indicative of nucleic acid storage within cellular structures.",
+    "Inclusions of nucleic acids within cells are evident in the pathology sample, highlighting intracellular nucleic acid deposits.",
+    "Nucleic acid inclusions are observed within cells in the tissue in the image."
+  ],
+  "Nucleic Acid Staining Patterns": [
+    "Histopathology image illustrating patterns in nucleic acid staining within the tissue.",
+    "Tissue with visible nucleic acid staining patterns in the image, indicative of specific staining patterns related to nucleic acids.",
+    "Distinct patterns in nucleic acid staining are evident in the pathology sample, providing insights into staining characteristics within the tissue.",
+    "Nucleic acids exhibit specific staining patterns within the tissue in 
