@@ -687,4 +687,16 @@ model:
   "Specific Molecule Detection": [
     "Histopathology image showing the detection of specific molecules or molecular markers within the tissue.",
     "Tissue with visible detection of specific molecules in the image, indicative of targeted molecule identification.",
-    "Detection of specific molecules is evident in the pathology sample, providing insights into the presence of distinct molecular markers within 
+    "Detection of specific molecules is evident in the pathology sample, providing insights into the presence of distinct molecular markers within the tissue.",
+    "Specific molecules or molecular markers are detected within the tissue in the image."
+  ],
+  "Metabolite Localization": [
+    "Histopathology image illustrating the localization of metabolites within the tissue.",
+    "Tissue with visible metabolite localization in the image, indicative of specific metabolite distribution.",
+    "Localization of metabolites is evident in the pathology sample, highlighting the presence and positioning of metabolites within the tissue.",
+    "Metabolites are localized within the tissue in the image."
+  ],
+  "Chemical Component Gradients": [
+    "Histopathology image showing gradients in the distribution of chemical components within the tissue.",
+    "Tissue with visible gradients in chemical component distribution in the image, indicative of varying concentrations of specific chemical species.",
+    "Gradients in chemical component distribution are 
