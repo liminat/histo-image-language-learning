@@ -699,4 +699,15 @@ model:
   "Chemical Component Gradients": [
     "Histopathology image showing gradients in the distribution of chemical components within the tissue.",
     "Tissue with visible gradients in chemical component distribution in the image, indicative of varying concentrations of specific chemical species.",
-    "Gradients in chemical component distribution are 
+    "Gradients in chemical component distribution are evident in the pathology sample, providing insights into variations in chemical composition across the tissue.",
+    "Chemical components exhibit concentration gradients within the tissue in the image."
+  ],
+  "Chemical Component Aggregations": [
+    "Histopathology image illustrating aggregations of specific chemical components within the tissue.",
+    "Tissue with visible aggregations of chemical components in the image, indicative of localized gatherings of specific chemical species.",
+    "Aggregations of chemical components are evident in the pathology sample, highlighting the clustering of certain chemical species within the tissue.",
+    "Specific chemical components aggregate within the tissue in the image."
+  ],
+  "Detection of Metabolic Byproducts": [
+    "Histopathology image showing the identification of metabolic byproducts within the tissue.",
+    "Tissue with visible detection of metabolic byproducts in the image, ind
