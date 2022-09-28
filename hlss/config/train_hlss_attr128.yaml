@@ -710,4 +710,15 @@ model:
   ],
   "Detection of Metabolic Byproducts": [
     "Histopathology image showing the identification of metabolic byproducts within the tissue.",
-    "Tissue with visible detection of metabolic byproducts in the image, ind
+    "Tissue with visible detection of metabolic byproducts in the image, indicative of identifying substances produced during metabolism.",
+    "Identification of metabolic byproducts is evident in the pathology sample, providing insights into metabolic processes within the tissue.",
+    "Specific metabolic byproducts are detected within the tissue in the image."
+  ],
+  "Differences in Metabolite Concentrations": [
+    "Histopathology image illustrating variations in metabolite concentrations within the tissue.",
+    "Tissue with visible differences in metabolite concentrations in the image, indicative of varying levels of specific metabolites.",
+    "Variations in metabolite concentrations are evident in the pathology sample, highlighting differences in metabolite content across the tissue.",
+    "Metabolite concentrations vary within the tissue in the image."
+  ],
+  "Chemical Component Variation Across Regions": [
+    "Histopathology image showing variations in chemical component distribution across different tissue regions.",
