@@ -722,3 +722,12 @@ model:
   ],
   "Chemical Component Variation Across Regions": [
     "Histopathology image showing variations in chemical component distribution across different tissue regions.",
+    "Tissue with visible variations in chemical component distribution across regions in the image, indicative of differences in chemical composition in distinct tissue areas.",
+    "Variations in chemical component distribution across regions are evident in the pathology sample, providing insights into spatial differences in chemical makeup.",
+    "Chemical components exhibit variations across different regions of the tissue in the image."
+  ],
+  "Metabolite-Rich Regions": [
+    "Histopathology image illustrating regions with high concentrations of specific metabolites within the tissue.",
+    "Tissue with visible metabolite-rich regions in the image, indicative of areas with elevated metabolite content.",
+    "Metabolite-rich regions are evident in the pathology sample, highlighting areas of high metabolite concentration.",
+    "Regions 
