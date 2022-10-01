@@ -741,4 +741,15 @@ model:
   "Fibrous Tissue Density": [
     "Histopathology image illustrating variations in the density of fibrous tissue within the tissue.",
     "Tissue with visible variations in fibrous tissue density in the image, indicative of differences in fibrous tissue concentration.",
-    "Variations i
+    "Variations in fibrous tissue density are evident in the pathology sample, highlighting differences in fibrous tissue content across the tissue.",
+    "Diversity in fibrous tissue density is observed within the tissue in the image."
+  ],
+  "Collagen Fiber Presence": [
+    "Histopathology image showing the presence and distribution of collagen fibers within the tissue.",
+    "Tissue with visible collagen fiber presence in the image, indicative of the existence of collagen fibers throughout the tissue.",
+    "Presence and distribution of collagen fibers are evident in the pathology sample, highlighting the distribution and arrangement of these fibers within the tissue.",
+    "Collagen fibers are detected within the tissue in the image."
+  ],
+  "Stromal Aggregations": [
+    "Histopathology image illustrating aggregations of stromal components within the tissue.",
+    "Tissue with visible stromal aggregations in the im
