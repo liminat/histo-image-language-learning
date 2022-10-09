@@ -825,4 +825,15 @@ model:
   "Myelin Presence": [
     "Histopathology image illustrating the presence of myelin within the tissue.",
     "Tissue with visible presence of myelin in the image, indicating the presence of myelin structures within the tissue.",
-    "The presence of myelin is 
+    "The presence of myelin is evident in the pathology sample, highlighting the existence of myelin components within the tissue.",
+    "The image showcases the presence of myelin within the tissue."
+  ],
+  "Myelin Fiber Density": [
+    "Histopathology image showing differences in the density of myelin fibers within the tissue.",
+    "Tissue with visible variations in myelin fiber density in the image, indicative of differences in the concentration of myelin fibers.",
+    "Variations in myelin fiber density are evident in the pathology sample, providing insights into the density of myelin structures within the tissue.",
+    "The image showcases differences in myelin fiber density within the tissue."
+  ],
+  "Myelin Fiber Size": [
+    "Histopathology image illustrating variation in the size of myelin fibers within the tissue.",
+    "Tissue with visible variations in myelin fiber size in the image, indicative of diverse sizes of 
