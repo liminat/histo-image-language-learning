@@ -836,4 +836,22 @@ model:
   ],
   "Myelin Fiber Size": [
     "Histopathology image illustrating variation in the size of myelin fibers within the tissue.",
-    "Tissue with visible variations in myelin fiber size in the image, indicative of diverse sizes of 
+    "Tissue with visible variations in myelin fiber size in the image, indicative of diverse sizes of myelin fibers.",
+    "Varied myelin fiber size is evident in the pathology sample, showcasing the range of sizes of myelin structures within the tissue.",
+    "Different sizes of myelin fibers are observed within the tissue in the image."
+  ],
+  "Myelin Staining Intensity": [
+    "Histopathology image showing differences in the staining intensity of myelin within the tissue.",
+    "Tissue with visible variations in myelin staining intensity in the image, indicative of differences in the color intensity of myelin structures.",
+    "Variations in myelin staining intensity are evident in the pathology sample, highlighting differences in the staining intensity of myelin within the tissue.",
+    "The image showcases variations in myelin staining intensity within the tissue."
+  ]
+  
+}
+
+training:
+    objective:
+        which: hidisc
+        params:
+            lambda_patient: 1.0
+            lambda_slide: 1.0
