@@ -855,3 +855,19 @@ training:
         params:
             lambda_patient: 1.0
             lambda_slide: 1.0
+            lambda_patch: 1.0
+            supcon_params:
+                temperature: 0.07
+                base_temperature: 0.07
+                contrast_mode: all
+    batch_size: 32
+    num_epochs: 40000
+    optimizer: adamw # [sgd, adam, adamw]
+    learn_rate: 1.0e-3
+    scheduler:
+        which: cos_warmup
+        params:
+            num_warmup_steps: 0.1
+            num_cycles: 0.5
+    imagenet_backbone_checkpoint: null
+    eval_ckpt_ep_freq: 400
