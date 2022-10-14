@@ -18,4 +18,12 @@ data:
     "Lipid Droplet Aggregates", "Protein Accumulation in Nuclei", "Perinuclear Protein Patterns", "Protease Digestion Resistance",
     "Protein Microdomains", "Protein Distribution Gradients", "Protein Cluster Formation", "Protein Aggregates",
     "Protein Localization Patterns", "Protein Concentration Variability", "DNA Localization", "RNA Localization",
-    "Nucleic Acid Distribution", "DNA-RNA Co-Localization", "Det
+    "Nucleic Acid Distribution", "DNA-RNA Co-Localization", "Detection of Specific Gene Sequences", "Nucleic Acid Aggregates",
+    "Nucleic Acid-rich Regions", "Nucleic Acid Dot Structures", "Nucleic Acid Inclusions", "Nucleic Acid Staining Patterns",
+    "Chemical Component Diversity", "Specific Molecule Detection", "Metabolite Localization", "Chemical Component Gradients",
+    "Chemical Component Aggregations", "Detection of Metabolic Byproducts", "Differences in Metabolite Concentrations",
+    "Chemical Component Variation Across Regions", "Metabolite-Rich Regions", "Metabolic Pathway Indicators",
+    "Fibrous Tissue Density", "Collagen Fiber Presence", "Stromal Aggregations", "Stromal Fiber Thickness",
+    "Stromal Fiber Morphology", "Stromal Localization Patterns", "Stromal Tissue Grading", "Stromal Component Aggregates",
+    "Stromal Fiber Distributions", "Stromal Component Composition", "Mitotic Figure Frequency", "Mitotic Figure Morphology",
+   
