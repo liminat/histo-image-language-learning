@@ -10,4 +10,12 @@ data:
     "Cellularity", "Nuclear Pleomorphism", "Lipid Content", "Protein Density", "Nucleic Acid Presence",
     "Cellular Morphology", "Microcalcifications", "Cytoplasmic Inclusions", "Mitotic Figures", "Myelin Presence",
     "Cell Density", "Nuclear Size Variation", "Cell Clustering", "Cell Dispersal", "Cell Border Definition",
-   
+    "Mitotic Activity", "Cell Shape Irregularity", "Nuclear-Cytoplasmic Ratio", "Pleomorphic Cell Types",
+    "Cellular Pleomorphism", "Nuclear Shape Irregularity", "Chromatin Pattern", "Nuclear Membrane Distortion",
+    "Nuclear Grooves", "Hyperchromasia", "Heterogeneity of Nuclei", "Abnormal Nuclear Structure",
+    "Lipid Droplet Presence", "Lipid Droplet Size Variation", "Lipid Droplet Distribution", "Lipid Droplet Morphology",
+    "Lipid-Rich Regions", "Lipid Vacuoles", "Lipid Microdomains", "Lipid Content Grading", "Lipid Inclusions in Cells",
+    "Lipid Droplet Aggregates", "Protein Accumulation in Nuclei", "Perinuclear Protein Patterns", "Protease Digestion Resistance",
+    "Protein Microdomains", "Protein Distribution Gradients", "Protein Cluster Formation", "Protein Aggregates",
+    "Protein Localization Patterns", "Protein Concentration Variability", "DNA Localization", "RNA Localization",
+    "Nucleic Acid Distribution", "DNA-RNA Co-Localization", "Det
