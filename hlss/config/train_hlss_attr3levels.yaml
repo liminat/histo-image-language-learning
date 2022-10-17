@@ -33,4 +33,15 @@ data:
     "Endoplasmic Reticulum Morphology","Glycogen Granule Presence","Cytoskeleton Arrangement","Nuclear Spindle Formation",
     "Centrosome Abnormalities","Microtubule Disruptions","Cellular Bridges","Cellular Cannibalism","Nuclear Pseudoinclusions",
     "Chromosomal Bridges","Cellular Atypia","Nuclear Enlargement","Cytoplasmic Granulation","Nuclear Folding Patterns",
-    "Centriole Duplication","Peroxisomal Aggregations","Ribosomal RNA Localization","Nuclear Chromocent
+    "Centriole Duplication","Peroxisomal Aggregations","Ribosomal RNA Localization","Nuclear Chromocenters","Cellular Invaginations",
+    "Nuclear Vacuolization","Golgi Apparatus Integrity","Cytoplasmic Blebbing","Endocytic Vesicle Presence","Lysosomal Accumulation",
+    "Cellular Repulsion","Mitotic Slippage","DNA Damage Foci","Nuclear Malformations","Microtubule Bundles","Chromatin Granularity"
+}
+
+    slide : {
+    "Vascularity", "Tissue Architecture", "Necrosis", "Cell Infiltration", "Inflammatory Response",
+    "Molecular Markers", "Blood Vessel Size", "Blood Vessel Density", "Blood Vessel Morphology", "Vascular Patterning",
+    "Blood Vessel Integrity", "Presence of Angiogenesis", "Vascular Leakage", "Pericyte Coverage", "Vascular Tortuosity",
+    "Hemorrhage", "Geographic Necrosis", "Pseudo-Palisading Necrosis", "Central Necrosis", "Necrotic Patterns", "Apoptotic Bodies",
+    "Lymphocytic Infiltration", "Macrophage Infiltration", "Presence of Neutrophils", "Immune Cell Aggregates",
+    "Inflammatory Patterns", "Prese
