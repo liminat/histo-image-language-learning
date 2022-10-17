@@ -26,4 +26,11 @@ data:
     "Fibrous Tissue Density", "Collagen Fiber Presence", "Stromal Aggregations", "Stromal Fiber Thickness",
     "Stromal Fiber Morphology", "Stromal Localization Patterns", "Stromal Tissue Grading", "Stromal Component Aggregates",
     "Stromal Fiber Distributions", "Stromal Component Composition", "Mitotic Figure Frequency", "Mitotic Figure Morphology",
-   
+    "Mitotic Figure Localization", "Mitotic Figure Size", "Myelin Fiber Density", "Myelin Fiber Size", "Myelin Staining Intensity",
+    "Nuclear Pores Presence","Nuclear Folds","Cellular Orientation","Cell Membrane Integrity","Microvilli Presence",
+    "Nuclear Hypersegmentation","Chromosomal Aberrations","Nuclear Body Formation","Cytoplasmic Vacuolization","Cellular Fracturing",
+    "Nuclear Blebbing","Cellular Swelling","Mitochondrial Density","Peroxisome Distribution","Ribosomal Aggregates",
+    "Endoplasmic Reticulum Morphology","Glycogen Granule Presence","Cytoskeleton Arrangement","Nuclear Spindle Formation",
+    "Centrosome Abnormalities","Microtubule Disruptions","Cellular Bridges","Cellular Cannibalism","Nuclear Pseudoinclusions",
+    "Chromosomal Bridges","Cellular Atypia","Nuclear Enlargement","Cytoplasmic Granulation","Nuclear Folding Patterns",
+    "Centriole Duplication","Peroxisomal Aggregations","Ribosomal RNA Localization","Nuclear Chromocent
