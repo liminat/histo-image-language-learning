@@ -62,4 +62,13 @@ data:
   "Peritumoral Cytokine Expression","Tumor-Stroma Neurotransmitter Signaling","Tumor Margin Hypoxia Levels",
   "Stromal Lipid Accumulation","Peritumoral Cellular Stress Response","Tumor Microenvironment Extracellular Vesicles",
   "Tumor-Stroma Mechanical Properties","Peritumoral Oxidative Stress","Tumor Margin Immune Suppression",
-  "Stromal Fi
+  "Stromal Fibroblast Activation","Peritumoral Angiocrine Signaling","Tumor-Stroma Growth Factor Interactions",
+  "Tumor Microenvironment Metabolomic Profiles","Peritumoral Stiffness","Tumor Margin Immune Cell Exhaustion",
+  "Stromal Chemokine Gradients","Peritumoral Immune Cell Exhaustion","Tumor-Stroma Autophagy Levels",
+  "Tumor Microenvironment MicroRNA Profiles","Peritumoral Immune Suppressive Factors","Tumor-Stroma Epigenetic Modifications",
+  "Peritumoral Immune Cell Polarization","Tumor-Stroma Extracellular Vesicle Cargo","Tumor Microenvironment Immune Cell Trafficking",
+  "Peritumoral Tissue Necroptosis","Tumor-Stroma Endothelial Cell Activation",
+  "Peritumoral Extracellular Matrix Stiffness","Tumor Margin Neovascularization",
+  "Stromal Tissue Tension","Peritumoral Immune Cell Trafficking Patterns","Tumor-Stroma Lymphatic Drainage",
+  "Tumor Margin Mast Cell Infiltration","Stromal Tissue Innervation","Peritumoral Growth Factor Signaling",
+  "Tumor-Stroma Myeloid C
