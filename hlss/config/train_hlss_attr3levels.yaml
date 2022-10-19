@@ -52,4 +52,14 @@ data:
   "Tumor Microenvironment Characteristics","Tumor Border Irregularity","Stromal Matrix Composition",
   "Extracellular Matrix Features","Cellular Density Gradients","Cellular Organization",
   "Tumor Stroma Heterogeneity","Stromal Tissue Remodeling","Tumor-Associated Fibroblast Density",
-  "Stromal Inflammatory Infiltration","Tumor-Adjacent Tissue Interaction","Stromal Vascular Suppo
+  "Stromal Inflammatory Infiltration","Tumor-Adjacent Tissue Interaction","Stromal Vascular Support",
+  "Stromal Immune Cell Composition","Tumor-Stromal Interface Patterns","Tumor-Adjacent Tissue Morphology",
+  "Peritumoral Edema","Tumor Margin Smoothness","Tumor Stroma Collagen Distribution",
+  "Stromal Cellularity","Peritumoral Lymphatic Density","Tumor Microenvironment Angiogenesis",
+  "Tumor-Stroma Metabolic Interactions","Tumor-Stroma Signaling Crosstalk","Peritumoral Nerve Infiltration",
+  "Tumor Margin Vascularization","Stromal Lymphatic Network","Peritumoral Fibrosis",
+  "Tumor Microenvironment pH Levels","Tumor Margin Elasticity","Stromal Glycosaminoglycans",
+  "Peritumoral Cytokine Expression","Tumor-Stroma Neurotransmitter Signaling","Tumor Margin Hypoxia Levels",
+  "Stromal Lipid Accumulation","Peritumoral Cellular Stress Response","Tumor Microenvironment Extracellular Vesicles",
+  "Tumor-Stroma Mechanical Properties","Peritumoral Oxidative Stress","Tumor Margin Immune Suppression",
+  "Stromal Fi
