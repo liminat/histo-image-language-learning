@@ -71,4 +71,15 @@ data:
   "Peritumoral Extracellular Matrix Stiffness","Tumor Margin Neovascularization",
   "Stromal Tissue Tension","Peritumoral Immune Cell Trafficking Patterns","Tumor-Stroma Lymphatic Drainage",
   "Tumor Margin Mast Cell Infiltration","Stromal Tissue Innervation","Peritumoral Growth Factor Signaling",
-  "Tumor-Stroma Myeloid C
+  "Tumor-Stroma Myeloid Cell Infiltration","Tumor Microenvironment Stromal Cell Proliferation","Peritumoral Tissue Oxygenation",
+  "Tumor-Stroma Natural Killer Cell Activity","Tumor Margin Tissue Perfusion","Stromal Tissue Viscosity",
+  "Peritumoral Immune Cell Metabolism","Tumor-Stroma T Cell Infiltration",
+  "Tumor Margin Collagen Crosslinking","Stromal Matrix Elasticity","Peritumoral Immune Cell Senescence",
+  "Tumor-Stroma Matrix Metalloproteinase Levels","Tumor Microenvironment Cytokine Gradients","Peritumoral Vascular Endothelial Growth Factor",
+  "Tumor-Stroma Chemokine Receptor Expression","Tumor Margin Immune Checkpoint Expression","Stromal Tissue Angiostatic Factors",
+  "Peritumoral Tissue pH Levels","Tumor-Stroma Cell Adhesion Molecules","Tumor Microenvironment Immune Cell Exhaustion",
+  "Peritumoral Tissue Glycoprotein Expression"
+}
+
+    patient : {
+    "Chemical Composition", "Metabolic Pat
