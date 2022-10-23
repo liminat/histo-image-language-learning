@@ -82,4 +82,14 @@ data:
 }
 
     patient : {
-    "Chemical Composition", "Metabolic Pat
+    "Chemical Composition", "Metabolic Pathway Indicators","Tumor Heterogeneity",
+    "Growth Patterns","Satellite Lesions", "Tumor Borders","Vascular Network",
+    "Peritumoral Characteristics","Microenvironment Morphology","Infiltrative Margins",
+    "Tumor Angiogenesis","Necrosis Patterns","Stromal-Tumor Interaction","Vascular Supply",
+    "Cellular Density","Margin Integrity","Immune Response","Vasculature Integrity",
+    "Global Cellularity","Microenvironmental Heterogeneity","Inflammatory Patterns","Margin Perfusion",
+    "Microarchitecture","Stromal-Tumor Crosstalk","Extracellular Matrix","Vascular Permeability",
+    "Microenvironmental Vascularity","Global Proliferation","Margin Collagen Distribution","Immune Infiltration",
+    "Immune Suppression","Apoptosis Levels","Lipid Content","Metabolic Crosstalk",
+    "Protein Expression","Genetic Features","Molecular Signatures","Epigenetic Changes",
+    "Cellular Morphology","Stromal Composition","
