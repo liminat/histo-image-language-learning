@@ -92,4 +92,16 @@ data:
     "Microenvironmental Vascularity","Global Proliferation","Margin Collagen Distribution","Immune Infiltration",
     "Immune Suppression","Apoptosis Levels","Lipid Content","Metabolic Crosstalk",
     "Protein Expression","Genetic Features","Molecular Signatures","Epigenetic Changes",
-    "Cellular Morphology","Stromal Composition","
+    "Cellular Morphology","Stromal Composition","Lipid Distribution","Nuclear Characteristics",
+    "Stromal-Tumor Fusion Genes","Margin Tissue Differentiation","Nuclear-Cytoplasmic Ratio",
+    "Chemical Diversity","Stromal Fiber Morphology","Stromal Aggregations",
+    "Stromal Fiber Density","Cellular Heterogeneity","Stromal Matrix Integrity","Stromal Matrix Composition",
+    "Stromal Matrix Remodeling","Stromal-Tumor Protein-Protein Interactions","Stromal-Tumor Tumor Margin Vascularization",
+    "Stromal-Tumor Matrix Metalloproteinase Levels","Stromal-Tumor T Cell Infiltration",
+    "Stromal-Tumor Natural Killer Cell Activity", "Stromal-Tumor Immune Cell Trafficking Patterns",
+    "Stromal-Tumor Immune Cell Senescence",
+    "Stromal-Tumor Growth Factor Signaling",
+    "Stromal-Tumor Chemokine Receptor Expression",
+    "Stromal-Tumor Extracellular Vesicle Cargo",
+    "Tumor Margin Immune Checkpoint Expression",
+    "Stromal-Tum
