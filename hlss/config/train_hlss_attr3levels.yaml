@@ -148,4 +148,31 @@ data:
     "Immune Cell Exhaustion",
     "MicroRNA Profiles",
     "Immune Suppressive Factors",
-    "Epigenetic Modificat
+    "Epigenetic Modifications",
+    "Immune Cell Polarization",
+    "Extracellular Vesicle Cargo",
+    "Tissue Necroptosis",
+    "Endothelial Cell Activation",
+    "Tissue Oxygenation",
+    "Tissue Nucleotide Metabolism",
+    "Tumor Margin Neovascularization",
+    "Tissue pH Levels",
+    "Cell Adhesion Molecules",
+    "Tissue Tension",
+    "Immune Cell Trafficking Patterns",
+    "Lymphatic Drainage",
+    "Tumor Margin Mast Cell Infiltration",
+    "Tissue Innervation",
+    "Peritumoral Growth Factor Signaling",
+    "Tumor-Stroma Myeloid Cell Infiltration",
+    "Tumor Microenvironment Stromal Cell Proliferation",
+    "Peritumoral Tissue Oxygenation",
+    "Tumor-Stroma Natural Killer Cell Activity", "Tumor Metastasis Risk",
+    "Patient-Specific Molecular Profiles","Tumor Microenvironment Immune Response"
+}
+    train_augmentation:
+        - which: random_horiz_flip
+          params: {}
+        - which: random_vert_flip
+          params: {}
+        - which: gaussian_
