@@ -262,4 +262,17 @@ model:
       'Protein Density': [
       'Protein density is visibly different in various areas of the histological slide.',
       'The pathology image exhibits variations in protein concentration.', 
-      "The tissue's protein de
+      "The tissue's protein density is a prominent feature in the image.",
+      'Protein density varies across the tissue sample.'],
+      'Nucleic Acid Presence': [
+      'The presence of nucleic acids is evident in the histopathology image.',
+      'Distinct Raman peaks indicate the localization of nucleic acids in the pathology tissue.', 
+      'The image reveals the presence of DNA and RNA within the tissue.', 
+      'Nucleic acids are a notable component of the tissue sample.'],
+      'Cellular Morphology': [
+      'The histological slide provides insights into cellular morphology, including cell size and shape.', 
+      'Cellular organization and structure are observable in the pathology image.', 
+      'Distinct cell morphologies are evident in the tissue sample.', 
+      'Cellular morphology varies across different regions of the image.'], 
+      'Microcalcifications': [
+      'Microcalcifications are visible as s
