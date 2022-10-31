@@ -211,4 +211,38 @@ data:
           params: {}
         - which: random_autocontrast
           params: {}
-        - which: ra
+        - which: random_solarize
+          params:
+            threshold: 0.2
+        - which: random_sharpness
+          params:
+            sharpness_factor: 2
+        - which: gaussian_blur
+          params:
+            kernel_size: 5
+            sigma: 1
+        - which: random_affine
+          params:
+            degrees: 10
+            translate: [0.1, 0.3]
+        - which: random_resized_crop
+          params:
+            size: 224
+        - which: random_erasing
+          params: {}
+    rand_aug_prob: 0.3
+    hidisc:
+        num_slide_samples: 2
+        num_patch_samples: 2
+        num_transforms: 2
+    balance_study_per_class: true
+model:
+    backbone: RN50
+    mlp_hidden: []
+    num_embedding_out: 128
+
+    patch_templates : {'Cellularity': [
+      'A histopathology slide showing high cellularity.', 
+      'Histopathology image of highly cellular tissue.', 
+      'Pathology tissue showing high cellularity.', 
+      'Presence of highly cellular tissue o
