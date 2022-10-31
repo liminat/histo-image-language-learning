@@ -245,4 +245,21 @@ model:
       'A histopathology slide showing high cellularity.', 
       'Histopathology image of highly cellular tissue.', 
       'Pathology tissue showing high cellularity.', 
-      'Presence of highly cellular tissue o
+      'Presence of highly cellular tissue on the image.'
+      ], 
+      'Nuclear Pleomorphism': [
+      'Noticeable variation in nuclear size and shape in the histopathology image.',
+      'The histological slide exhibits significant nuclear pleomorphism.',
+      'Presence of nuclear size diversity on the pathology slide.', 
+      'High nuclear pleomorphism is evident in the tissue image.'
+      ],
+      'Lipid Content': [
+      'The image shows variations in lipid content within the tissue.',
+      'Lipid-rich regions are evident in the histopathology slide.', 
+      "Lipid content contributes to the tissue's distinct appearance in the pathology image.",
+      'The tissue displays notable variations in lipid content.'
+      ],
+      'Protein Density': [
+      'Protein density is visibly different in various areas of the histological slide.',
+      'The pathology image exhibits variations in protein concentration.', 
+      "The tissue's protein de
