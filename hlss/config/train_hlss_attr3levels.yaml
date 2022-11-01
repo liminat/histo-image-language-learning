@@ -275,4 +275,16 @@ model:
       'Distinct cell morphologies are evident in the tissue sample.', 
       'Cellular morphology varies across different regions of the image.'], 
       'Microcalcifications': [
-      'Microcalcifications are visible as s
+      'Microcalcifications are visible as small, bright specks in the histopathology image.', 
+      'Distinct microcalcifications are evident in the pathology tissue.', 
+      'The image showcases the presence of tiny calcium deposits in the tissue.', 
+      'Microcalcifications add a unique feature to the overall appearance of the image.'],
+      'Cytoplasmic Inclusions': [
+      'Cytoplasmic inclusions can be observed within the cells in the histopathology image.', 
+      'Distinctive cytoplasmic inclusions are present in the pathology tissue.', 
+      "The image reveals abnormal structures within the cell's cytoplasm, known as inclusions.", 
+      'Cytoplasmic inclusions contribute to the unique cellular features of the image.'], 
+      'Mitotic Figures': [
+      'Mitotic figures are visible as cells in the process of cell division in the histopathology image.', 
+      'The image highlights cells undergoing mitosis in the pathology tissue.', 
+      'Mitotic figu
