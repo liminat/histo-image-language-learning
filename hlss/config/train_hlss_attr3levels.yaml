@@ -287,4 +287,17 @@ model:
       'Mitotic Figures': [
       'Mitotic figures are visible as cells in the process of cell division in the histopathology image.', 
       'The image highlights cells undergoing mitosis in the pathology tissue.', 
-      'Mitotic figu
+      'Mitotic figures contribute to the assessment of tumor growth and aggressiveness in the tissue.', 
+      'The presence and frequency of mitotic figures provide valuable insights into the image.'], 
+      'Myelin Presence': [
+      'Histopathology image illustrating the presence of myelin within the tissue.', 
+      'Tissue with visible presence of myelin in the image, indicating the presence of myelin structures within the tissue.', 
+      'The presence of myelin is evident in the pathology sample, highlighting the existence of myelin components within the tissue.', 
+      'The image showcases the presence of myelin within the tissue.'], 
+      'Cell Density': [
+      'Histopathology slide illustrating varying cell densities.', 
+      'Image of tissue with differential cell density.', 
+      'Pathological tissue displays varying cell densities.', 
+      'Presence of diverse cell densities in the image.'], 
+      'Nuclear Size Variation': [
+      'Histological slide d
