@@ -300,4 +300,21 @@ model:
       'Pathological tissue displays varying cell densities.', 
       'Presence of diverse cell densities in the image.'], 
       'Nuclear Size Variation': [
-      'Histological slide d
+      'Histological slide depicting variation in nuclear sizes.', 
+      'Image showcasing diverse nuclear size within the tissue.', 
+      'Pathology sample displays notable nuclear size variation.', 
+      'Presence of varying nuclear sizes in the image.'], 
+      'Cell Clustering': [
+      'Histopathology image showing cell clustering patterns.', 
+      'Tissue displaying distinctive cell clustering.', 
+      'Clustering of cells in the pathology sample is evident.', 
+      'Presence of clustered cells in the image.'], 
+      'Cell Dispersal': [
+      'Histological slide illustrating uniform cell dispersal.', 
+      'Tissue with even cell distribution in the image.', 
+      'Uniform cell dispersal is observed in the pathology sample.', 
+      'Presence of evenly dispersed cells in the image.'], 
+      'Cell Border Definition': [
+      'Histopathology image displaying clear cell borders.', 
+      'Distinct cell border definition in the tissue.', 
+      'Pathology sample shows well-defined cell border
