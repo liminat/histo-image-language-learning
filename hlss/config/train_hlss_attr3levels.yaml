@@ -365,4 +365,17 @@ model:
       'Pathology sample displays notable nuclear grooves.', 
       'Presence of nuclei with characteristic grooves in the image.'], 
       'Hyperchromasia': [
-      'Histologica
+      'Histological slide illustrating hyperchromatic nuclei.', 
+      'Tissue with nuclei exhibiting intense chromatin staining in the image.', 
+      'Hyperchromasia is evident in the pathology sample.', 
+      'Presence of nuclei with intense chromatin staining in the image.'], 
+      'Heterogeneity of Nuclei': [
+      'Histopathology image displaying diverse nuclear features.', 
+      'Variation in nuclear characteristics within the tissue is observed in the image.', 
+      'Heterogeneity of nuclei is evident in the pathology sample.', 
+      'Presence of nuclei with varying features in the image.'], 
+      'Abnormal Nuclear Structure': [
+      'Histological slide illustrating irregular nuclear structures.', 
+      'Tissue with nuclei exhibiting atypical structures in the image.', 
+      'Abnormal nuclear structures are observed in the pathology sample.', 
+      'Presence of nuclei with irregular structures in
