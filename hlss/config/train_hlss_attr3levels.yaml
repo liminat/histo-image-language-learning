@@ -378,4 +378,15 @@ model:
       'Histological slide illustrating irregular nuclear structures.', 
       'Tissue with nuclei exhibiting atypical structures in the image.', 
       'Abnormal nuclear structures are observed in the pathology sample.', 
-      'Presence of nuclei with irregular structures in
+      'Presence of nuclei with irregular structures in the image.'], 
+      'Lipid Droplet Presence': [
+      'Histopathology image showing the presence of lipid droplets within the tissue.', 
+      'Tissue with visible lipid droplet presence in the image, indicative of the presence of lipid inclusions.', 
+      'Presence of lipid droplets is evident in the pathology sample, highlighting the accumulation of lipids in the tissue.', 
+      'Lipid droplets are observed within the tissue in the image.'], 
+      'Lipid Droplet Size Variation': [
+      'Histopathology image illustrating variation in the size of lipid droplets within the tissue.', 
+      'Tissue with visible variation in lipid droplet size in the image, indicative of size diversity.', 
+      'Variation in the size of lipid droplets is evident in the pathology sample, highlighting the range of droplet sizes.', 
+      'Lipid droplets within the tissue in the image exhibit differences in size.'], 
+      'Lipid Droplet Dist
