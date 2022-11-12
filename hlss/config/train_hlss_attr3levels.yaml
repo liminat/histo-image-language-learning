@@ -389,4 +389,13 @@ model:
       'Tissue with visible variation in lipid droplet size in the image, indicative of size diversity.', 
       'Variation in the size of lipid droplets is evident in the pathology sample, highlighting the range of droplet sizes.', 
       'Lipid droplets within the tissue in the image exhibit differences in size.'], 
-      'Lipid Droplet Dist
+      'Lipid Droplet Distribution': [
+      'Histopathology image showing patterns in the distribution of lipid droplets within the tissue.', 
+      'Tissue with visible lipid droplet distribution patterns in the image, indicative of distinct distribution patterns.', 
+      'Distinct lipid droplet distribution patterns are evident in the pathology sample, providing insights into their arrangement.', 
+      'Lipid droplets within the tissue in the image exhibit specific distribution patterns.'], 
+      'Lipid Droplet Morphology': [
+      'Histopathology image illustrating different shapes and structures of lipid droplets within the tissue.', 
+      'Tissue with visible variation in lipid droplet morphology in the image, indicative of diverse shapes and structures.', 
+      'Different shapes and structures of lipid droplets are evident in the pathology sample, highlighting their morphological diversity.', 
+      'Lipid droplets within the tissue in the image exhibit various shapes and st
