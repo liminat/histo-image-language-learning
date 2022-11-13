@@ -408,4 +408,15 @@ model:
       'Histopathology image illustrating the presence of lipid-filled vacuoles within the tissue.', 
       'Tissue with visible lipid vacuoles in the image, indicative of the presence of lipid-filled structures.', 
       'Presence of lipid vacuoles is evident in the pathology sample, highlighting lipid-filled cellular compartments.', 
-      'Lipid-filled vacuoles are observed within the tissue in th
+      'Lipid-filled vacuoles are observed within the tissue in the image.'], 
+      'Lipid Microdomains': [
+      'Histopathology image showing microscopic regions with distinct lipid composition.', 
+      'Tissue with visible lipid microdomains in the image, indicative of regions with unique lipid composition.', 
+      'Microscopic regions with distinct lipid composition are evident in the pathology sample, providing insights into lipid distribution.', 
+      'Lipid microdomains with specific lipid composition are observed within the tissue in the image.'], 
+      'Lipid Content Grading': [
+      'Histopathology image illustrating the grading of lipid content in different areas of the tissue.', 
+      'Tissue with visible grading of lipid content in the image, indicative of variations in lipid concentration.', 
+      'Grading of lipid content is evident in the pathology sample, highlighting differences in lipid concentration across the tissue.', 
+      'Lipid content is graded in different areas within the tissue in the image.'], 
+ 
