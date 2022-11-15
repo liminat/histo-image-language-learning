@@ -419,4 +419,13 @@ model:
       'Tissue with visible grading of lipid content in the image, indicative of variations in lipid concentration.', 
       'Grading of lipid content is evident in the pathology sample, highlighting differences in lipid concentration across the tissue.', 
       'Lipid content is graded in different areas within the tissue in the image.'], 
- 
+      'Lipid Inclusions in Cells': [
+      'Histopathology image showing the presence of lipid inclusions within cells.', 
+      'Tissue with visible lipid inclusions within cells in the image, indicative of lipid storage within cellular structures.', 
+      'Presence of lipid inclusions within cells is evident in the pathology sample, highlighting intracellular lipid deposits.', 
+      'Lipid inclusions are observed within cells in the tissue in the image.'], 
+      'Lipid Droplet Aggregates': [
+      'Histopathology image illustrating the clustering of lipid droplets within the tissue.', 
+      'Tissue with visible lipid droplet aggregates in the image, indicative of localized clusters of lipid droplets.', 
+      'Clustering of lipid droplets is evident in the pathology sample, showing the aggregation of lipid-rich structures.', 
+      'Lipid droplets form aggregates within the tissue 
