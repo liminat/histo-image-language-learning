@@ -448,4 +448,13 @@ model:
       'Histopathology image showing microscopic regions with high protein density within the tissue.', 
       'Tissue with visible protein microdomains in the image, indicative of regions with elevated protein concentration.', 
       'Microscopic regions with high protein density are evident in the pathology sample, providing insights into localized protein accumulation.', 
-      'Protein 
+      'Protein microdomains with specific protein density are observed within the tissue in the image.'], 
+      'Protein Distribution Gradients': [
+      'Histopathology image illustrating gradients in protein concentration within the tissue.', 
+      'Tissue with visible protein distribution gradients in the image, indicative of varying protein concentrations.', 
+      'Gradients in protein concentration are evident in the pathology sample, highlighting differences in protein density across the tissue.', 
+      'Protein concentration varies along gradients within the tissue in the image.'], 
+      'Protein Cluster Formation': [
+      'Histopathology image illustrating the formation of protein clusters within cells.', 
+      'Tissue with visible protein cluster formation in the image, indicative of intracellular protein aggregation.', 
+      'Formation of protein clusters is evident in the pa
