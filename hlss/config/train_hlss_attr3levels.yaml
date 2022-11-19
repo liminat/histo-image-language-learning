@@ -457,4 +457,14 @@ model:
       'Protein Cluster Formation': [
       'Histopathology image illustrating the formation of protein clusters within cells.', 
       'Tissue with visible protein cluster formation in the image, indicative of intracellular protein aggregation.', 
-      'Formation of protein clusters is evident in the pa
+      'Formation of protein clusters is evident in the pathology sample, showing intracellular protein aggregation.', 
+      'Protein clusters form within cells in the tissue in the image.'], 
+      'Protein Aggregates': [
+      'Histopathology image showing the aggregation of proteins within the tissue.', 
+      'Tissue with visible protein aggregates in the image, indicative of protein aggregation events.', 
+      'Aggregation of proteins is evident in the pathology sample, highlighting the presence of protein aggregates.', 
+      'Proteins aggregate within the tissue in the image.'], 
+      'Protein Localization Patterns': [
+      'Histopathology image illustrating patterns in the subcellular localization of proteins within the tissue.', 
+      'Tissue with visible protein localization patterns in the image, indicative of distinct subcellular protein distribution.', 
+      'Distinct patterns in the subcellular localization of proteins are evident in the
