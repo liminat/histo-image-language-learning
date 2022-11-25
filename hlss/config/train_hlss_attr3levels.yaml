@@ -477,4 +477,14 @@ model:
       'DNA Localization': [
       'Histopathology image illustrating the localization of DNA within the tissue.', 
       'Tissue with visible DNA localization in the image, indicative of specific DNA distribution.', 
-      
+      'Localization of DNA is evident in the pathology sample, highlighting the presence and positioning of DNA within the tissue.', 
+      'DNA is localized within the tissue in the image.'], 
+      'RNA Localization': [
+      'Histopathology image showing the localization of RNA within the tissue.', 
+      'Tissue with visible RNA localization in the image, indicative of specific RNA distribution.', 
+      'Localization of RNA is evident in the pathology sample, highlighting the presence and positioning of RNA within the tissue.', 
+      'RNA is localized within the tissue in the image.'], 
+      'Nucleic Acid Distribution': [
+      'Histopathology image illustrating patterns of nucleic acid distribution within the tissue.', 
+      'Tissue with visible nucleic acid distribution patterns in the image, indicative of distinct nucleic acid arrangement.', 
+      'Distinct patterns in nucleic acid distribution are evident in the pat
