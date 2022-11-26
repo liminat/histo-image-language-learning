@@ -507,4 +507,13 @@ model:
       'Nucleic Acid-rich Regions': [
       'Histopathology image illustrating regions with high concentrations of nucleic acids within the tissue.', 
       'Tissue with visible nucleic acid-rich regions in the image, indicative of areas with elevated nucleic acid content.', 
-      'Nucleic acid-ri
+      'Nucleic acid-rich regions are evident in the pathology sample, highlighting areas of high nucleic acid concentration.', 
+      'Regions with high nucleic acid content are observed within the tissue in the image.'], 
+      'Nucleic Acid Dot Structures': [
+      'Histopathology image showing the presence of dot-like nucleic acid structures within the tissue.', 
+      'Tissue with visible nucleic acid dot structures in the image, indicative of distinct dot-like nucleic acid features.', 
+      'Presence of dot-like nucleic acid structures is evident in the pathology sample, adding unique features to the image.', 
+      'Dot-like nucleic acid structures are observed within the tissue in the image.'], 
+      'Nucleic Acid Inclusions': [
+      'Histopathology image illustrating inclusions of nucleic acids within cells.', 
+      'Tissue with visible nucleic acid inclusions within cells in the image, indicative of nucleic acid storage 
