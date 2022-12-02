@@ -525,4 +525,12 @@ model:
       'Distinct patterns in nucleic acid staining are evident in the pathology sample, providing insights into staining characteristics within the tissue.', 
       'Nucleic acids exhibit specific staining patterns within the tissue in the image.'], 
       'Chemical Component Diversity': [
-      'Histopathology image illustrating the diversity in the types of chemical components present in the ti
+      'Histopathology image illustrating the diversity in the types of chemical components present in the tissue.', 
+      'Tissue with visible diversity in chemical components in the image, indicative of a wide range of chemical species.', 
+      'Diversity in chemical components is evident in the pathology sample, highlighting a spectrum of chemical species within the tissue.', 
+      'Various chemical components with different properties and structures are observed within the tissue in the image.'], 
+      'Specific Molecule Detection': [
+      'Histopathology image showing the detection of specific molecules or molecular markers within the tissue.', 
+      'Tissue with visible detection of specific molecules in the image, indicative of targeted molecule identification.', 
+      'Detection of specific molecules is evident in the pathology sample, providing insights into the presence of distinct molecular markers within the tissue.', 
+      'Specific molecules or molecular markers are detected 
