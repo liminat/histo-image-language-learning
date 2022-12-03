@@ -568,4 +568,13 @@ model:
       'Histopathology image illustrating regions with high concentrations of specific metabolites within the tissue.', 
       'Tissue with visible metabolite-rich regions in the image, indicative of areas with elevated metabolite content.', 
       'Metabolite-rich regions are evident in the pathology sample, highlighting areas of high metabolite concentration.', 
-      'Regions with high concentrations of specific metabolites are observed within the tiss
+      'Regions with high concentrations of specific metabolites are observed within the tissue in the image.'], 
+      'Metabolic Pathway Indicators': [
+      'Histopathology image showing indicators related to specific metabolic pathways within the tissue.', 
+      'Tissue with visible indicators related to metabolic pathways in the image, indicative of specific pathway-related markers.', 
+      'Indicators related to specific metabolic pathways are evident in the pathology sample, providing insights into metabolic processes within the tissue.', 
+      'Specific indicators associated with metabolic pathways are detected within the tissue in the image.'], 
+      'Fibrous Tissue Density': [
+      'Histopathology image illustrating variations in the density of fibrous tissue within the tissue.', 
+      'Tissue with visible variations in fibrous tissue density in the image, indicative of differences in fibrous tissue concentration.', 
+      'Variations in fibrous tissue density are evident in the pathology sample, hig
