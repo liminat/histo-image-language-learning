@@ -603,4 +603,13 @@ model:
       'Histopathology image showing patterns in the localization of stromal components within the tissue.', 
       'Tissue with visible stromal localization patterns in the image, indicative of distinct patterns in the distribution of stromal components.', 
       'Patterns in stromal component localization are evident in the pathology sample, providing insights into spatial variations in stromal component positioning within the tissue.', 
-      'Specific patterns in the localization of stromal components are detected with
+      'Specific patterns in the localization of stromal components are detected within the tissue in the image.'], 
+      'Stromal Tissue Grading': [
+      'Histopathology image illustrating the grading of the characteristics of stromal tissue within the tissue.', 
+      'Tissue with visible stromal tissue grading in the image, indicative of an assessment of the properties and features of stromal tissue.', 
+      'Grading of stromal tissue characteristics is evident in the pathology sample, providing insights into the quality and attributes of stromal tissue within the tissue.', 
+      'Stromal tissue is graded based on its characteristics within the tissue in the image.'], 
+      'Stromal Component Aggregates': [
+      'Histopathology image illustrating aggregations of stromal components within the tissue.', 
+      'Tissue with visible stromal component aggregates in the image, indicative of localized gatherings of specific stromal components.', 
+      'Aggregations of stromal co
