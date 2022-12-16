@@ -612,4 +612,12 @@ model:
       'Stromal Component Aggregates': [
       'Histopathology image illustrating aggregations of stromal components within the tissue.', 
       'Tissue with visible stromal component aggregates in the image, indicative of localized gatherings of specific stromal components.', 
-      'Aggregations of stromal co
+      'Aggregations of stromal components are evident in the pathology sample, highlighting the clustering of certain stromal components within the tissue.', 
+      'Specific stromal components aggregate within the tissue in the image.'], 
+      'Stromal Fiber Distributions': [
+      'Histopathology image showing patterns in the distribution of stromal fibers within the tissue.', 
+      'Tissue with visible stromal fiber distributions in the image, indicative of specific arrangements and patterns in the distribution of stromal fibers.', 
+      'Patterns in stromal fiber distribution are evident in the pathology sample, providing insights into the organization of stromal fibers within the tissue.', 
+      'Stromal fibers exhibit distinct distribution patterns within the tissue in the image.'], 
+      'Stromal Component Composition': [
+      'Histopathology image illustrating variations in the types of stromal components wit
