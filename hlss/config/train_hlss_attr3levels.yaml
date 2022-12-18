@@ -620,4 +620,12 @@ model:
       'Patterns in stromal fiber distribution are evident in the pathology sample, providing insights into the organization of stromal fibers within the tissue.', 
       'Stromal fibers exhibit distinct distribution patterns within the tissue in the image.'], 
       'Stromal Component Composition': [
-      'Histopathology image illustrating variations in the types of stromal components wit
+      'Histopathology image illustrating variations in the types of stromal components within the tissue.', 
+      'Tissue with visible variations in stromal component composition in the image, indicative of differences in the types of stromal components present.', 
+      'Variations in stromal component composition are evident in the pathology sample, highlighting the diversity of stromal component types within the tissue.', 
+      'Different types of stromal components are observed within the tissue in the image.'], 
+      'Mitotic Figure Frequency': [
+      'Histopathology image illustrating the frequency of mitotic figures within the tissue.', 
+      'Tissue with visible variations in the frequency of mitotic figures in the image, indicative of differences in mitotic figure occurrence.', 
+      'Variations in the frequency of mitotic figures are evident in the pathology sample, providing insights into the density of mitotic figures within the tissue.', 
+      'The image showcases different frequencies of mitotic figures 
