@@ -637,4 +637,13 @@ model:
       'Mitotic Figure Localization': [
       'Histopathology image illustrating the localization of mitotic figures within tissue regions.', 
       'Tissue with visible mitotic figure localization patterns in the image, indicative of distinct patterns in the distribution of mitotic figures within tissue regions.', 
-      'Patterns in 
+      'Patterns in mitotic figure localization are evident in the pathology sample, providing insights into spatial variations in mitotic figure positioning within tissue regions.', 
+      'Specific patterns in the localization of mitotic figures are detected within the tissue in the image.'], 
+      'Mitotic Figure Size': [
+      'Histopathology image showing variation in the size of mitotic figures within the tissue.', 
+      'Tissue with visible variations in mitotic figure size in the image, indicative of differences in the size of mitotic figures.', 
+      'Variations in mitotic figure size are evident in the pathology sample, highlighting differences in figure dimensions across the tissue.', 
+      'Diversity in mitotic figure size is observed within the tissue in the image.'], 
+      'Myelin Fiber Density': [
+      'Histopathology image showing differences in the density of myelin fibers within the tissue.', 
+      'Tissue with vis
