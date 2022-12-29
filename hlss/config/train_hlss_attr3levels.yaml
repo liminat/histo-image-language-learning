@@ -655,4 +655,12 @@ model:
       'Varied myelin fiber size is evident in the pathology sample, showcasing the range of sizes of myelin structures within the tissue.', 
       'Different sizes of myelin fibers are observed within the tissue in the image.'], 
       'Myelin Staining Intensity': [
-      'Histopathology image showing d
+      'Histopathology image showing differences in the staining intensity of myelin within the tissue.', 
+      'Tissue with visible variations in myelin staining intensity in the image, indicative of differences in the color intensity of myelin structures.', 
+      'Variations in myelin staining intensity are evident in the pathology sample, highlighting differences in the staining intensity of myelin within the tissue.', 
+      'The image showcases variations in myelin staining intensity within the tissue.'],
+  "Nuclear Pores Presence": [
+    "Histopathology image revealing the notable presence of nuclear pores in the cellular nuclei.",
+    "Observation of distinct nuclear pores within the cell nuclei on the SRH image.",
+    "The SRH image showcases the presence of nuclear pores, indicative of active cellular processes.",
+    "Noteworthy appearance of nuclear pore
