@@ -663,4 +663,15 @@ model:
     "Histopathology image revealing the notable presence of nuclear pores in the cellular nuclei.",
     "Observation of distinct nuclear pores within the cell nuclei on the SRH image.",
     "The SRH image showcases the presence of nuclear pores, indicative of active cellular processes.",
-    "Noteworthy appearance of nuclear pore
+    "Noteworthy appearance of nuclear pores, suggesting ongoing nucleocytoplasmic transport in the tissue."
+  ],
+  "Nuclear Folds": [
+    "Detection of intricate nuclear folds in the histopathology slide, indicating complex nuclear architecture.",
+    "SRH image displaying prominent nuclear folds, revealing the structural intricacies within the cell nuclei.",
+    "The brain tumor tissue exhibits distinctive nuclear folds, contributing to the overall cellular morphology.",
+    "Notable presence of nuclear folds on the image, suggesting cellular adaptations and complexity."
+  ],
+  "Cellular Orientation": [
+    "Analysis of cellular orientation in the SRH image reveals a distinct pattern within the brain tumor tissue.",
+    "The histopathology slide shows a specific cellular orientation, providing insights into tissue organization.",
+    "Observation of aligned cellular orientation in the brain tumor ti
