@@ -697,4 +697,16 @@ model:
   ],
   "Chromosomal Aberrations": [
     "Histopathology image showing chromosomal aberrations, indicating genetic abnormalities within the brain tumor tissue.",
-    "Recognition of distinct chromosomal 
+    "Recognition of distinct chromosomal aberrations on the SRH image, suggesting genomic instability.",
+    "Observation of irregular chromosomal structures in the tissue, pointing towards genetic alterations.",
+    "Presence of chromosomal aberrations in the brain tumor tissue, highlighting genetic variations."
+  ],
+  "Nuclear Body Formation": [
+    "Identification of nuclear body formation in the SRH image suggests the presence of subnuclear structures.",
+    "Histopathology slide revealing the development of nuclear bodies within the cell nuclei.",
+    "Observation of distinctive nuclear bodies in the brain tumor tissue, contributing to cellular complexity.",
+    "Noteworthy presence of nuclear bodies on the image, indicating subnuclear structural organization."
+  ],
+  "Cytoplasmic Vacuolization": [
+    "Analysis of cytoplasmic vacuolization in the SRH image reveals the presence of intracellular vacuoles.",
+    "Histopathology image displaying distinct cytoplasmic 
