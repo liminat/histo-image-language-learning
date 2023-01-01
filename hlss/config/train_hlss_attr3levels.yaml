@@ -685,4 +685,16 @@ model:
   ],
   "Microvilli Presence": [
     "Identification of microvilli presence in the brain tumor tissue reveals surface protrusions on the cellular membranes.",
-    "SRH image displaying the characteristic presence of microvilli on the 
+    "SRH image displaying the characteristic presence of microvilli on the cell surfaces.",
+    "Histopathology slide exhibiting microvilli, suggesting an increased surface area for cellular interactions.",
+    "Noteworthy microvilli presence in the tissue, contributing to the overall cellular morphology."
+  ],
+  "Nuclear Hypersegmentation": [
+    "Detection of nuclear hypersegmentation in the SRH image indicates abnormal division patterns within cell nuclei.",
+    "The histopathology slide reveals the presence of hypersegmented nuclei, suggesting aberrant cell division.",
+    "Observation of nuclei with excessive segmentation, indicative of irregular cell division in the brain tumor tissue.",
+    "Distinctive nuclear hypersegmentation features in the image highlight abnormal cellular processes."
+  ],
+  "Chromosomal Aberrations": [
+    "Histopathology image showing chromosomal aberrations, indicating genetic abnormalities within the brain tumor tissue.",
+    "Recognition of distinct chromosomal 
