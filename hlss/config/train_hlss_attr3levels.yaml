@@ -709,4 +709,15 @@ model:
   ],
   "Cytoplasmic Vacuolization": [
     "Analysis of cytoplasmic vacuolization in the SRH image reveals the presence of intracellular vacuoles.",
-    "Histopathology image displaying distinct cytoplasmic 
+    "Histopathology image displaying distinct cytoplasmic vacuolization, suggesting cellular metabolic changes.",
+    "Observation of vacuolated cytoplasmic regions in the brain tumor tissue, indicative of cellular alterations.",
+    "Notable cytoplasmic vacuolization features in the image, signifying changes in cellular homeostasis."
+  ],
+  "Cellular Fracturing": [
+    "Detection of cellular fracturing in the SRH image indicates structural disruptions within the brain tumor tissue.",
+    "The histopathology slide reveals cellular fracturing, suggesting mechanical damage to the cellular structure.",
+    "Observation of distinct cellular fractures in the brain tumor tissue, contributing to the overall tissue pathology.",
+    "Noteworthy presence of cellular fractures on the image, highlighting structural abnormalities within the cells."
+  ],
+  "Nuclear Blebbing": [
+    "Detection of nuclear blebbing in the SRH image indicates irregularities in th
