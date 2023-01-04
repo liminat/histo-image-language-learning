@@ -732,4 +732,13 @@ model:
     "Notable cellular swelling features in the image, signifying variations in cell volume and structural integrity."
   ],
   "Mitochondrial Density": [
-    "Identificati
+    "Identification of mitochondrial density in the SRH image highlights the abundance of mitochondria within cells.",
+    "Histopathology slide revealing high mitochondrial density, indicative of active cellular metabolism.",
+    "Observation of increased mitochondrial density in the brain tumor tissue, suggesting cellular energy demands.",
+    "Distinctive features of mitochondrial density in the image, contributing to the overall cellular bioenergetics."
+  ],
+  "Peroxisome Distribution": [
+    "Analysis of peroxisome distribution in the SRH image reveals the spatial arrangement of peroxisomal organelles.",
+    "Histopathology image displaying distinct peroxisome distribution patterns within the cell cytoplasm.",
+    "Observation of peroxisome distribution in the brain tumor tissue, providing insights into cellular metabolism.",
+    "Noteworthy peroxisome distribution features in the image, indicating the presence and organization of peroxisomes."
