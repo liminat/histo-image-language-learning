@@ -720,4 +720,16 @@ model:
     "Noteworthy presence of cellular fractures on the image, highlighting structural abnormalities within the cells."
   ],
   "Nuclear Blebbing": [
-    "Detection of nuclear blebbing in the SRH image indicates irregularities in th
+    "Detection of nuclear blebbing in the SRH image indicates irregularities in the nuclear membrane.",
+    "Histopathology slide revealing distinct nuclear blebs, suggesting structural deformations in cell nuclei.",
+    "Observation of nuclear blebbing in the brain tumor tissue, highlighting abnormalities in nuclear morphology.",
+    "Noteworthy presence of nuclear blebs on the image, indicative of membrane protrusions and cellular stress."
+  ],
+  "Cellular Swelling": [
+    "Analysis of cellular swelling in the SRH image reveals enlarged cell volumes within the brain tumor tissue.",
+    "Histopathology image displaying distinct cellular swelling, indicating changes in cell size and morphology.",
+    "Observation of cellular swelling in the brain tumor tissue, suggestive of altered cellular homeostasis.",
+    "Notable cellular swelling features in the image, signifying variations in cell volume and structural integrity."
+  ],
+  "Mitochondrial Density": [
+    "Identificati
