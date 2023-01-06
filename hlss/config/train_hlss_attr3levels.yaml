@@ -742,3 +742,14 @@ model:
     "Histopathology image displaying distinct peroxisome distribution patterns within the cell cytoplasm.",
     "Observation of peroxisome distribution in the brain tumor tissue, providing insights into cellular metabolism.",
     "Noteworthy peroxisome distribution features in the image, indicating the presence and organization of peroxisomes."
+  ],
+  "Ribosomal Aggregates": [
+    "Detection of ribosomal aggregates in the SRH image suggests the clustering of ribosomes within the cell.",
+    "The histopathology slide reveals distinct ribosomal aggregates, indicative of active protein synthesis.",
+    "Observation of ribosomal aggregates in the brain tumor tissue, highlighting cellular protein production.",
+    "Notable ribosomal aggregate features in the image, suggesting localized concentrations of cellular protein synthesis machinery."
+  ],
+  "Endoplasmic Reticulum Morphology": [
+    "Identification of endoplasmic reticulum morphology in the SRH image provides insights into cellular organelle structure.",
+    "Histopathology slide displaying distinct endoplasmic reticulum morphology, indicative of cellular membrane dynamics.",
+    "Observation of endoplasmic reticulum morphology in the brain tumor tissue, contributing to c
