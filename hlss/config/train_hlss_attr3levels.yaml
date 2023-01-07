@@ -785,4 +785,15 @@ model:
     "Observation of microtubule disruptions in the brain tumor tissue, suggesting alterations in cellular support.",
     "Noteworthy microtubule disruption features in the image, providing insights into cytoskeletal dynamics."
   ],
-  "Cellu
+  "Cellular Bridges": [
+    "Detection of cellular bridges in the SRH image indicates connections between adjacent cells.",
+    "The histopathology slide shows distinct cellular bridges, suggesting cellular interactions and communication.",
+    "Observation of cellular bridges in the brain tumor tissue, providing insights into cell-cell connections.",
+    "Notable cellular bridge features in the image, highlighting intercellular connections within the tissue."
+  ],
+  "Cellular Cannibalism": [
+    "Identification of cellular cannibalism in the SRH image reveals instances of one cell engulfing another.",
+    "Histopathology image displaying distinct cellular cannibalism, indicative of cellular phagocytosis.",
+    "Observation of cellular cannibalism in the brain tumor tissue, suggesting interactions between neighboring cells.",
+    "Noteworthy features of cellular cannibalism in the image, providing insights into cellular engulfment processes."
+  
