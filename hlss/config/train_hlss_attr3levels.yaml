@@ -752,4 +752,15 @@ model:
   "Endoplasmic Reticulum Morphology": [
     "Identification of endoplasmic reticulum morphology in the SRH image provides insights into cellular organelle structure.",
     "Histopathology slide displaying distinct endoplasmic reticulum morphology, indicative of cellular membrane dynamics.",
-    "Observation of endoplasmic reticulum morphology in the brain tumor tissue, contributing to c
+    "Observation of endoplasmic reticulum morphology in the brain tumor tissue, contributing to cellular membrane integrity.",
+    "Noteworthy endoplasmic reticulum morphology features in the image, highlighting the organization of intracellular membranes."
+  ],
+  "Glycogen Granule Presence": [
+    "Analysis of glycogen granule presence in the SRH image reveals the storage of glycogen within the cell.",
+    "Histopathology image displaying distinct glycogen granule presence, indicative of cellular energy reserves.",
+    "Observation of glycogen granule presence in the brain tumor tissue, suggesting dynamic cellular energy storage.",
+    "Notable features of glycogen granule presence in the image, providing insights into cellular metabolic processes."
+  ],
+  "Cytoskeleton Arrangement": [
+    "Detection of cytoskeleton arrangement in the SRH image reveals the organization of structural elements within the cell.",
+    "The histopathology slide shows distinct cytoskeleton arrangement,
