@@ -763,4 +763,15 @@ model:
   ],
   "Cytoskeleton Arrangement": [
     "Detection of cytoskeleton arrangement in the SRH image reveals the organization of structural elements within the cell.",
-    "The histopathology slide shows distinct cytoskeleton arrangement,
+    "The histopathology slide shows distinct cytoskeleton arrangement, indicative of cellular shape and support.",
+    "Observation of cytoskeleton arrangement in the brain tumor tissue, contributing to overall cellular structure.",
+    "Noteworthy cytoskeleton arrangement features in the image, suggesting the organization of microfilaments and microtubules."
+  ],
+  "Nuclear Spindle Formation": [
+    "Identification of nuclear spindle formation in the SRH image indicates the presence of structures involved in cell division.",
+    "Histopathology slide displaying distinct nuclear spindle formation, suggestive of active mitotic processes.",
+    "Observation of nuclear spindle formation in the brain tumor tissue, providing insights into cell division dynamics.",
+    "Notable nuclear spindle formation features in the image, indicating the organization of spindles during mitosis."
+  ],
+  "Centrosome Abnormalities": [
+    "Analysis of centrosome abnormalities in the SRH image revea
