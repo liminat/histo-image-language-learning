@@ -796,4 +796,15 @@ model:
     "Histopathology image displaying distinct cellular cannibalism, indicative of cellular phagocytosis.",
     "Observation of cellular cannibalism in the brain tumor tissue, suggesting interactions between neighboring cells.",
     "Noteworthy features of cellular cannibalism in the image, providing insights into cellular engulfment processes."
-  
+  ],
+  "Nuclear Pseudoinclusions": [
+    "Analysis of nuclear pseudoinclusions in the SRH image reveals structures that mimic nuclear inclusions.",
+    "Histopathology slide displaying distinct nuclear pseudoinclusions, suggestive of abnormal nuclear morphology.",
+    "Observation of nuclear pseudoinclusions in the brain tumor tissue, providing insights into nuclear structure.",
+    "Notable nuclear pseudoinclusion features in the image, indicating anomalies in nuclear architecture."
+  ],
+  "Chromosomal Bridges": [
+    "Detection of chromosomal bridges in the SRH image indicates connections between separated chromosomes.",
+    "The histopathology slide shows distinct chromosomal bridges, suggesting abnormalities in cell division.",
+    "Observation of chromosomal bridges in the brain tumor tissue, providing insights into chromosomal dynamics.",
+    "Notable chromosomal bridge features in the image, highlighting irregularities in chromosome segr
