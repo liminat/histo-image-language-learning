@@ -807,4 +807,17 @@ model:
     "Detection of chromosomal bridges in the SRH image indicates connections between separated chromosomes.",
     "The histopathology slide shows distinct chromosomal bridges, suggesting abnormalities in cell division.",
     "Observation of chromosomal bridges in the brain tumor tissue, providing insights into chromosomal dynamics.",
-    "Notable chromosomal bridge features in the image, highlighting irregularities in chromosome segr
+    "Notable chromosomal bridge features in the image, highlighting irregularities in chromosome segregation."
+  ],
+  "Cellular Atypia": [
+    "Identification of cellular atypia in the SRH image reveals irregularities in cellular morphology.",
+    "Histopathology image displaying distinct cellular atypia, indicative of abnormal cell shapes and sizes.",
+    "Observation of cellular atypia in the brain tumor tissue, suggesting variations in cellular structure.",
+    "Noteworthy cellular atypia features in the image, providing insights into abnormal cellular morphology."
+  ],
+  "Nuclear Enlargement": [
+    "Analysis of nuclear enlargement in the SRH image reveals an increase in the size of cell nuclei.",
+    "Histopathology slide displaying distinct nuclear enlargement, indicative of changes in nuclear morphology.",
+    "Observation of nuclear enlargement in the brain tumor tissue, providing insights into nuclear dynamics.",
+    "Notable nuclear enlargement features in the image, indicating variations in nuclear size."
+  
