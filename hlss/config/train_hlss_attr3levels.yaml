@@ -831,4 +831,15 @@ model:
     "Identification of nuclear folding patterns in the SRH image reveals specific arrangements of nuclear folds.",
     "Histopathology image displaying distinct nuclear folding patterns, indicative of complex nuclear architecture.",
     "Observation of nuclear folding patterns in the brain tumor tissue, providing insights into nuclear morphology.",
-    "Notable nuclear folding pattern features in 
+    "Notable nuclear folding pattern features in the image, indicating intricate nuclear structural arrangements."
+  ],
+  "Centriole Duplication": [
+    "Analysis of centriole duplication in the SRH image reveals the presence of multiple centrioles within cells.",
+    "Histopathology slide displaying distinct centriole duplication, indicative of abnormalities in cellular centrosomes.",
+    "Observation of centriole duplication in the brain tumor tissue, providing insights into centrosome dynamics.",
+    "Noteworthy centriole duplication features in the image, indicating variations in centrosome structure."
+  ],
+  "Peroxisomal Aggregations": [
+    "Analysis of peroxisomal aggregations in the SRH image reveals clustering of peroxisomes within the cell cytoplasm.",
+    "Histopathology slide displaying distinct peroxisomal aggregations, indicative of dynamic changes in cellular metabolism.",
+    "Observation of peroxisomal aggregations in the brain tumor tissue
