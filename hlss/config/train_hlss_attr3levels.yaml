@@ -853,4 +853,15 @@ model:
   ],
   "Nuclear Chromocenters": [
     "Identification of nuclear chromocenters in the SRH image reveals condensed regions of chromatin within the cell nucleus.",
-    "Histopathology image displaying distinct 
+    "Histopathology image displaying distinct nuclear chromocenters, indicative of chromatin condensation.",
+    "Observation of nuclear chromocenters in the brain tumor tissue, providing insights into nuclear structure.",
+    "Noteworthy nuclear chromocenter features in the image, indicating variations in chromatin organization."
+  ],
+  "Cellular Invaginations": [
+    "Analysis of cellular invaginations in the SRH image reveals inward folding of the cell membrane.",
+    "Histopathology slide displaying distinct cellular invaginations, indicative of changes in cellular morphology.",
+    "Observation of cellular invaginations in the brain tumor tissue, providing insights into membrane dynamics.",
+    "Noteworthy cellular invagination features in the image, indicating variations in cellular membrane structure."
+  ],
+  "Nuclear Vacuolization": [
+    "Detection of nuclear vacuolization in the SRH image indicates the presence of vacuoles within the cell nucleus
