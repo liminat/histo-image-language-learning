@@ -897,4 +897,15 @@ model:
     "Analysis of cellular repulsion in the SRH image reveals cells moving away from each other within the tissue.",
     "Histopathology slide displaying distinct cellular repulsion, indicative of cell-cell interactions leading to spatial separation.",
     "Observation of cellular repulsion in the brain tumor tissue, providing insights into cellular interactions and dynamics.",
- 
+    "Noteworthy cellular repulsion features in the image, indicating variations in cell positioning within the tissue."
+  ],
+   "Mitotic Slippage": [
+    "Detection of mitotic slippage in the SRH image indicates cells escaping the mitotic phase without cell division.",
+    "The histopathology slide shows distinct mitotic slippage, suggestive of irregularities in cell cycle progression.",
+    "Observation of mitotic slippage in the brain tumor tissue, providing insights into cell cycle dynamics.",
+    "Notable mitotic slippage features in the image, suggesting variations in the regulation of cell division."
+  ],
+  "DNA Damage Foci": [
+    "Analysis of DNA damage foci in the SRH image reveals concentrated areas of damaged DNA within the cell nuclei.",
+    "Histopathology slide displaying distinct DNA damage foci, indicative of cellular responses to genomic stress.",
+    "Observation of DNA damage foci in the brain tumor tissue, prov
