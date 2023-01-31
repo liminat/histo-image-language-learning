@@ -887,4 +887,14 @@ model:
     "Observation of endocytic vesicle presence in the brain tumor tissue, providing insights into cellular uptake mechanisms.",
     "Notable endocytic vesicle presence features in the image, indicating variations in endocytic activity."
   ],
-  "Lysosomal Accumul
+  "Lysosomal Accumulation": [
+    "Identification of lysosomal accumulation in the SRH image reveals increased concentrations of lysosomes within the cell.",
+    "Histopathology image displaying distinct lysosomal accumulation, indicative of altered cellular degradation processes.",
+    "Observation of lysosomal accumulation in the brain tumor tissue, providing insights into cellular recycling pathways.",
+    "Noteworthy lysosomal accumulation features in the image, indicating variations in cellular degradation."
+  ],
+  "Cellular Repulsion": [
+    "Analysis of cellular repulsion in the SRH image reveals cells moving away from each other within the tissue.",
+    "Histopathology slide displaying distinct cellular repulsion, indicative of cell-cell interactions leading to spatial separation.",
+    "Observation of cellular repulsion in the brain tumor tissue, providing insights into cellular interactions and dynamics.",
+ 
