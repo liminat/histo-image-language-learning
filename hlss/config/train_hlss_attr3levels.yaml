@@ -864,4 +864,16 @@ model:
     "Noteworthy cellular invagination features in the image, indicating variations in cellular membrane structure."
   ],
   "Nuclear Vacuolization": [
-    "Detection of nuclear vacuolization in the SRH image indicates the presence of vacuoles within the cell nucleus
+    "Detection of nuclear vacuolization in the SRH image indicates the presence of vacuoles within the cell nucleus.",
+    "The histopathology slide shows distinct nuclear vacuolization, suggestive of changes in nuclear content.",
+    "Observation of nuclear vacuolization in the brain tumor tissue, providing insights into nuclear dynamics.",
+    "Notable nuclear vacuolization features in the image, indicating variations in nuclear structure."
+  ],
+  "Golgi Apparatus Integrity": [
+    "Identification of Golgi apparatus integrity in the SRH image reveals well-preserved Golgi structures within the cell.",
+    "Histopathology image displaying distinct Golgi apparatus integrity, indicative of intact cellular secretory pathways.",
+    "Observation of Golgi apparatus integrity in the brain tumor tissue, providing insights into cellular secretion.",
+    "Noteworthy Golgi apparatus integrity features in the image, indicating variations in secretory organelle structure."
+  ],
+  "Cytoplasmic Blebbing": [
+    "Analysis of cytoplasmic blebbing in the
