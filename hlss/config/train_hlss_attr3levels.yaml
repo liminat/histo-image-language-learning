@@ -920,4 +920,20 @@ model:
   "Microtubule Bundles": [
     "Identification of microtubule bundles in the SRH image reveals the clustering of microtubules within the cell.",
     "Histopathology image displaying distinct microtubule bundles, indicative of organized microtubule structures.",
-    "Observation of
+    "Observation of microtubule bundles in the brain tumor tissue, providing insights into cellular cytoskeletal dynamics.",
+    "Noteworthy microtubule bundle features in the image, suggesting variations in microtubule organization."
+  ],
+  "Chromatin Granularity": [
+    "Analysis of chromatin granularity in the SRH image reveals variations in the texture and distribution of chromatin within the cell nuclei.",
+    "Histopathology slide displaying distinct chromatin granularity, indicative of differences in chromatin composition.",
+    "Observation of chromatin granularity in the brain tumor tissue, providing insights into nuclear chromatin dynamics.",
+    "Noteworthy chromatin granularity features in the image, suggesting variations in chromatin structure and packing."
+  ]
+
+}
+
+
+    slide_templates : {
+      'Vascularity': [
+      'A histopathology image highlighting prominent vascular patterns.', 
+      'The tissue exhibits a 
