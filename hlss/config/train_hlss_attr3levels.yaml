@@ -908,4 +908,16 @@ model:
   "DNA Damage Foci": [
     "Analysis of DNA damage foci in the SRH image reveals concentrated areas of damaged DNA within the cell nuclei.",
     "Histopathology slide displaying distinct DNA damage foci, indicative of cellular responses to genomic stress.",
-    "Observation of DNA damage foci in the brain tumor tissue, prov
+    "Observation of DNA damage foci in the brain tumor tissue, providing insights into cellular DNA repair mechanisms.",
+    "Noteworthy DNA damage foci features in the image, suggesting genomic instability within the cells."
+  ],
+  "Nuclear Malformations": [
+    "Detection of nuclear malformations in the SRH image indicates irregularities in the structure of cell nuclei.",
+    "The histopathology slide shows distinct nuclear malformations, suggestive of abnormalities in nuclear morphology.",
+    "Observation of nuclear malformations in the brain tumor tissue, providing insights into nuclear structural variations.",
+    "Notable nuclear malformation features in the image, indicating anomalies in the architecture of cell nuclei."
+  ],
+  "Microtubule Bundles": [
+    "Identification of microtubule bundles in the SRH image reveals the clustering of microtubules within the cell.",
+    "Histopathology image displaying distinct microtubule bundles, indicative of organized microtubule structures.",
+    "Observation of
