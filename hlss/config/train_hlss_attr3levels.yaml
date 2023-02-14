@@ -1142,4 +1142,14 @@ model:
          "Tumor Margin Definition": [
     "The SRH image displays a well-defined tumor margin, allowing for clear delineation between tumor and surrounding healthy tissue.",
     "Histopathology slide exhibits distinct tumor margin definition, aiding pathologists in accurate assessment of tumor extent.",
-    "Tumor margin definition is 
+    "Tumor margin definition is prominently visible in the brain tumor tissue, offering valuable insights into tumor boundaries.",
+    "Presence of a precisely defined tumor margin in the image enhances the interpretability of pathological features."
+  ],
+  "Stromal Infiltration": [
+    "Observation of significant stromal infiltration in the SRH image indicates the penetration of non-tumor cells into the tumor microenvironment.",
+    "Histopathology slide highlights distinct stromal infiltration, suggesting interactions between tumor and surrounding stromal cells.",
+    "Prominent stromal infiltration is evident in the brain tumor tissue, emphasizing the dynamic interplay between tumor and stromal components.",
+    "The extent of stromal infiltration in the image provides valuable information about the tumor's interaction with its microenvironment."
+  ],
+  "Tumor Microenvironment Characteristics": [
+    "Analysis of tumor microenvironment characteristics in the SRH image reveals the unique feat
