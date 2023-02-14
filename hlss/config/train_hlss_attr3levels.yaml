@@ -1125,3 +1125,12 @@ model:
         'Altered protein phosphorylation states are evident in the pathology sample, highlighting disruptions in protein phosphorylation.', 
         'Proteins within the tissue in the image exhibit aberrant phosphorylation states.'], 
       'Presence of Fusion Genes': [
+        'Histopathology image illustrating the detection of fusion genes in the tissue.', 
+        'Tissue with visible presence of fusion genes in the image, indicative of gene fusion events.', 
+        'Detection of fusion genes is evident in the pathology sample, highlighting gene fusion events in the DNA.', 
+        'Fusion genes are observed within the tissue in the image.'], 
+      'Altered Expression of Apoptosis Regulators': [
+        'Histopathology image showing changes in the expression of apoptosis regulators within the tissue.', 
+        'Tissue with visible alterations in the expression of apoptosis regulators in the image, indicative of changes in apoptotic processes.', 
+        'Changes in the expression of apoptosis regulators are evident in the pathology sample, highlighting apoptosis-related alterations.', 
+        'Apoptosis regulators within th
