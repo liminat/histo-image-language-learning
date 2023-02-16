@@ -1171,4 +1171,12 @@ model:
   ],
   "Extracellular Matrix Features": [
     "Observation of extracellular matrix features in the SRH image reveals the intricate structures that form the non-cellular components surrounding the tumor.",
-    "Histopa
+    "Histopathology slide highlights distinct extracellular matrix features, providing insights into the molecular and architectural complexity of the matrix.",
+    "The brain tumor tissue exhibits specific extracellular matrix features, offering valuable information about the tumor microenvironment.",
+    "Understanding the extracellular matrix features in the image contributes to a comprehensive understanding of the tumor's surrounding architecture."
+  ],
+  "Cellular Density Gradients": [
+    "Analysis of cellular density gradients in the SRH image unveils variations in cell distribution within the tumor tissue.",
+    "Histopathology slide showcases distinct cellular density gradients, indicating spatial differences in cell populations.",
+    "The brain tumor tissue exhibits specific cellular density gradients, offering valuable information about the cellular composition.",
+    "Understanding cellular density gradients in the image con
