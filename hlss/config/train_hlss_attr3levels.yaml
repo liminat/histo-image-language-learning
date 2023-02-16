@@ -1152,4 +1152,13 @@ model:
     "The extent of stromal infiltration in the image provides valuable information about the tumor's interaction with its microenvironment."
   ],
   "Tumor Microenvironment Characteristics": [
-    "Analysis of tumor microenvironment characteristics in the SRH image reveals the unique feat
+    "Analysis of tumor microenvironment characteristics in the SRH image reveals the unique features and dynamics of the surrounding tissue.",
+    "Histopathology slide showcases distinct tumor microenvironment characteristics, offering insights into the complex biological interactions within the tumor milieu.",
+    "Tumor microenvironment characteristics are prominently displayed in the brain tumor tissue, providing a comprehensive view of the tissue context.",
+    "The diverse features of the tumor microenvironment in the image contribute to a deeper understanding of the tumor's ecological surroundings."
+  ],
+  "Tumor Border Irregularity": [
+    "Detection of tumor border irregularity in the SRH image suggests variations in the tumor periphery, indicating potential invasive behavior.",
+    "Histopathology slide exhibits distinct tumor border irregularity, hinting at the presence of tumor cells infiltrating adjacent tissues.",
+    "Tumor border irregularity is evident in the brain tumor tissue, signifying potential challenges in precisely defining tumor boundaries.",
+    "The irregu
