@@ -1161,4 +1161,14 @@ model:
     "Detection of tumor border irregularity in the SRH image suggests variations in the tumor periphery, indicating potential invasive behavior.",
     "Histopathology slide exhibits distinct tumor border irregularity, hinting at the presence of tumor cells infiltrating adjacent tissues.",
     "Tumor border irregularity is evident in the brain tumor tissue, signifying potential challenges in precisely defining tumor boundaries.",
-    "The irregu
+    "The irregularity observed in the tumor border in the image highlights the dynamic nature of tumor growth and invasion."
+  ],
+  "Stromal Matrix Composition": [
+    "Analysis of stromal matrix composition in the SRH image provides insights into the structural elements surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal matrix composition, revealing the diverse components contributing to the extracellular matrix.",
+    "The brain tumor tissue displays specific stromal matrix compositions, offering valuable information about the tissue's biomechanical properties.",
+    "Understanding the stromal matrix composition in the image enhances the characterization of the tumor microenvironment."
+  ],
+  "Extracellular Matrix Features": [
+    "Observation of extracellular matrix features in the SRH image reveals the intricate structures that form the non-cellular components surrounding the tumor.",
+    "Histopa
