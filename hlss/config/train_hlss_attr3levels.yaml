@@ -1179,4 +1179,14 @@ model:
     "Analysis of cellular density gradients in the SRH image unveils variations in cell distribution within the tumor tissue.",
     "Histopathology slide showcases distinct cellular density gradients, indicating spatial differences in cell populations.",
     "The brain tumor tissue exhibits specific cellular density gradients, offering valuable information about the cellular composition.",
-    "Understanding cellular density gradients in the image con
+    "Understanding cellular density gradients in the image contributes to a nuanced view of the cellular organization within the tumor."
+  ],
+  "Cellular Organization": [
+    "Observation of cellular organization in the SRH image provides insights into the spatial arrangement and patterns of cells within the tumor.",
+    "Histopathology slide highlights distinct cellular organization, indicating the structural order or disorder within the tumor tissue.",
+    "The brain tumor tissue exhibits specific cellular organization, offering valuable information about the arrangement of tumor cells.",
+    "Understanding cellular organization in the image contributes to a detailed characterization of the tumor's architectural features."
+  ],
+  "Tumor Stroma Heterogeneity": [
+    "Analysis of tumor stroma heterogeneity in the SRH image reveals variations in the composition and characteristics of the tumor stromal components.",
+    "Histopathology slide showcases distinct tumor stroma heterogeneity, indicating the presence of 
