@@ -1199,4 +1199,12 @@ model:
     "The brain tumor tissue exhibits specific stromal tissue remodeling, offering valuable information about the adaptive changes in the stromal environment.",
     "Understanding stromal tissue remodeling in the image contributes to a nuanced view of the ongoing alterations in the tumor microenvironment."
   ],
-   "Tumor-Associated Fib
+   "Tumor-Associated Fibroblast Density": [
+    "The SRH image reveals distinct patterns of tumor-associated fibroblast density, indicating the abundance and distribution of fibroblasts within the tumor microenvironment.",
+    "Histopathology slide showcases variations in tumor-associated fibroblast density, providing insights into the dynamic interactions between fibroblasts and tumor cells.",
+    "The brain tumor tissue exhibits specific tumor-associated fibroblast density patterns, offering valuable information about the stromal composition.",
+    "Understanding tumor-associated fibroblast density in the image contributes to a comprehensive assessment of the fibroblast-mediated effects on tumor progression."
+  ],
+  "Stromal Inflammatory Infiltration": [
+    "Observation of significant stromal inflammatory infiltration in the SRH image indicates the presence and extent of immune cells within the tumor microenvironment.",
+    "Histopathology slide hig
