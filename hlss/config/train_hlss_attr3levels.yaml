@@ -1207,4 +1207,11 @@ model:
   ],
   "Stromal Inflammatory Infiltration": [
     "Observation of significant stromal inflammatory infiltration in the SRH image indicates the presence and extent of immune cells within the tumor microenvironment.",
-    "Histopathology slide hig
+    "Histopathology slide highlights distinct stromal inflammatory infiltration, suggesting a robust immune response surrounding the tumor.",
+    "Prominent stromal inflammatory infiltration is evident in the brain tumor tissue, emphasizing the dynamic interplay between immune cells and tumor cells.",
+    "The extent of stromal inflammatory infiltration in the image provides valuable information about the local immune response to the tumor."
+  ],
+  "Tumor-Adjacent Tissue Interaction": [
+    "Analysis of tumor-adjacent tissue interaction in the SRH image unveils the dynamic crosstalk between the tumor and the surrounding non-tumor tissue.",
+    "Histopathology slide showcases distinct tumor-adjacent tissue interaction, providing insights into how the tumor influences the adjacent tissue.",
+    "The brain tumor tissue exhibits specific tumor-adjacent tissue interaction patterns, offering valuable information about t
