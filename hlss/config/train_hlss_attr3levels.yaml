@@ -1214,4 +1214,14 @@ model:
   "Tumor-Adjacent Tissue Interaction": [
     "Analysis of tumor-adjacent tissue interaction in the SRH image unveils the dynamic crosstalk between the tumor and the surrounding non-tumor tissue.",
     "Histopathology slide showcases distinct tumor-adjacent tissue interaction, providing insights into how the tumor influences the adjacent tissue.",
-    "The brain tumor tissue exhibits specific tumor-adjacent tissue interaction patterns, offering valuable information about t
+    "The brain tumor tissue exhibits specific tumor-adjacent tissue interaction patterns, offering valuable information about the reciprocal effects of the tumor on neighboring tissues.",
+    "Understanding tumor-adjacent tissue interaction in the image contributes to a nuanced view of the interplay between the tumor and its microenvironment."
+  ],
+  "Stromal Vascular Support": [
+    "Detection of stromal vascular support in the SRH image suggests the role of stromal elements in supporting the vasculature within the tumor microenvironment.",
+    "Histopathology slide exhibits distinct stromal vascular support, indicating the presence of stromal cells contributing to vascular integrity.",
+    "Stromal vascular support is evident in the brain tumor tissue, highlighting the collaborative relationship between stromal and vascular components.",
+    "The presence of stromal vascular support in the image provides valuable information about the vascular network within the tumor microenvironment."
+  ],
+  "Stromal Immune Cell Composition": [
+    "Analysis
