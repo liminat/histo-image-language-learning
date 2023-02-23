@@ -1238,4 +1238,14 @@ model:
   "Tumor-Adjacent Tissue Morphology": [
     "Detection of tumor-adjacent tissue morphology in the SRH image suggests variations in the structural characteristics of the non-tumor tissue surrounding the tumor.",
     "Histopathology slide exhibits distinct tumor-adjacent tissue morphology, indicating the morphological changes induced by the adjacent tumor microenvironment.",
-    "Tumor-adjacent tissue morphology is evident in the brain tumor tissue, highlighting alt
+    "Tumor-adjacent tissue morphology is evident in the brain tumor tissue, highlighting alterations in the structure of neighboring tissues.",
+    "The presence of tumor-adjacent tissue morphology in the image provides valuable information about the morphological effects of the tumor on surrounding tissues."
+  ],
+  "Peritumoral Edema": [
+    "Analysis of peritumoral edema in the SRH image reveals the presence of fluid accumulation in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral edema, indicating the extent and distribution of edematous regions adjacent to the tumor.",
+    "Peritumoral edema is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture and cell behavior.",
+    "Understanding peritumoral edema in the image contributes to a comprehensive assessment of the fluid dynamics in the tumor microenvironment."
+  ],
+  "Tumor Margin Smoothness": [
+    "Observation of tumor margin smoothness in the SRH image suggests the re
