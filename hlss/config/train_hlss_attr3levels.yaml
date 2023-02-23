@@ -1231,4 +1231,11 @@ model:
   ],
   "Tumor-Stromal Interface Patterns": [
     "Observation of tumor-stromal interface patterns in the SRH image reveals the structural relationships and boundaries between the tumor and its stromal components.",
-    "Histopathology slide highlights distinct tumor-stromal interface patte
+    "Histopathology slide highlights distinct tumor-stromal interface patterns, providing insights into the architectural features defining the tumor-stromal interface.",
+    "The brain tumor tissue exhibits specific tumor-stromal interface patterns, offering valuable information about the spatial organization at the interface between tumor and stroma.",
+    "Understanding tumor-stromal interface patterns in the image contributes to a detailed characterization of the interactions between the tumor and its stromal environment."
+  ],
+  "Tumor-Adjacent Tissue Morphology": [
+    "Detection of tumor-adjacent tissue morphology in the SRH image suggests variations in the structural characteristics of the non-tumor tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct tumor-adjacent tissue morphology, indicating the morphological changes induced by the adjacent tumor microenvironment.",
+    "Tumor-adjacent tissue morphology is evident in the brain tumor tissue, highlighting alt
