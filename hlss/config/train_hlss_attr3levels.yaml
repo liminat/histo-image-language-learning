@@ -1224,4 +1224,11 @@ model:
     "The presence of stromal vascular support in the image provides valuable information about the vascular network within the tumor microenvironment."
   ],
   "Stromal Immune Cell Composition": [
-    "Analysis
+    "Analysis of stromal immune cell composition in the SRH image reveals the types and distribution of immune cells within the tumor stroma.",
+    "Histopathology slide showcases distinct stromal immune cell composition, providing insights into the immune landscape within the tumor microenvironment.",
+    "The brain tumor tissue exhibits specific stromal immune cell composition patterns, offering valuable information about the immune cell populations present in the stroma.",
+    "Understanding stromal immune cell composition in the image contributes to a comprehensive assessment of the immune contexture in the tumor microenvironment."
+  ],
+  "Tumor-Stromal Interface Patterns": [
+    "Observation of tumor-stromal interface patterns in the SRH image reveals the structural relationships and boundaries between the tumor and its stromal components.",
+    "Histopathology slide highlights distinct tumor-stromal interface patte
