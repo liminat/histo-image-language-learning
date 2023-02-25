@@ -1248,4 +1248,12 @@ model:
     "Understanding peritumoral edema in the image contributes to a comprehensive assessment of the fluid dynamics in the tumor microenvironment."
   ],
   "Tumor Margin Smoothness": [
-    "Observation of tumor margin smoothness in the SRH image suggests the re
+    "Observation of tumor margin smoothness in the SRH image suggests the regularity and uniformity of the tumor boundary.",
+    "Histopathology slide highlights distinct tumor margin smoothness, indicating a well-defined and smooth boundary of the tumor.",
+    "The brain tumor tissue exhibits specific tumor margin smoothness, offering valuable information about the regularity of the tumor periphery.",
+    "Understanding tumor margin smoothness in the image contributes to a detailed characterization of the tumor's architectural features."
+  ],
+  "Tumor Stroma Collagen Distribution": [
+    "Detection of tumor stroma collagen distribution in the SRH image provides insights into the arrangement and density of collagen fibers within the tumor stroma.",
+    "Histopathology slide exhibits distinct tumor stroma collagen distribution, indicating the spatial organization of collagenous structures in the stroma.",
+    "Tumor stroma collagen distribution is evident in the brain tumor tissue, high
