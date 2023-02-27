@@ -1256,4 +1256,11 @@ model:
   "Tumor Stroma Collagen Distribution": [
     "Detection of tumor stroma collagen distribution in the SRH image provides insights into the arrangement and density of collagen fibers within the tumor stroma.",
     "Histopathology slide exhibits distinct tumor stroma collagen distribution, indicating the spatial organization of collagenous structures in the stroma.",
-    "Tumor stroma collagen distribution is evident in the brain tumor tissue, high
+    "Tumor stroma collagen distribution is evident in the brain tumor tissue, highlighting the potential impact on the mechanical properties of the tumor microenvironment.",
+    "The presence of tumor stroma collagen distribution in the image provides valuable information about the fibrous components contributing to the stromal architecture."
+  ],
+  "Stromal Cellularity": [
+    "The SRH image showcases distinctive patterns of stromal cellularity, providing insights into the density and distribution of stromal cells within the tumor microenvironment.",
+    "Histopathology slide highlights variations in stromal cellularity, suggesting dynamic interactions between stromal cells and the tumor.",
+    "Prominent stromal cellularity is evident in the brain tumor tissue, emphasizing the spatial organization and abundance of stromal components.",
+    "The extent of stromal cellularity in the image offers valuable information about the stromal cell populations influencing the tumor microenviron
