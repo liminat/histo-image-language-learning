@@ -1263,4 +1263,14 @@ model:
     "The SRH image showcases distinctive patterns of stromal cellularity, providing insights into the density and distribution of stromal cells within the tumor microenvironment.",
     "Histopathology slide highlights variations in stromal cellularity, suggesting dynamic interactions between stromal cells and the tumor.",
     "Prominent stromal cellularity is evident in the brain tumor tissue, emphasizing the spatial organization and abundance of stromal components.",
-    "The extent of stromal cellularity in the image offers valuable information about the stromal cell populations influencing the tumor microenviron
+    "The extent of stromal cellularity in the image offers valuable information about the stromal cell populations influencing the tumor microenvironment."
+  ],
+  "Peritumoral Lymphatic Density": [
+    "Analysis of peritumoral lymphatic density in the SRH image reveals the presence and distribution of lymphatic vessels in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral lymphatic density, indicating the extent of lymphatic network involvement in the peritumoral region.",
+    "Peritumoral lymphatic density is evident in the brain tumor tissue, highlighting the potential impact on immune cell trafficking and fluid drainage.",
+    "Understanding peritumoral lymphatic density in the image contributes to a comprehensive assessment of the lymphatic microenvironment around the tumor."
+  ],
+  "Tumor Microenvironment Angiogenesis": [
+    "Observation of tumor microenvironment angiogenesis in the SRH image reveals the formation of new blood vessels within the tumor stroma.",
+    "Histopathology slide highlights distinct tumor microenvironment angiogenesis, indicating the dynamic processes of
