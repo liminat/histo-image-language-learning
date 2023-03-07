@@ -1281,4 +1281,13 @@ model:
     "Detection of tumor-stroma metabolic interactions in the SRH image suggests the biochemical cross-talk between tumor and stromal cells within the tumor microenvironment.",
     "Histopathology slide exhibits distinct tumor-stroma metabolic interactions, providing insights into the metabolic alterations induced by the tumor-stroma interplay.",
     "Tumor-stroma metabolic interactions are evident in the brain tumor tissue, highlighting the influence of tumor metabolism on the surrounding stroma.",
-    "The presence of tumor-stroma metabolic intera
+    "The presence of tumor-stroma metabolic interactions in the image contributes to a comprehensive understanding of the metabolic changes associated with tumor growth."
+  ],
+  "Tumor-Stroma Signaling Crosstalk": [
+    "Analysis of tumor-stroma signaling crosstalk in the SRH image reveals the communication pathways between tumor and stromal cells within the tumor microenvironment.",
+    "Histopathology slide showcases distinct tumor-stroma signaling crosstalk, indicating the complex molecular interactions influencing tumor-stroma communication.",
+    "Tumor-stroma signaling crosstalk is evident in the brain tumor tissue, emphasizing the role of signaling molecules in mediating cellular responses.",
+    "Understanding tumor-stroma signaling crosstalk in the image contributes to a nuanced view of the molecular interactions shaping the tumor microenvironment."
+  ],
+  "Peritumoral Nerve Infiltration": [
+    "Observation of peritumoral nerve infiltration in the SRH image su
