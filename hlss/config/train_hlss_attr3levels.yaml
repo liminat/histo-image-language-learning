@@ -1305,4 +1305,14 @@ model:
     "Observation of stromal lymphatic network in the SRH image reveals the intricate network of lymphatic vessels within the tumor stroma.",
     "Histopathology slide showcases distinct stromal lymphatic network, indicating the spatial organization of lymphatic vessels in the stromal compartment.",
     "The brain tumor tissue exhibits specific stromal lymphatic network patterns, offering valuable information about the lymphatic drainage within the stromal environment.",
-    "Understanding stromal lymphatic network in the image contributes to a detailed characterization of the lymphatic archite
+    "Understanding stromal lymphatic network in the image contributes to a detailed characterization of the lymphatic architecture within the tumor microenvironment."
+  ],
+  "Peritumoral Fibrosis": [
+    "Detection of peritumoral fibrosis in the SRH image suggests the presence of fibrotic tissue alterations in the non-tumor regions surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral fibrosis, indicating the formation of fibrous tissue in response to the tumor microenvironment.",
+    "Peritumoral fibrosis is evident in the brain tumor tissue, emphasizing the potential impact on tissue stiffness and mechanical properties.",
+    "The presence of peritumoral fibrosis in the image provides valuable information about the fibrotic changes induced by the tumor microenvironment."
+  ],
+  "Tumor Microenvironment pH Levels": [
+    "Analysis of tumor microenvironment pH levels in the SRH image reveals the acidity or alkalinity of the extracellular milieu within the tumor microenvironment.",
+    "Histopathology
