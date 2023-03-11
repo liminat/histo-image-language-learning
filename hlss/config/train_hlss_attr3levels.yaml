@@ -1315,4 +1315,12 @@ model:
   ],
   "Tumor Microenvironment pH Levels": [
     "Analysis of tumor microenvironment pH levels in the SRH image reveals the acidity or alkalinity of the extracellular milieu within the tumor microenvironment.",
-    "Histopathology
+    "Histopathology slide showcases distinct tumor microenvironment pH levels, providing insights into the acidic or basic conditions associated with tumor growth.",
+    "Tumor microenvironment pH levels are evident in the brain tumor tissue, highlighting the potential impact on cellular functions and signaling.",
+    "Understanding tumor microenvironment pH levels in the image contributes to a nuanced view of the physiological conditions within the tumor microenvironment."
+  ],
+  "Tumor Margin Elasticity": [
+    "Observation of tumor margin elasticity in the SRH image provides insights into the mechanical properties and stiffness of the tumor boundary.",
+    "Histopathology slide showcases distinct tumor margin elasticity, indicating the elastic characteristics at the periphery of the tumor.",
+    "Tumor margin elasticity is evident in the brain tumor tissue, highlighting the potential impact on tissue deformability and tumor invasion.",
+    
