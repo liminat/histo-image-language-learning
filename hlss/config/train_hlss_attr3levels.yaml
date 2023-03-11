@@ -1332,4 +1332,11 @@ model:
     "The presence of stromal glycosaminoglycans in the image provides valuable information about the structural components influencing the stromal matrix."
   ],
   "Peritumoral Cytokine Expression": [
-    "Analysis of peritumoral cytokine expression in the SRH image reveals the levels and distribution of cytokines i
+    "Analysis of peritumoral cytokine expression in the SRH image reveals the levels and distribution of cytokines in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral cytokine expression, indicating the cytokine milieu and inflammatory signaling in the peritumoral region.",
+    "Peritumoral cytokine expression is evident in the brain tumor tissue, highlighting the potential impact on immune responses and cellular behavior.",
+    "Understanding peritumoral cytokine expression in the image contributes to a comprehensive assessment of the inflammatory and immunomodulatory environment."
+  ],
+  "Tumor-Stroma Neurotransmitter Signaling": [
+    "Observation of tumor-stroma neurotransmitter signaling in the SRH image reveals the molecular communication between tumor and stromal cells involving neurotransmitters.",
+    "Histopathology slide highlights distinct tumor-stroma neurotransmitter signaling, indicating the neurochemical 
