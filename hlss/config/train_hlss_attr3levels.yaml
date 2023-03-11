@@ -1323,4 +1323,13 @@ model:
     "Observation of tumor margin elasticity in the SRH image provides insights into the mechanical properties and stiffness of the tumor boundary.",
     "Histopathology slide showcases distinct tumor margin elasticity, indicating the elastic characteristics at the periphery of the tumor.",
     "Tumor margin elasticity is evident in the brain tumor tissue, highlighting the potential impact on tissue deformability and tumor invasion.",
-    
+    "Understanding tumor margin elasticity in the image contributes to a comprehensive assessment of the mechanical features at the tumor periphery."
+  ],
+  "Stromal Glycosaminoglycans": [
+    "Detection of stromal glycosaminoglycans in the SRH image suggests the presence and distribution of glycosaminoglycan molecules within the tumor stroma.",
+    "Histopathology slide exhibits distinct stromal glycosaminoglycans, providing insights into the composition of the stromal extracellular matrix.",
+    "Stromal glycosaminoglycans are evident in the brain tumor tissue, highlighting their potential role in modulating the stromal microenvironment.",
+    "The presence of stromal glycosaminoglycans in the image provides valuable information about the structural components influencing the stromal matrix."
+  ],
+  "Peritumoral Cytokine Expression": [
+    "Analysis of peritumoral cytokine expression in the SRH image reveals the levels and distribution of cytokines i
