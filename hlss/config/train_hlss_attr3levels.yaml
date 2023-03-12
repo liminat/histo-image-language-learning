@@ -1339,4 +1339,12 @@ model:
   ],
   "Tumor-Stroma Neurotransmitter Signaling": [
     "Observation of tumor-stroma neurotransmitter signaling in the SRH image reveals the molecular communication between tumor and stromal cells involving neurotransmitters.",
-    "Histopathology slide highlights distinct tumor-stroma neurotransmitter signaling, indicating the neurochemical 
+    "Histopathology slide highlights distinct tumor-stroma neurotransmitter signaling, indicating the neurochemical interactions influencing cellular responses.",
+    "Tumor-stroma neurotransmitter signaling is evident in the brain tumor tissue, emphasizing the potential impact on neural signaling within the tumor microenvironment.",
+    "The presence of tumor-stroma neurotransmitter signaling in the image provides valuable information about the neurochemical interactions shaping the tumor-stroma interplay."
+  ],
+  "Tumor Margin Hypoxia Levels": [
+    "Detection of tumor margin hypoxia levels in the SRH image provides insights into the oxygen levels and distribution at the periphery of the tumor.",
+    "Histopathology slide exhibits distinct tumor margin hypoxia levels, indicating the hypoxic conditions influencing the tumor margin.",
+    "Tumor margin hypoxia levels are evident in the brain tumor tissue, highlighting the potential impact on angiogenesis and cellular adaptation.",
+    "Understanding tum
