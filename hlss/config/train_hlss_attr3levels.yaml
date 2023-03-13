@@ -1363,4 +1363,11 @@ model:
   ],
   "Tumor Microenvironment Extracellular Vesicles": [
     "Analysis of tumor microenvironment extracellular vesicles in the SRH image reveals the presence and distribution of extracellular vesicles within the tumor stroma.",
-    "Histopathology slide exhibits distinct tumor microenvironment extracellular vesicles, providing ins
+    "Histopathology slide exhibits distinct tumor microenvironment extracellular vesicles, providing insights into the intercellular communication mediated by vesicular transport.",
+    "Tumor microenvironment extracellular vesicles are evident in the brain tumor tissue, highlighting their potential role in signaling and information exchange.",
+    "The presence of tumor microenvironment extracellular vesicles in the image provides valuable information about the vesicle-mediated communication within the tumor microenvironment."
+  ],
+  "Tumor-Stroma Mechanical Properties": [
+    "Detection of tumor-stroma mechanical properties in the SRH image suggests the physical characteristics and behavior of the tumor-stroma interface.",
+    "Histopathology slide showcases distinct tumor-stroma mechanical properties, indicating the structural features influencing mechanical interactions.",
+    "Tumor-stroma mechanical properties are evident in the brain tumor tissue, highlighting the potential impact on tissue deformation
