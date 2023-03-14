@@ -1370,4 +1370,14 @@ model:
   "Tumor-Stroma Mechanical Properties": [
     "Detection of tumor-stroma mechanical properties in the SRH image suggests the physical characteristics and behavior of the tumor-stroma interface.",
     "Histopathology slide showcases distinct tumor-stroma mechanical properties, indicating the structural features influencing mechanical interactions.",
-    "Tumor-stroma mechanical properties are evident in the brain tumor tissue, highlighting the potential impact on tissue deformation
+    "Tumor-stroma mechanical properties are evident in the brain tumor tissue, highlighting the potential impact on tissue deformation and biomechanical responses.",
+    "Understanding tumor-stroma mechanical properties in the image contributes to a comprehensive assessment of the mechanical aspects at the tumor-stroma interface."
+  ],
+  "Peritumoral Oxidative Stress": [
+    "Observation of peritumoral oxidative stress in the SRH image provides insights into the levels of reactive oxygen species and oxidative damage in the tissue surrounding the tumor.",
+    "Histopathology slide highlights distinct peritumoral oxidative stress, indicating the redox imbalances and cellular responses to oxidative conditions.",
+    "Peritumoral oxidative stress is evident in the brain tumor tissue, emphasizing the potential impact on DNA damage and cellular survival.",
+    "Understanding peritumoral oxidative stress in the image contributes to a comprehensive assessment of the redox status in the peritumoral region."
+  ],
+  "Tumor Margin Immune Suppression": [
+    "Observation of tumor margin immun
