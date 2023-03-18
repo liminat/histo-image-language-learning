@@ -1403,4 +1403,11 @@ model:
     "Tumor-stroma growth factor interactions are evident in the brain tumor tissue, emphasizing the potential impact on cell growth and tissue development.",
     "The presence of tumor-stroma growth factor interactions in the image provides valuable information about the growth regulatory mechanisms shaping the tumor-stroma interplay."
   ],
-  "Tumor M
+  "Tumor Microenvironment Metabolomic Profiles": [
+    "Detection of tumor microenvironment metabolomic profiles in the SRH image provides insights into the metabolic composition and signature of the tumor microenvironment.",
+    "Histopathology slide exhibits distinct tumor microenvironment metabolomic profiles, offering valuable information about the metabolic changes associated with tumor growth.",
+    "Tumor microenvironment metabolomic profiles are evident in the brain tumor tissue, highlighting the potential impact on cellular metabolism and energy production.",
+    "Understanding tumor microenvironment metabolomic profiles in the image contributes to a comprehensive assessment of the metabolic landscape within the tumor microenvironment."
+  ],
+  "Peritumoral Stiffness": [
+    "Analysis of peritumoral stiffness in the SRH image reveals the mechanical properties and stiffness of the tis
