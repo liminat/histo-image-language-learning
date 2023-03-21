@@ -1410,4 +1410,12 @@ model:
     "Understanding tumor microenvironment metabolomic profiles in the image contributes to a comprehensive assessment of the metabolic landscape within the tumor microenvironment."
   ],
   "Peritumoral Stiffness": [
-    "Analysis of peritumoral stiffness in the SRH image reveals the mechanical properties and stiffness of the tis
+    "Analysis of peritumoral stiffness in the SRH image reveals the mechanical properties and stiffness of the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral stiffness, indicating the tissue rigidity and mechanical characteristics in the peritumoral region.",
+    "Peritumoral stiffness is evident in the brain tumor tissue, emphasizing the potential impact on tissue deformation and mechanical interactions.",
+    "Understanding peritumoral stiffness in the image contributes to a comprehensive assessment of the mechanical aspects in the peritumoral microenvironment."
+  ],
+  "Tumor Margin Immune Cell Exhaustion": [
+    "Observation of tumor margin immune cell exhaustion in the SRH image suggests the functional exhaustion and reduced activity of immune cells at the periphery of the tumor.",
+    "Histopathology slide showcases distinct tumor margin immune cell exhaustion, indicating the compromised functionality of immune cells at the tumor margin.",
+    "Tumor margin immune cell exhaustion is evident in
