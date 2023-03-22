@@ -1418,4 +1418,11 @@ model:
   "Tumor Margin Immune Cell Exhaustion": [
     "Observation of tumor margin immune cell exhaustion in the SRH image suggests the functional exhaustion and reduced activity of immune cells at the periphery of the tumor.",
     "Histopathology slide showcases distinct tumor margin immune cell exhaustion, indicating the compromised functionality of immune cells at the tumor margin.",
-    "Tumor margin immune cell exhaustion is evident in
+    "Tumor margin immune cell exhaustion is evident in the brain tumor tissue, emphasizing the potential impact on antitumor immune responses and immune surveillance.",
+    "Understanding tumor margin immune cell exhaustion in the image contributes to a comprehensive assessment of the immune landscape at the tumor periphery."
+  ],
+  "Stromal Chemokine Gradients": [
+    "Detection of stromal chemokine gradients in the SRH image reveals the spatial distribution of chemokines within the tumor stroma.",
+    "Histopathology slide exhibits distinct stromal chemokine gradients, providing insights into the chemotactic signaling influencing cellular migration in the stromal microenvironment.",
+    "Stromal chemokine gradients are evident in the brain tumor tissue, highlighting the potential impact on immune cell recruitment and stromal interactions.",
+    "The presence of stromal chemokine gradients in the image provides valuable information about the chemokine-mediated cellular responses within the stromal en
