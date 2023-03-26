@@ -1441,4 +1441,11 @@ model:
   ],
   "Tumor Microenvironment MicroRNA Profiles": [
     "Observation of tumor microenvironment microRNA profiles in the SRH image provides insights into the microRNA expression patterns shaping the molecular landscape within the tumor microenvironment.",
-    "Histopathology slide showcases distinct tumor microenvironment microRNA profiles, indicating the regulatory roles of microRNAs in ce
+    "Histopathology slide showcases distinct tumor microenvironment microRNA profiles, indicating the regulatory roles of microRNAs in cellular processes and gene expression.",
+    "Tumor microenvironment microRNA profiles are evident in the brain tumor tissue, highlighting the potential impact on post-transcriptional regulation and signaling pathways.",
+    "Understanding tumor microenvironment microRNA profiles in the image contributes to a comprehensive assessment of the molecular dynamics within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Suppressive Factors": [
+    "Detection of peritumoral immune suppressive factors in the SRH image suggests the presence of factors contributing to the suppression of immune responses in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune suppressive factors, providing insights into the immunosuppressive microenvironment in the peritumoral region.",
+    "Peritumoral immune suppressive factors are evident in the brain tumor tissue, emphasiz
