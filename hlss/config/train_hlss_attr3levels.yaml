@@ -1461,4 +1461,12 @@ model:
     "Observation of peritumoral immune cell polarization in the SRH image suggests the directional orientation and activation states of immune cells in the tissue surrounding the tumor.",
     "Histopathology slide highlights distinct peritumoral immune cell polarization, indicating the polarization of immune cells and their involvement in the peritumoral immune response.",
     "Peritumoral immune cell polarization is evident in the brain tumor tissue, emphasizing the potential impact on immune cell functions and their interactions with the tumor microenvironment.",
-    "Understanding peritumoral immune cell polarization in the image contributes to a comprehensive assessment of the immune 
+    "Understanding peritumoral immune cell polarization in the image contributes to a comprehensive assessment of the immune cell dynamics and responses in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Extracellular Vesicle Cargo": [
+    "Detection of tumor-stroma extracellular vesicle cargo in the SRH image reveals the molecular cargo and content transported by extracellular vesicles within the interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma extracellular vesicle cargo, providing insights into the intercellular communication mediated by vesicles and their cargo.",
+    "Tumor-stroma extracellular vesicle cargo is evident in the brain tumor tissue, highlighting the potential impact on cell signaling and information exchange.",
+    "The presence of tumor-stroma extracellular vesicle cargo in the image provides valuable information about the molecular cargo influencing the communication within the tumor-stroma interface."
+  ],
+  "Tumor
