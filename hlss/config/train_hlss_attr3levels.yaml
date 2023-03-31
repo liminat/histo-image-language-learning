@@ -1483,4 +1483,11 @@ model:
   ],
   "Tumor-Stroma Endothelial Cell Activation": [
     "Analysis of tumor-stroma endothelial cell activation in the SRH image reveals the activation state and functional changes in endothelial cells within the interactions between tumor and stromal cells.",
-    "Histopathology slide showcases distinct tumor-stroma endothelial cell activation, providing insights into the dynamic roles of endothelial cells in angiogenes
+    "Histopathology slide showcases distinct tumor-stroma endothelial cell activation, providing insights into the dynamic roles of endothelial cells in angiogenesis and vascular remodeling.",
+    "Tumor-stroma endothelial cell activation is evident in the brain tumor tissue, highlighting the potential impact on vascular function and angiogenic processes.",
+    "The presence of tumor-stroma endothelial cell activation in the image provides valuable information about the endothelial cell behavior influencing the vascular dynamics within the tumor-stroma interface."
+  ],
+  "Peritumoral Extracellular Matrix Stiffness": [
+    "Observation of peritumoral extracellular matrix stiffness in the SRH image suggests alterations in the stiffness and mechanical properties of the extracellular matrix in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral extracellular matrix stiffness, indicating changes in the mechanical microenvironment surrounding the tumor.",
+    "Peritumoral extracellular matrix stiffness is evident in the brain tumor ti
