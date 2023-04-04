@@ -1490,4 +1490,11 @@ model:
   "Peritumoral Extracellular Matrix Stiffness": [
     "Observation of peritumoral extracellular matrix stiffness in the SRH image suggests alterations in the stiffness and mechanical properties of the extracellular matrix in the tissue surrounding the tumor.",
     "Histopathology slide exhibits distinct peritumoral extracellular matrix stiffness, indicating changes in the mechanical microenvironment surrounding the tumor.",
-    "Peritumoral extracellular matrix stiffness is evident in the brain tumor ti
+    "Peritumoral extracellular matrix stiffness is evident in the brain tumor tissue, emphasizing the potential impact on cell adhesion, migration, and tissue remodeling.",
+    "Understanding peritumoral extracellular matrix stiffness in the image contributes to a comprehensive assessment of the mechanical characteristics within the peritumoral microenvironment."
+  ],
+  "Tumor Margin Neovascularization": [
+    "Detection of tumor margin neovascularization in the SRH image reveals the formation of new blood vessels at the margin of the tumor.",
+    "Histopathology slide showcases distinct tumor margin neovascularization, indicating the angiogenic processes and blood vessel formation at the tumor margin.",
+    "Tumor margin neovascularization is evident in the brain tumor tissue, highlighting the potential impact on nutrient supply, oxygenation, and tumor growth.",
+    "The presence of tumor margin neovascularization in the image provides valuable information about the vascular changes occurrin
