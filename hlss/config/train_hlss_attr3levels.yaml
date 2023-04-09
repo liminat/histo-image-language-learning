@@ -1497,4 +1497,13 @@ model:
     "Detection of tumor margin neovascularization in the SRH image reveals the formation of new blood vessels at the margin of the tumor.",
     "Histopathology slide showcases distinct tumor margin neovascularization, indicating the angiogenic processes and blood vessel formation at the tumor margin.",
     "Tumor margin neovascularization is evident in the brain tumor tissue, highlighting the potential impact on nutrient supply, oxygenation, and tumor growth.",
-    "The presence of tumor margin neovascularization in the image provides valuable information about the vascular changes occurrin
+    "The presence of tumor margin neovascularization in the image provides valuable information about the vascular changes occurring at the periphery of the tumor."
+  ],
+   "Stromal Tissue Tension": [
+    "Observation of stromal tissue tension in the SRH image reveals the mechanical tension and stress within the stromal tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal tissue tension, providing insights into the biomechanical properties and forces acting on the stromal components.",
+    "Stromal tissue tension is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture, cell behavior, and tumor-stroma interactions.",
+    "Understanding stromal tissue tension in the image contributes to a comprehensive assessment of the mechanical forces within the tumor microenvironment."
+  ],
+  "Peritumoral Immune Cell Trafficking Patterns": [
+    "Detection of peritumoral immune cell trafficking patterns in the SRH image reveals the spatial patterns and movement of immune 
