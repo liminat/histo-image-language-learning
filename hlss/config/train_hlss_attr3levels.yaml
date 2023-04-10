@@ -1506,4 +1506,11 @@ model:
     "Understanding stromal tissue tension in the image contributes to a comprehensive assessment of the mechanical forces within the tumor microenvironment."
   ],
   "Peritumoral Immune Cell Trafficking Patterns": [
-    "Detection of peritumoral immune cell trafficking patterns in the SRH image reveals the spatial patterns and movement of immune 
+    "Detection of peritumoral immune cell trafficking patterns in the SRH image reveals the spatial patterns and movement of immune cells in the tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct peritumoral immune cell trafficking patterns, providing insights into the orchestrated movements and distribution of immune cells.",
+    "Peritumoral immune cell trafficking patterns are evident in the brain tumor tissue, highlighting the potential impact on immune surveillance and antitumor responses.",
+    "The presence of peritumoral immune cell trafficking patterns in the image provides valuable information about the spatial dynamics of immune cells in the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Lymphatic Drainage": [
+    "Analysis of tumor-stroma lymphatic drainage in the SRH image reveals the drainage patterns and flow of lymphatic vessels within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma lymphatic drainage, providing insights into the lymphatic networ
