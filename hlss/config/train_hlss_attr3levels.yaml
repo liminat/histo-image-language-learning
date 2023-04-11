@@ -1520,4 +1520,13 @@ model:
   "Tumor Margin Mast Cell Infiltration": [
     "Observation of tumor margin mast cell infiltration in the SRH image suggests the presence and infiltration of mast cells at the margin of the tumor.",
     "Histopathology slide highlights distinct tumor margin mast cell infiltration, indicating the involvement of mast cells in the peritumoral microenvironment.",
-    "Tumor margin mast cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, angiogenesis,
+    "Tumor margin mast cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, angiogenesis, and tissue remodeling.",
+    "Understanding tumor margin mast cell infiltration in the image contributes to a comprehensive assessment of the mast cell dynamics at the periphery of the tumor."
+  ],
+  "Stromal Tissue Innervation": [
+    "Detection of stromal tissue innervation in the SRH image reveals the presence and distribution of nerve fibers within the stromal tissue surrounding the tumor.",
+    "Histopathology slide exhibits distinct stromal tissue innervation, providing insights into the neural network and its potential role in tumor-stroma communication.",
+    "Stromal tissue innervation is evident in the brain tumor tissue, highlighting the potential impact on sensory input, angiogenesis, and tissue homeostasis.",
+    "The presence of stromal tissue innervation in the image provides valuable information about the neurogenic influences within the tumor microenvironment."
+  ],
+  "Peritumo
