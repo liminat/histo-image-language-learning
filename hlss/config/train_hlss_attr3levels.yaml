@@ -1543,4 +1543,11 @@ model:
   ],
   "Tumor Microenvironment Stromal Cell Proliferation": [
     "Detection of tumor microenvironment stromal cell proliferation in the SRH image reveals the active proliferation of stromal cells within the tumor microenvironment.",
-    "Histopathology slide exhibits distinct tumor microenvironment stromal cell proliferation, providing insight
+    "Histopathology slide exhibits distinct tumor microenvironment stromal cell proliferation, providing insights into the proliferative capacity of stromal components.",
+    "Tumor microenvironment stromal cell proliferation is evident in the brain tumor tissue, highlighting the potential impact on tissue growth, remodeling, and support.",
+    "The presence of tumor microenvironment stromal cell proliferation in the image provides valuable information about the dynamic cellular processes within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue Oxygenation": [
+    "Observation of peritumoral tissue oxygenation in the SRH image reveals the levels of tissue oxygenation and vascular oxygen supply in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral tissue oxygenation, providing insights into the oxygen dynamics and vascular perfusion in the peritumoral region.",
+    "Peritumoral tissue oxygenation is evident in the brain tumor tissue, highlighting the pot
