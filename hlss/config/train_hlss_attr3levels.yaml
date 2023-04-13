@@ -1574,4 +1574,11 @@ model:
   "Peritumoral Immune Cell Metabolism": [
     "Detection of peritumoral immune cell metabolism in the SRH image reveals the metabolic activities and energy consumption of immune cells in the tissue surrounding the tumor.",
     "Histopathology slide exhibits distinct peritumoral immune cell metabolism, providing insights into the bioenergetic processes and metabolic adaptations of immune cells.",
-    "Peritum
+    "Peritumoral immune cell metabolism is evident in the brain tumor tissue, highlighting the potential impact on immune responses, inflammation, and tissue homeostasis.",
+    "The presence of peritumoral immune cell metabolism in the image provides valuable information about the metabolic dynamics within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma T Cell Infiltration": [
+    "Observation of tumor-stroma T cell infiltration in the SRH image suggests the infiltration and distribution of T cells within the interactions between tumor and stromal cells.",
+    "Histopathology slide highlights distinct tumor-stroma T cell infiltration, indicating the involvement of T cells in the antitumor immune response.",
+    "Tumor-stroma T cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune surveillance, cytotoxicity, and tumor elimination.",
+    "Understanding tumor-stroma T cell 
