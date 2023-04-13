@@ -1581,4 +1581,13 @@ model:
     "Observation of tumor-stroma T cell infiltration in the SRH image suggests the infiltration and distribution of T cells within the interactions between tumor and stromal cells.",
     "Histopathology slide highlights distinct tumor-stroma T cell infiltration, indicating the involvement of T cells in the antitumor immune response.",
     "Tumor-stroma T cell infiltration is evident in the brain tumor tissue, emphasizing the potential impact on immune surveillance, cytotoxicity, and tumor elimination.",
-    "Understanding tumor-stroma T cell 
+    "Understanding tumor-stroma T cell infiltration in the image contributes to a comprehensive assessment of the T cell dynamics within the tumor-stroma interface."
+  ],
+  "Tumor Margin Collagen Crosslinking": [
+    "Analysis of tumor margin collagen crosslinking in the SRH image reveals the presence and distribution of crosslinked collagen fibers at the margin of the tumor.",
+    "Histopathology slide showcases distinct tumor margin collagen crosslinking, providing insights into the structural stability and mechanical properties of the collagen network.",
+    "Tumor margin collagen crosslinking is evident in the brain tumor tissue, highlighting the potential impact on tissue architecture, stiffness, and extracellular matrix remodeling.",
+    "Understanding tumor margin collagen crosslinking in the image contributes to a comprehensive assessment of the collagen modifications at the periphery of the tumor."
+  ],
+  "Stromal Matrix Elasticity": [
+    "Observation of stromal matrix elasticity in 
