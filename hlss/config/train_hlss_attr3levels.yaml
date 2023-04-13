@@ -1557,4 +1557,13 @@ model:
     "Analysis of tumor-stroma natural killer cell activity in the SRH image reveals the activity and presence of natural killer cells within the interactions between tumor and stromal cells.",
     "Histopathology slide showcases distinct tumor-stroma natural killer cell activity, providing insights into the cytotoxic functions and antitumor responses of natural killer cells.",
     "Tumor-stroma natural killer cell activity is evident in the brain tumor tissue, highlighting the potential impact on immune surveillance, tumor elimination, and tissue homeostasis.",
-    "Understanding tumor-stroma natural killer cell activity in the image contri
+    "Understanding tumor-stroma natural killer cell activity in the image contributes to a comprehensive assessment of the immune cell dynamics within the tumor-stroma interface."
+  ],
+   "Tumor Margin Tissue Perfusion": [
+    "Observation of tumor margin tissue perfusion in the SRH image suggests variations in tissue perfusion and blood flow at the margin of the tumor.",
+    "Histopathology slide highlights distinct tumor margin tissue perfusion, indicating the vascular dynamics and perfusion patterns at the tumor margin.",
+    "Tumor margin tissue perfusion is evident in the brain tumor tissue, emphasizing the potential impact on nutrient supply, oxygenation, and tumor growth.",
+    "Understanding tumor margin tissue perfusion in the image contributes to a comprehensive assessment of the vascular characteristics at the periphery of the tumor."
+  ],
+  "Stromal Tissue Viscosity": [
+    "Analysis of stromal tissue viscosity in the SRH image reveals the viscosity and resistance to flow within the stromal tissue surrounding the tumor.",
