@@ -1597,4 +1597,11 @@ model:
   ],
   "Peritumoral Immune Cell Senescence": [
     "Detection of peritumoral immune cell senescence in the SRH image reveals the presence and distribution of senescent immune cells in the tissue surrounding the tumor.",
-    "Histopathology slide exhibits distinct peritumoral immune cell senescence, providing insights into the aging and altered functions of immune cells in
+    "Histopathology slide exhibits distinct peritumoral immune cell senescence, providing insights into the aging and altered functions of immune cells in the peritumoral microenvironment.",
+    "Peritumoral immune cell senescence is evident in the brain tumor tissue, highlighting the potential impact on immune responses, inflammation, and tissue homeostasis.",
+    "The presence of peritumoral immune cell senescence in the image provides valuable information about the senescence-associated changes within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Matrix Metalloproteinase Levels": [
+    "Analysis of tumor-stroma matrix metalloproteinase levels in the SRH image reveals the levels and distribution of matrix metalloproteinases within the interactions between tumor and stromal cells.",
+    "Histopathology slide showcases distinct tumor-stroma matrix metalloproteinase levels, providing insights into the proteolytic activities and extracellular matrix remodeling.",
+    "Tumor-stroma matrix metalloproteinase levels are evident in the brain tu
