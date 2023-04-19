@@ -1611,4 +1611,13 @@ model:
     "Observation of tumor microenvironment cytokine gradients in the SRH image reveals the spatial distribution and concentration gradients of cytokines within the tumor microenvironment.",
     "Histopathology slide highlights distinct tumor microenvironment cytokine gradients, providing insights into the signaling network and immune modulation within the tumor microenvironment.",
     "Tumor microenvironment cytokine gradients are evident in the brain tumor tissue, emphasizing the potential impact on immune responses, inflammation, and cellular behaviors.",
-    "Understanding tumor microenvironment cyt
+    "Understanding tumor microenvironment cytokine gradients in the image contributes to a comprehensive assessment of the immune and signaling dynamics within the tumor microenvironment."
+  ],
+  "Peritumoral Vascular Endothelial Growth Factor": [
+    "Analysis of peritumoral vascular endothelial growth factor (VEGF) in the SRH image reveals the levels and distribution of VEGF within the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral VEGF expression, providing insights into angiogenic processes and vascular permeability in the peritumoral microenvironment.",
+    "Peritumoral VEGF expression is evident in the brain tumor tissue, highlighting the potential impact on blood vessel formation, angiogenesis, and tissue perfusion.",
+    "Understanding peritumoral VEGF expression in the image contributes to a comprehensive assessment of the angiogenic factors within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Chemokine Receptor Expression": [
+    "Detection of tumor-stroma chemokine receptor e
