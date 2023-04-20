@@ -1620,4 +1620,10 @@ model:
     "Understanding peritumoral VEGF expression in the image contributes to a comprehensive assessment of the angiogenic factors within the peritumoral microenvironment."
   ],
   "Tumor-Stroma Chemokine Receptor Expression": [
-    "Detection of tumor-stroma chemokine receptor e
+    "Detection of tumor-stroma chemokine receptor expression in the SRH image reveals the expression and distribution of chemokine receptors within the interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma chemokine receptor expression, providing insights into the chemotactic responses and immune cell recruitment within the tumor microenvironment.",
+    "Tumor-stroma chemokine receptor expression is evident in the brain tumor tissue, emphasizing the potential impact on immune cell migration, inflammation, and antitumor responses.",
+    "The presence of tumor-stroma chemokine receptor expression in the image provides valuable information about the chemotactic signaling within the tumor-stroma interface."
+  ],
+  "Tumor Margin Immune Checkpoint Expression": [
+    "Observation of tumor margin immune checkpoint expression in the SRH image suggests the expression and distribution of immune checkpoint molecules at the margin of the 
