@@ -1626,4 +1626,11 @@ model:
     "The presence of tumor-stroma chemokine receptor expression in the image provides valuable information about the chemotactic signaling within the tumor-stroma interface."
   ],
   "Tumor Margin Immune Checkpoint Expression": [
-    "Observation of tumor margin immune checkpoint expression in the SRH image suggests the expression and distribution of immune checkpoint molecules at the margin of the 
+    "Observation of tumor margin immune checkpoint expression in the SRH image suggests the expression and distribution of immune checkpoint molecules at the margin of the tumor.",
+    "Histopathology slide highlights distinct tumor margin immune checkpoint expression, indicating the potential immunoregulatory mechanisms and immune evasion strategies at the tumor margin.",
+    "Tumor margin immune checkpoint expression is evident in the brain tumor tissue, emphasizing the potential impact on immune responses, T cell exhaustion, and antitumor immunity.",
+    "Understanding tumor margin immune checkpoint expression in the image contributes to a comprehensive assessment of the immunomodulatory features at the periphery of the tumor."
+  ],
+  "Stromal Tissue Angiostatic Factors": [
+    "Observation of stromal tissue angiostatic factors in the SRH image reveals factors that inhibit angiogenesis within the stromal components surrounding the tumor.",
+    "Histopathology slide showcases distinct stromal tissue angiostatic factors, providing insights into the anti-angiogenic 
