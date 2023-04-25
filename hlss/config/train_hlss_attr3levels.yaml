@@ -1640,4 +1640,11 @@ model:
   "Peritumoral Tissue pH Levels": [
     "Analysis of peritumoral tissue pH levels in the SRH image reveals the acidity or alkalinity levels in the tissue surrounding the tumor.",
     "Histopathology slide showcases distinct peritumoral tissue pH levels, providing insights into the pH dynamics and acid-base balance in the peritumoral microenvironment.",
-    "Peritumoral tissue pH levels are evident in the brain tumor tissue, highlighting the potential impact on metabolic activities, enzyme functi
+    "Peritumoral tissue pH levels are evident in the brain tumor tissue, highlighting the potential impact on metabolic activities, enzyme function, and cellular responses.",
+    "Understanding peritumoral tissue pH levels in the image contributes to a comprehensive assessment of the metabolic and physiological conditions within the peritumoral microenvironment."
+  ],
+  "Tumor-Stroma Cell Adhesion Molecules": [
+    "Detection of tumor-stroma cell adhesion molecules in the SRH image reveals the presence and distribution of molecules mediating cell-cell interactions between tumor and stromal cells.",
+    "Histopathology slide exhibits distinct tumor-stroma cell adhesion molecules, providing insights into the adhesive interactions and communication within the tumor-stroma interface.",
+    "Tumor-stroma cell adhesion molecules are evident in the brain tumor tissue, emphasizing the potential impact on cell migration, invasion, and cellular signaling.",
+    "The presence of tumor-stroma cell adhesion molecules in the image provides va
