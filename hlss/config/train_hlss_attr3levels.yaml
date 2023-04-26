@@ -1647,4 +1647,13 @@ model:
     "Detection of tumor-stroma cell adhesion molecules in the SRH image reveals the presence and distribution of molecules mediating cell-cell interactions between tumor and stromal cells.",
     "Histopathology slide exhibits distinct tumor-stroma cell adhesion molecules, providing insights into the adhesive interactions and communication within the tumor-stroma interface.",
     "Tumor-stroma cell adhesion molecules are evident in the brain tumor tissue, emphasizing the potential impact on cell migration, invasion, and cellular signaling.",
-    "The presence of tumor-stroma cell adhesion molecules in the image provides va
+    "The presence of tumor-stroma cell adhesion molecules in the image provides valuable information about the molecular interactions within the tumor-stroma interface."
+  ],
+  "Tumor Microenvironment Immune Cell Exhaustion": [
+    "Observation of tumor microenvironment immune cell exhaustion in the SRH image suggests the presence and exhaustion status of immune cells within the tumor microenvironment.",
+    "Histopathology slide highlights distinct tumor microenvironment immune cell exhaustion, indicating the potential functional impairment and reduced activity of immune cells.",
+    "Tumor microenvironment immune cell exhaustion is evident in the brain tumor tissue, emphasizing the potential impact on immunosuppression, immune evasion, and tumor progression.",
+    "Understanding tumor microenvironment immune cell exhaustion in the image contributes to a comprehensive assessment of the immune checkpoint regulation within the tumor microenvironment."
+  ],
+  "Peritumoral Tissue Glycoprotein Expression": [
+    "Analysis o
