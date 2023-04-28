@@ -1656,4 +1656,13 @@ model:
     "Understanding tumor microenvironment immune cell exhaustion in the image contributes to a comprehensive assessment of the immune checkpoint regulation within the tumor microenvironment."
   ],
   "Peritumoral Tissue Glycoprotein Expression": [
-    "Analysis o
+    "Analysis of peritumoral tissue glycoprotein expression in the SRH image reveals the expression and distribution of glycoproteins in the tissue surrounding the tumor.",
+    "Histopathology slide showcases distinct peritumoral tissue glycoprotein expression, providing insights into the glycosylation patterns and molecular features of the peritumoral microenvironment.",
+    "Peritumoral tissue glycoprotein expression is evident in the brain tumor tissue, highlighting the potential impact on cell adhesion, signaling, and extracellular matrix interactions.",
+    "Understanding peritumoral tissue glycoprotein expression in the image contributes to a comprehensive assessment of the molecular characteristics within the peritumoral microenvironment."
+  ]
+  }
+    patient_templates : {
+      'Chemical Composition': [
+        'The image displays a diverse chemical composition within the tissue.', 
+        'Specific chemical comp
