@@ -1665,4 +1665,14 @@ model:
     patient_templates : {
       'Chemical Composition': [
         'The image displays a diverse chemical composition within the tissue.', 
-        'Specific chemical comp
+        'Specific chemical components are visually identified in the histopathology slide.', 
+        'Chemical composition data is vital for characterizing the tissue in the pathology image.', 
+        'Variations in chemical composition are evident throughout the tissue sample.'], 
+      'Metabolic Pathway Indicators': [
+        'Histopathology image showing indicators related to specific metabolic pathways within the tissue.', 
+        'Tissue with visible indicators related to metabolic pathways in the image, indicative of specific pathway-related markers.', 
+        'Indicators related to specific metabolic pathways are evident in the pathology sample, providing insights into metabolic processes within the tissue.', 
+        'Specific indicators associated with metabolic pathways are detected within the tissue in the image.'],
+        "Tumor Heterogeneity": [
+      "A diverse histopathology slide indicating varying tumor cell characteristics.",
+      "Prese
