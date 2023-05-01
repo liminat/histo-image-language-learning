@@ -1675,4 +1675,18 @@ model:
         'Specific indicators associated with metabolic pathways are detected within the tissue in the image.'],
         "Tumor Heterogeneity": [
       "A diverse histopathology slide indicating varying tumor cell characteristics.",
-      "Prese
+      "Presence of heterogeneous growth patterns in the histopathology image.",
+      "Tumor heterogeneity is evident, showcasing diverse cellular features.",
+      "The slide exhibits significant variability in cellular morphology, indicating tumor heterogeneity."
+    ],
+    "Growth Patterns": [
+      "Distinct growth patterns are observable in this histopathology slide.",
+      "The image illustrates specific tumor growth patterns.",
+      "Pathological tissue showing characteristic growth patterns.",
+      "The histopathology slide displays discernible tumor growth patterns."
+    ],
+    "Satellite Lesions": [
+      "Satellite lesions are visible in the histopathology image, indicating secondary tumor foci.",
+      "The presence of satellite lesions suggests multifocal tumor development.",
+      "Histopathology slide showcasing satellite lesions around the primary tumor.",
+      "Observation of satellite le
