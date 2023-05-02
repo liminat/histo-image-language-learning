@@ -1733,4 +1733,17 @@ model:
       "Necrosis patterns are observable, reflecting areas of cell death in the pathological tissue.",
       "Observation of necrosis patterns provides insights into tumor pathology."
     ],
-    "Stromal-Tumor Inte
+    "Stromal-Tumor Interaction": [
+      "The histopathology image illustrates dynamic interaction between stromal and tumor components.",
+      "Distinct features indicating stromal-tumor interaction are observable in the slide.",
+      "Observation of stromal-tumor interaction provides insights into the tumor microenvironment.",
+      "Histopathology image highlighting the reciprocal relationship between stromal and tumor elements."
+    ],
+    "Vascular Supply": [
+      "Vascular supply characteristics are evident in the histopathology image.",
+      "Distinct features indicating the vascular supply to the tumor are observable in the slide.",
+      "Observation of vascular supply provides insights into nutrient delivery to the tumor.",
+      "The histopathology image highlights the intricate vascular network supplying the tumor."
+    ],
+     "Cellular Density": [
+      "The histopatho
