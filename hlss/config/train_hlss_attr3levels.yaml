@@ -1718,4 +1718,19 @@ model:
     "Infiltrative Margins": [
       "Infiltrative tumor margins are evident in the histopathology image.",
       "Distinct infiltration of tumor cells along the margins is observable.",
-      "The slide illustrates infiltrative margins, indicating tumor in
+      "The slide illustrates infiltrative margins, indicating tumor invasion into adjacent tissue.",
+      "Observation of infiltrative margins suggests aggressive tumor behavior."
+    ],
+    "Tumor Angiogenesis": [
+      "Histopathology image revealing signs of tumor angiogenesis.",
+      "The slide showcases characteristic features of tumor angiogenesis.",
+      "Observation of enhanced blood vessel formation suggests tumor angiogenesis.",
+      "Tumor angiogenesis is evident in the pathological tissue, indicating increased vascularity."
+    ],
+    "Necrosis Patterns": [
+      "Distinct necrosis patterns are visible in this histopathology image.",
+      "The slide exhibits characteristic necrosis patterns within the tumor mass.",
+      "Necrosis patterns are observable, reflecting areas of cell death in the pathological tissue.",
+      "Observation of necrosis patterns provides insights into tumor pathology."
+    ],
+    "Stromal-Tumor Inte
