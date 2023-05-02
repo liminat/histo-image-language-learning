@@ -1689,4 +1689,20 @@ model:
       "Satellite lesions are visible in the histopathology image, indicating secondary tumor foci.",
       "The presence of satellite lesions suggests multifocal tumor development.",
       "Histopathology slide showcasing satellite lesions around the primary tumor.",
-      "Observation of satellite le
+      "Observation of satellite lesions implies the spread of tumor cells to adjacent regions."
+    ],
+    "Tumor Borders": [
+      "Well-defined tumor borders are evident in this histopathology image.",
+      "Distinct tumor borders are observable, aiding in delineating tumor extent.",
+      "The slide shows clear demarcation of tumor borders.",
+      "Histopathology image displaying defined borders of the tumor mass."
+    ],
+    "Vascular Network": [
+      "The histopathology image illustrates the intricate vascular network surrounding the tumor.",
+      "Distinct blood vessels form a complex vascular network in the pathological tissue.",
+      "Vascular network characteristics are evident in this slide.",
+      "Observation of the vascular network provides insights into tumor vasculature."
+    ],
+    "Peritumoral Characteristics": [
+      "Peritumoral characteristics are observable in the surrounding tissue of this histopathology slide.",
+      "Histopathology image indicating features in the peritumoral r
