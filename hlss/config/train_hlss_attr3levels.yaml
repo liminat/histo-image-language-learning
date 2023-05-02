@@ -1705,4 +1705,17 @@ model:
     ],
     "Peritumoral Characteristics": [
       "Peritumoral characteristics are observable in the surrounding tissue of this histopathology slide.",
-      "Histopathology image indicating features in the peritumoral r
+      "Histopathology image indicating features in the peritumoral region.",
+      "Observation of peritumoral characteristics reveals tissue alterations surrounding the tumor.",
+      "The slide highlights changes in the peritumoral microenvironment."
+    ],
+    "Microenvironment Morphology": [
+      "Distinctive microenvironment morphology is observable in this histopathology image.",
+      "The slide showcases unique features characterizing the tumor microenvironment.",
+      "Microenvironment morphology is evident, reflecting tissue changes around the tumor.",
+      "Observation of microenvironmental changes provides insights into tumor surroundings."
+    ],
+    "Infiltrative Margins": [
+      "Infiltrative tumor margins are evident in the histopathology image.",
+      "Distinct infiltration of tumor cells along the margins is observable.",
+      "The slide illustrates infiltrative margins, indicating tumor in
