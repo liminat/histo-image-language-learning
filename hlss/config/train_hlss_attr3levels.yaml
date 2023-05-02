@@ -1772,4 +1772,16 @@ model:
     "Global Cellularity": [
       "The histopathology slide provides a global view of cellular distribution and density throughout the tumor.",
       "Distinct features indicating global cellularity patterns are observable in the slide.",
-      "Observation of global cellu
+      "Observation of global cellularity provides an overall assessment of cellular composition within the pathological tissue.",
+      "Histopathology image offering a comprehensive view of cellular distribution across the entire tumor mass."
+    ],
+    "Microenvironmental Heterogeneity": [
+      "Distinct microenvironmental heterogeneity is observable in this histopathology image.",
+      "The slide showcases variations in the tumor microenvironment, reflecting heterogeneity.",
+      "Observation of microenvironmental heterogeneity provides insights into tissue changes around the tumor.",
+      "Histopathology image highlighting diverse microenvironmental features indicative of tumor heterogeneity."
+    ],
+    "Inflammatory Patterns": [
+      "The histopathology slide exhibits characteristic patterns of inflammation within the tumor.",
+      "Distinct features indicating inflammatory patterns are observable, suggesting an inflammatory response.",
+      "Observation of inflammatory patterns provides ins
