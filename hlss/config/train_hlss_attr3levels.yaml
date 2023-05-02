@@ -1759,4 +1759,17 @@ model:
     ],
     "Immune Response": [
       "The histopathology slide shows signs of immune response within the tumor microenvironment.",
-      "Distinct features indicating an immune re
+      "Distinct features indicating an immune response are observable, suggesting interactions with immune cells.",
+      "Observation of immune response provides insights into the host's reaction to the tumor.",
+      "Histopathology image highlighting the presence of immune cells and immune response patterns."
+    ],
+    "Vasculature Integrity": [
+      "The integrity of the vasculature is evident in this histopathology image.",
+      "Distinct features indicating vasculature integrity are observable in the slide.",
+      "Observation of vasculature integrity suggests functional blood vessels within the tumor mass.",
+      "Histopathology image highlighting the structural integrity of the tumor vasculature."
+    ],
+    "Global Cellularity": [
+      "The histopathology slide provides a global view of cellular distribution and density throughout the tumor.",
+      "Distinct features indicating global cellularity patterns are observable in the slide.",
+      "Observation of global cellu
