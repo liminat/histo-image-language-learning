@@ -1784,4 +1784,16 @@ model:
     "Inflammatory Patterns": [
       "The histopathology slide exhibits characteristic patterns of inflammation within the tumor.",
       "Distinct features indicating inflammatory patterns are observable, suggesting an inflammatory response.",
-      "Observation of inflammatory patterns provides ins
+      "Observation of inflammatory patterns provides insights into the nature of the immune response.",
+      "Histopathology image highlighting specific patterns of inflammation within the pathological tissue."
+    ],
+    "Margin Perfusion": [
+      "The perfusion patterns along the tumor margin are evident in this histopathology image.",
+      "Distinct features indicating margin perfusion are observable, reflecting blood flow to the tumor edges.",
+      "Observation of margin perfusion provides insights into vascular supply dynamics near the tumor borders.",
+      "Histopathology image highlighting patterns of perfusion along the tumor margin."
+    ],
+    "Microarchitecture": [
+      "Distinct microarchitectural features are observable in this histopathology image.",
+      "The slide showcases specific structural characteristics, providing insights into tissue organization.",
+      "Observation of mi
