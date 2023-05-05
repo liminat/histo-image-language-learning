@@ -1808,4 +1808,16 @@ model:
     "Extracellular Matrix": [
       "The extracellular matrix characteristics are evident in this histopathology image.",
       "Distinct features indicating extracellular matrix composition are observable in the slide.",
-      "Observation of the extrace
+      "Observation of the extracellular matrix provides insights into the structural support of the tumor.",
+      "Histopathology image highlighting specific features of the extracellular matrix within the pathological tissue."
+    ],
+    "Vascular Permeability": [
+      "The permeability of the vasculature is evident in this histopathology image.",
+      "Distinct features indicating vascular permeability are observable in the slide.",
+      "Observation of vascular permeability provides insights into blood vessel dynamics within the tumor.",
+      "Histopathology image highlighting characteristics of vascular permeability within the pathological tissue."
+    ],
+     "Microenvironmental Vascularity": [
+      "The histopathology slide showcases microenvironmental vascularity patterns surrounding the tumor.",
+      "Distinct features indicating microenvironmental vascularity are observable, reflecting blood vessel density.",
+      "Observation of microenvironmental vascularity provides insights into the vascular network ar
