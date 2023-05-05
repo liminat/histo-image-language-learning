@@ -1796,4 +1796,16 @@ model:
     "Microarchitecture": [
       "Distinct microarchitectural features are observable in this histopathology image.",
       "The slide showcases specific structural characteristics, providing insights into tissue organization.",
-      "Observation of mi
+      "Observation of microarchitecture reveals detailed tissue organization and structural patterns.",
+      "Histopathology image highlighting unique microarchitectural features within the pathological tissue."
+    ],
+    "Stromal-Tumor Crosstalk": [
+      "The histopathology slide illustrates dynamic crosstalk between stromal and tumor components.",
+      "Distinct features indicating stromal-tumor crosstalk are observable in the slide.",
+      "Observation of stromal-tumor crosstalk provides insights into reciprocal interactions between tissue elements.",
+      "Histopathology image highlighting the interplay between stromal and tumor components."
+    ],
+    "Extracellular Matrix": [
+      "The extracellular matrix characteristics are evident in this histopathology image.",
+      "Distinct features indicating extracellular matrix composition are observable in the slide.",
+      "Observation of the extrace
