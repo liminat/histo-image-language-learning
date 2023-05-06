@@ -1820,4 +1820,16 @@ model:
      "Microenvironmental Vascularity": [
       "The histopathology slide showcases microenvironmental vascularity patterns surrounding the tumor.",
       "Distinct features indicating microenvironmental vascularity are observable, reflecting blood vessel density.",
-      "Observation of microenvironmental vascularity provides insights into the vascular network ar
+      "Observation of microenvironmental vascularity provides insights into the vascular network around the tumor.",
+      "Histopathology image highlighting specific features of microenvironmental vascularity in the pathological tissue."
+    ],
+    "Global Proliferation": [
+      "The histopathology slide provides a global view of proliferation patterns throughout the tumor mass.",
+      "Distinct features indicating global proliferation are observable in the slide, reflecting cell division activity.",
+      "Observation of global proliferation offers insights into the overall cell proliferation rate within the pathological tissue.",
+      "Histopathology image offering a comprehensive view of cell proliferation patterns across the entire tumor mass."
+    ],
+    "Margin Collagen Distribution": [
+      "Distinct collagen distribution along the tumor margin is evident in this histopathology image.",
+      "The slide showcases specific patterns of collagen distribution, providing insights into tissue structure.",
+      "Observation o
