@@ -1832,4 +1832,15 @@ model:
     "Margin Collagen Distribution": [
       "Distinct collagen distribution along the tumor margin is evident in this histopathology image.",
       "The slide showcases specific patterns of collagen distribution, providing insights into tissue structure.",
-      "Observation o
+      "Observation of margin collagen distribution reveals details about the extracellular matrix near the tumor borders.",
+      "Histopathology image highlighting unique features of collagen distribution along the tumor margin."
+    ],
+    "Immune Infiltration": [
+      "The histopathology slide illustrates immune cell infiltration patterns within the tumor microenvironment.",
+      "Distinct features indicating immune infiltration are observable in the slide, reflecting immune cell presence.",
+      "Observation of immune infiltration provides insights into the distribution and type of immune cells within the pathological tissue.",
+      "Histopathology image highlighting specific patterns of immune cell infiltration in the tumor microenvironment."
+    ],
+    "Immune Suppression": [
+      "Signs of immune suppression within the tumor microenvironment are evident in this histopathology image.",
+      "Distinct features indicating immune s
