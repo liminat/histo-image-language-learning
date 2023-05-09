@@ -1867,4 +1867,16 @@ model:
     ],
     "Protein Expression": [
       "Distinct patterns of protein expression are observable in this histopathology image.",
-      "The slide showcases specific featu
+      "The slide showcases specific features of protein expression, providing insights into cellular protein profiles.",
+      "Observation of protein expression reveals details about the abundance and distribution of proteins within the pathological tissue.",
+      "Histopathology image highlighting unique features of protein expression within the tumor."
+    ],
+    "Genetic Features": [
+      "The histopathology slide provides insights into genetic features associated with the tumor.",
+      "Distinct features indicating genetic characteristics are observable in the slide.",
+      "Observation of genetic features offers insights into the specific genetic alterations present in the pathological tissue.",
+      "Histopathology image highlighting unique genetic features associated with the tumor."
+    ],
+    "Molecular Signatures": [
+      "Distinct molecular signatures are observable in this histopathology image.",
+      "The slide showcases specific features of molecul
