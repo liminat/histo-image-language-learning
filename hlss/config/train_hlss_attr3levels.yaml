@@ -1855,4 +1855,16 @@ model:
     ],
     "Lipid Content": [
       "Distinct lipid content patterns are observable in this histopathology image.",
-      "The slide showcases 
+      "The slide showcases specific features of lipid content, providing insights into cellular lipid composition.",
+      "Observation of lipid content reveals details about the presence and distribution of lipids within the pathological tissue.",
+      "Histopathology image highlighting unique features of lipid content within the tumor."
+    ],
+    "Metabolic Crosstalk": [
+      "The histopathology slide illustrates metabolic crosstalk between different cellular components.",
+      "Distinct features indicating metabolic crosstalk are observable in the slide.",
+      "Observation of metabolic crosstalk provides insights into interactions between metabolic pathways within the pathological tissue.",
+      "Histopathology image highlighting the interconnected metabolic activities in the tumor microenvironment."
+    ],
+    "Protein Expression": [
+      "Distinct patterns of protein expression are observable in this histopathology image.",
+      "The slide showcases specific featu
