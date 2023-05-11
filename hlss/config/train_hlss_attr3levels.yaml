@@ -1879,4 +1879,16 @@ model:
     ],
     "Molecular Signatures": [
       "Distinct molecular signatures are observable in this histopathology image.",
-      "The slide showcases specific features of molecul
+      "The slide showcases specific features of molecular signatures, providing insights into cellular molecular profiles.",
+      "Observation of molecular signatures reveals details about the unique molecular characteristics within the pathological tissue.",
+      "Histopathology image highlighting specific molecular signatures associated with the tumor."
+    ],
+    "Epigenetic Changes": [
+      "The histopathology slide illustrates epigenetic changes within the tumor.",
+      "Distinct features indicating epigenetic alterations are observable in the slide.",
+      "Observation of epigenetic changes provides insights into modifications influencing gene expression in the pathological tissue.",
+      "Histopathology image highlighting specific features of epigenetic changes within the tumor."
+    ],
+    "Cellular Morphology": [
+      "Distinct cellular morphology patterns are observable in this histopathology image.",
+      "The slide showcases specific features of cellul
