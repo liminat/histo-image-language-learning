@@ -1914,4 +1914,13 @@ model:
       "Histopathology image highlighting unique nuclear characteristics associated with the tumor."
     ],
     "Stromal-Tumor Fusion Genes": [
-      "Distinct features indicating the presence of st
+      "Distinct features indicating the presence of stromal-tumor fusion genes are observable in this histopathology image.",
+      "The slide showcases specific patterns of gene fusion, providing insights into genetic alterations within the tumor microenvironment.",
+      "Observation of stromal-tumor fusion genes reveals details about the specific gene rearrangements present in the pathological tissue.",
+      "Histopathology image highlighting the presence of stromal-tumor fusion genes within the tumor microenvironment."
+    ],
+    "Margin Tissue Differentiation": [
+      "The histopathology slide illustrates the differentiation patterns of tissue along the tumor margin.",
+      "Distinct features indicating tissue differentiation are observable in the slide.",
+      "Observation of tissue differentiation provides insights into the varying cell types present in the margin of the pathological tissue.",
+      "Histopathology image highlighting specif
