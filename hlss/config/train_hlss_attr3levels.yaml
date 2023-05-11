@@ -1903,4 +1903,15 @@ model:
     ],
     "Lipid Distribution": [
       "Distinct lipid distribution patterns are observable in this histopathology image.",
-      "The slide showcases specific features of lipid distribution, 
+      "The slide showcases specific features of lipid distribution, providing insights into the spatial arrangement of lipids.",
+      "Observation of lipid distribution reveals details about the presence and localization of lipids within the pathological tissue.",
+      "Histopathology image highlighting unique features of lipid distribution within the tumor."
+    ],
+    "Nuclear Characteristics": [
+      "The histopathology slide provides insights into nuclear characteristics associated with the tumor.",
+      "Distinct features indicating nuclear characteristics are observable in the slide.",
+      "Observation of nuclear characteristics offers insights into the size, shape, and structure of nuclei within the pathological tissue.",
+      "Histopathology image highlighting unique nuclear characteristics associated with the tumor."
+    ],
+    "Stromal-Tumor Fusion Genes": [
+      "Distinct features indicating the presence of st
