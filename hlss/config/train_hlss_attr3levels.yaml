@@ -1945,4 +1945,15 @@ model:
     ],
     "Stromal Aggregations": [
       "The histopathology slide illustrates aggregations of stromal elements within the tumor microenvironment.",
-      "Distinct features indicat
+      "Distinct features indicating stromal aggregations are observable in the slide.",
+      "Observation of stromal aggregations provides insights into the clustering and distribution of stromal cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal aggregations within the tumor microenvironment."
+    ],
+    "Stromal Fiber Density": [
+      "Distinct stromal fiber density patterns are observable in this histopathology image.",
+      "The slide showcases specific features of stromal fiber density, providing insights into the concentration and distribution of stromal fibers.",
+      "Observation of stromal fiber density reveals details about the overall density and arrangement of stromal fibers within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal fiber density within the tumor."
+    ],
+    "Cellular Heterogeneity": [
+      "The histopathology slide pr
