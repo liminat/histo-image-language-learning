@@ -1923,4 +1923,15 @@ model:
       "The histopathology slide illustrates the differentiation patterns of tissue along the tumor margin.",
       "Distinct features indicating tissue differentiation are observable in the slide.",
       "Observation of tissue differentiation provides insights into the varying cell types present in the margin of the pathological tissue.",
-      "Histopathology image highlighting specif
+      "Histopathology image highlighting specific features of tissue differentiation along the tumor margin."
+    ],
+    "Nuclear-Cytoplasmic Ratio": [
+      "Distinct nuclear-cytoplasmic ratio patterns are observable in this histopathology image.",
+      "The slide showcases specific features of nuclear-cytoplasmic ratio, providing insights into the relative sizes of nuclei and cytoplasm.",
+      "Observation of nuclear-cytoplasmic ratio reveals details about the cellular composition and morphology within the pathological tissue.",
+      "Histopathology image highlighting unique features of nuclear-cytoplasmic ratio within the tumor."
+    ],
+    "Chemical Diversity": [
+      "Distinct chemical diversity patterns are observable in this histopathology image.",
+      "The slide showcases specific features of chemical diversity, providing insights into the variety of chemical components within the tissue.",
+      "Observation of chemical diversity rev
