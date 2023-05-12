@@ -1934,4 +1934,15 @@ model:
     "Chemical Diversity": [
       "Distinct chemical diversity patterns are observable in this histopathology image.",
       "The slide showcases specific features of chemical diversity, providing insights into the variety of chemical components within the tissue.",
-      "Observation of chemical diversity rev
+      "Observation of chemical diversity reveals details about the presence and distribution of various chemical compounds within the pathological tissue.",
+      "Histopathology image highlighting unique features of chemical diversity within the tumor."
+    ],
+    "Stromal Fiber Morphology": [
+      "Distinct stromal fiber morphology patterns are observable in this histopathology image.",
+      "The slide showcases specific features of stromal fiber morphology, providing insights into the structure and arrangement of stromal fibers.",
+      "Observation of stromal fiber morphology reveals details about the density and organization of stromal fibers within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal fiber morphology within the tumor."
+    ],
+    "Stromal Aggregations": [
+      "The histopathology slide illustrates aggregations of stromal elements within the tumor microenvironment.",
+      "Distinct features indicat
