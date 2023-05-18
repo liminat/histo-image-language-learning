@@ -2030,4 +2030,11 @@ model:
     "Stromal-Tumor Chemokine Receptor Expression": [
       "Distinct features indicating chemokine receptor expression in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of chemokine receptor expression, providing insights into the chemotactic signaling involved in stromal-tumor crosstalk.",
-      "Observation of stromal-tumor interaction
+      "Observation of stromal-tumor interactions in chemokine receptor expression reveals details about the recruitment and positioning of cells within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor chemokine receptor expression within the tumor microenvironment."
+    ],
+     "Stromal-Tumor Extracellular Vesicle Cargo": [
+      "Distinct features indicating the cargo of extracellular vesicles in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of extracellular vesicle content, providing insights into the intercellular communication involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in extracellular vesicle cargo reveals details about the molecular signaling and exchange of genetic material within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor extracellular vesicle cargo within t
