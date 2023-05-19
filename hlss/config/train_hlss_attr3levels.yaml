@@ -2037,4 +2037,14 @@ model:
       "Distinct features indicating the cargo of extracellular vesicles in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of extracellular vesicle content, providing insights into the intercellular communication involved in stromal-tumor crosstalk.",
       "Observation of stromal-tumor interactions in extracellular vesicle cargo reveals details about the molecular signaling and exchange of genetic material within the pathological tissue.",
-      "Histopathology image highlighting unique features of stromal-tumor extracellular vesicle cargo within t
+      "Histopathology image highlighting unique features of stromal-tumor extracellular vesicle cargo within the tumor microenvironment."
+    ],
+    "Tumor Margin Immune Checkpoint Expression": [
+      "The histopathology slide illustrates the expression patterns of immune checkpoint molecules at the tumor margin.",
+      "Distinct features indicating immune checkpoint expression are observable in the slide.",
+      "Observation of immune checkpoint expression at the tumor margin provides insights into the regulation of the immune response within the pathological tissue.",
+      "Histopathology image highlighting specific features of tumor margin immune checkpoint expression within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Signaling Crosstalk": [
+      "Distinct features indicating signaling crosstalk between stromal and tumor elements are observable in this histopathology image.",
+      "The slide showcases specific patterns of molecul
