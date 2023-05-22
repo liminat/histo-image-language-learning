@@ -2055,4 +2055,14 @@ model:
       "The histopathology slide illustrates patterns of immune exhaustion in stromal-tumor interactions.",
       "Distinct features indicating immune cell exhaustion are observable in the slide.",
       "Observation of stromal-tumor interactions in immune exhaustion provides insights into the compromised immune response within the pathological tissue.",
-      "Histopathology image highlighting specific features of stromal-tumor immune 
+      "Histopathology image highlighting specific features of stromal-tumor immune exhaustion within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Angiocrine Signaling": [
+      "Distinct features indicating angiocrine signaling in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of molecular signaling, providing insights into the paracrine signaling involved in stromal-tumor crosstalk.",
+      "Observation of stromal-tumor interactions in angiocrine signaling reveals details about the vascular support and communication between cells within the pathological tissue.",
+      "Histopathology image highlighting unique features of stromal-tumor angiocrine signaling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Extracellular Matrix Features": [
+      "The histopathology slide illustrates features of the extracellular matrix in stromal-tumor interactions.",
+      "Distinct features indicating extracellular matrix characteristics are obs
