@@ -2109,4 +2109,14 @@ model:
       "Distinct features indicating the trafficking of immune cells between stromal and tumor regions are observable in this histopathology image.",
       "The slide showcases specific patterns of immune cell migration, providing insights into the dynamic interactions and surveillance within the pathological tissue.",
       "Observation of stromal-tumor immune cell trafficking reveals details about the infiltration and movement of immune cells within the tumor microenvironment.",
-      "Histopathology image highlighting unique feature
+      "Histopathology image highlighting unique features of stromal-tumor immune cell trafficking within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Necroptosis": [
+      "The histopathology slide illustrates patterns of tissue necroptosis in stromal-tumor interactions.",
+      "Distinct features indicating tissue necroptosis are observable in the slide.",
+      "Observation of stromal-tumor interactions in tissue necroptosis provides insights into the regulated cell death and tissue damage within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor tissue necroptosis within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Endothelial Cell Activation": [
+      "Distinct features indicating endothelial cell activation in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of endothelial cell response, providing insights into the vascula
