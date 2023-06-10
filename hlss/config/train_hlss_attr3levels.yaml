@@ -2137,4 +2137,12 @@ model:
     ],
     "Stromal-Tumor Tumor Margin Neovascularization": [
       "Distinct features indicating neovascularization at the tumor margin in stromal-tumor interactions are observable in this histopathology image.",
-      "The slide showcases specific patterns of blood vessel formation, providing ins
+      "The slide showcases specific patterns of blood vessel formation, providing insights into the angiogenic responses and vascular support within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor margin neovascularization reveals details about the structural changes in blood vessel networks within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor margin neovascularization within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue pH Levels": [
+      "The histopathology slide illustrates patterns of tissue pH levels in stromal-tumor interactions.",
+      "Distinct features indicating tissue pH variations are observable in the slide.",
+      "Observation of stromal-tumor interactions in tissue pH levels provides insights into the acidity or alkalinity conditions and their impact on cellular functions within the pathological tissue.",
+      "Histopathology image hig
