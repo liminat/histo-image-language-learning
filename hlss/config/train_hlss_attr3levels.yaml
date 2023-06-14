@@ -2162,4 +2162,14 @@ model:
     "Peritumoral Immune Cell Trafficking Patterns": [
       "Distinct features indicating immune cell trafficking patterns in the peritumoral region are observable in this histopathology image.",
       "The slide showcases specific patterns of immune cell movement, providing insights into the surveillance and immune response dynamics around the pathological tissue.",
-      "Observation of peritumoral immune cell trafficking patterns reveals details about the infiltration and distribution of immune ce
+      "Observation of peritumoral immune cell trafficking patterns reveals details about the infiltration and distribution of immune cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral immune cell trafficking patterns within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Lymphatic Drainage": [
+      "The histopathology slide illustrates patterns of lymphatic drainage in stromal-tumor interactions.",
+      "Distinct features indicating lymphatic vessel dynamics are observable in the slide.",
+      "Observation of stromal-tumor interactions in lymphatic drainage provides insights into the fluid dynamics and immune cell trafficking within the pathological tissue.",
+      "Histopathology image highlighting specific features of stromal-tumor lymphatic drainage within the tumor microenvironment."
+    ],
+    "Tumor Margin Mast Cell Infiltration": [
+      "Distinct features indicating mast cell infiltration at the tumor margin in stromal-tumor interactions are observable in this hist
