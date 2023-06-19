@@ -2180,4 +2180,11 @@ model:
      "Stromal-Tumor Tissue Innervation": [
       "Distinct features indicating tissue innervation in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of nerve presence, providing insights into the neural interactions and signaling within the pathological tissue.",
-      "Observation of stromal-tumor interactio
+      "Observation of stromal-tumor interactions in tissue innervation reveals details about the innervation patterns and their potential impact on tumor growth within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tissue innervation within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Peritumoral Growth Factor Signaling": [
+      "Distinct features indicating peritumoral growth factor signaling in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the signaling cascades and cellular responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in peritumoral growth factor signaling reveals details about the paracrine communication and growth regulation within the tumor microenvironment.",
+      "Histopath
