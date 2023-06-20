@@ -2187,4 +2187,13 @@ model:
       "Distinct features indicating peritumoral growth factor signaling in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of growth factor expression, providing insights into the signaling cascades and cellular responses within the pathological tissue.",
       "Observation of stromal-tumor interactions in peritumoral growth factor signaling reveals details about the paracrine communication and growth regulation within the tumor microenvironment.",
-      "Histopath
+      "Histopathology image highlighting unique features of stromal-tumor peritumoral growth factor signaling within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor-Stroma Myeloid Cell Infiltration": [
+      "Distinct features indicating myeloid cell infiltration in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of myeloid cell presence, providing insights into the immune responses and inflammatory reactions within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor-stroma myeloid cell infiltration reveals details about the role of myeloid cells in the microenvironmental modulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma myeloid cell infiltration within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor Microenvironment Stromal Cell Proliferation": [
+      "Distinct features indicat
