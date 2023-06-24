@@ -2204,4 +2204,11 @@ model:
     "Peritumoral Tissue Oxygenation": [
       "The histopathology slide illustrates patterns of tissue oxygenation in the peritumoral region.",
       "Distinct features indicating tissue oxygenation are observable in the slide.",
-      "Observation of peritumoral tissue oxygenation 
+      "Observation of peritumoral tissue oxygenation provides insights into the oxygen supply dynamics and hypoxic conditions around the pathological tissue.",
+      "Histopathology image highlighting specific features of peritumoral tissue oxygenation within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tumor-Stroma Natural Killer Cell Activity": [
+      "Distinct features indicating natural killer cell activity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of natural killer cell presence, providing insights into the anti-tumor immune responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tumor-stroma natural killer cell activity reveals details about the cytotoxicity and immune surveillance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma natural killer cell activity within the tumor microenvironment
