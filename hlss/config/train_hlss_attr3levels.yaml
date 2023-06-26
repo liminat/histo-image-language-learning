@@ -2211,4 +2211,15 @@ model:
       "Distinct features indicating natural killer cell activity in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of natural killer cell presence, providing insights into the anti-tumor immune responses within the pathological tissue.",
       "Observation of stromal-tumor interactions in tumor-stroma natural killer cell activity reveals details about the cytotoxicity and immune surveillance within the tumor microenvironment.",
-      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma natural killer cell activity within the tumor microenvironment
+      "Histopathology image highlighting unique features of stromal-tumor tumor-stroma natural killer cell activity within the tumor microenvironment."
+    ],
+    "Tumor Margin Tissue Perfusion": [
+      "The histopathology slide illustrates patterns of tissue perfusion at the tumor margin.",
+      "Distinct features indicating variations in tissue perfusion are observable in the slide.",
+      "Observation of tumor margin tissue perfusion provides insights into the blood flow dynamics and nutrient supply around the tumor.",
+      "Histopathology image highlighting specific features of tumor margin tissue perfusion within the tumor microenvironment."
+    ],
+    "Stromal-Tumor Tissue Viscosity": [
+      "Distinct features indicating tissue viscosity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of viscosity, providing insights into the physical properties and fluid dynamics within the pathological tissue.",
+      "Observation of stromal-tumor interactions in tissue viscosity reveals details about the extracellular matrix ch
