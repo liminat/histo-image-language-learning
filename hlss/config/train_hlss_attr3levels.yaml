@@ -2222,4 +2222,15 @@ model:
     "Stromal-Tumor Tissue Viscosity": [
       "Distinct features indicating tissue viscosity in stromal-tumor interactions are observable in this histopathology image.",
       "The slide showcases specific patterns of viscosity, providing insights into the physical properties and fluid dynamics within the pathological tissue.",
-      "Observation of stromal-tumor interactions in tissue viscosity reveals details about the extracellular matrix ch
+      "Observation of stromal-tumor interactions in tissue viscosity reveals details about the extracellular matrix characteristics and stromal composition within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor tissue viscosity within the tumor microenvironment."
+    ],
+    "Immune Cell Metabolism": [
+      "The histopathology slide illustrates patterns of immune cell metabolism within the tumor microenvironment.",
+      "Distinct features indicating variations in immune cell metabolic activity are observable in the slide.",
+      "Observation of immune cell metabolism provides insights into the energy demands and functional characteristics of immune cells within the pathological tissue.",
+      "Histopathology image highlighting specific features of immune cell metabolism within the tumor microenvironment."
+    ],
+    "Tumor-Stroma T Cell Infiltration": [
+      "Distinct features indicating T cell infiltration in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide sho
