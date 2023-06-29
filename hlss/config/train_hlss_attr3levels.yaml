@@ -2241,4 +2241,14 @@ model:
       "The histopathology slide illustrates patterns of collagen crosslinking at the tumor margin.",
       "Distinct features indicating variations in collagen crosslinking are observable in the slide.",
       "Observation of margin collagen crosslinking provides insights into the structural changes and extracellular matrix modifications around the tumor.",
-      "Histopathology image highlighting specific feat
+      "Histopathology image highlighting specific features of margin collagen crosslinking within the tumor microenvironment."
+    ],
+    "Stromal Matrix Elasticity": [
+      "Distinct features indicating stromal matrix elasticity in stromal-tumor interactions are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix elasticity, providing insights into the mechanical properties and flexibility of the stromal matrix within the pathological tissue.",
+      "Observation of stromal-tumor interactions in stromal matrix elasticity reveals details about the physical characteristics and tissue mechanics within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor stromal matrix elasticity within the tumor microenvironment."
+    ],
+    "Immune Cell Senescence": [
+      "Distinct features indicating immune cell senescence are observable in this histopathology image.",
+      "The slide showcases specific patterns of senescent 
