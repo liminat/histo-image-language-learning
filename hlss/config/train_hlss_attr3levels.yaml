@@ -2233,4 +2233,12 @@ model:
     ],
     "Tumor-Stroma T Cell Infiltration": [
       "Distinct features indicating T cell infiltration in stromal-tumor interactions are observable in this histopathology image.",
-      "The slide sho
+      "The slide showcases specific patterns of T cell presence, providing insights into the adaptive immune responses within the pathological tissue.",
+      "Observation of stromal-tumor interactions in T cell infiltration reveals details about the antitumor immune responses and immune cell distribution within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of stromal-tumor T cell infiltration within the tumor microenvironment."
+    ],
+    "Margin Collagen Crosslinking": [
+      "The histopathology slide illustrates patterns of collagen crosslinking at the tumor margin.",
+      "Distinct features indicating variations in collagen crosslinking are observable in the slide.",
+      "Observation of margin collagen crosslinking provides insights into the structural changes and extracellular matrix modifications around the tumor.",
+      "Histopathology image highlighting specific feat
