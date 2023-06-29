@@ -2251,4 +2251,11 @@ model:
     ],
     "Immune Cell Senescence": [
       "Distinct features indicating immune cell senescence are observable in this histopathology image.",
-      "The slide showcases specific patterns of senescent 
+      "The slide showcases specific patterns of senescent immune cells, providing insights into the aging-related changes and altered functions within the pathological tissue.",
+      "Observation of immune cell senescence reveals details about the immunological aging processes and their impact on the immune surveillance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell senescence within the tumor microenvironment."
+    ],
+    "Matrix Metalloproteinase Levels": [
+      "Distinct features indicating matrix metalloproteinase levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of matrix metalloproteinase expression, providing insights into the extracellular matrix remodeling and tissue degradation within the pathological tissue.",
+      "Observation of matrix metalloproteinase levels reveals details about the proteolytic activities and stromal-tumor interactions within the tumor microenvironme
