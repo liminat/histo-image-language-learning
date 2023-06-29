@@ -2258,4 +2258,14 @@ model:
     "Matrix Metalloproteinase Levels": [
       "Distinct features indicating matrix metalloproteinase levels are observable in this histopathology image.",
       "The slide showcases specific patterns of matrix metalloproteinase expression, providing insights into the extracellular matrix remodeling and tissue degradation within the pathological tissue.",
-      "Observation of matrix metalloproteinase levels reveals details about the proteolytic activities and stromal-tumor interactions within the tumor microenvironme
+      "Observation of matrix metalloproteinase levels reveals details about the proteolytic activities and stromal-tumor interactions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of matrix metalloproteinase levels within the tumor microenvironment."
+    ],
+    "Cytokine Gradients": [
+      "Distinct features indicating cytokine gradients are observable in this histopathology image.",
+      "The slide showcases specific patterns of cytokine distribution, providing insights into the local immune responses and signaling cascades within the pathological tissue.",
+      "Observation of cytokine gradients reveals details about the inflammatory microenvironment and immune cell communication within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of cytokine gradients within the tumor microenvironment."
+    ],
+    "Vascular Endothelial Growth Factor": [
+      "The histopathology slide illustrates patterns of vascular endothelial growth factor expression wi
