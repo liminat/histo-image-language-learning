@@ -2294,4 +2294,14 @@ model:
     "Immune Cell Exhaustion": [
       "Distinct features indicating immune cell exhaustion are observable in this histopathology image.",
       "The slide showcases specific patterns of exhausted immune cells, providing insights into the immunosuppressive microenvironment and dysfunctional immune responses within the pathological tissue.",
-      "Observation of im
+      "Observation of immune cell exhaustion reveals details about the impaired antitumor immunity and resistance mechanisms within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell exhaustion within the tumor microenvironment."
+    ],
+    "MicroRNA Profiles": [
+      "Distinct features indicating microRNA profiles are observable in this histopathology image.",
+      "The slide showcases specific patterns of microRNA expression, providing insights into the post-transcriptional regulation and molecular signatures within the pathological tissue.",
+      "Observation of microRNA profiles reveals details about the gene expression modulation and regulatory networks within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of microRNA profiles within the tumor microenvironment."
+    ],
+    "Immune Suppressive Factors": [
+      "Distinct features indicating immune suppressive factors are
