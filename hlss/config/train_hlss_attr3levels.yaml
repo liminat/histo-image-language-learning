@@ -2276,4 +2276,14 @@ model:
     "Chemokine Receptor Expression": [
       "Distinct features indicating chemokine receptor expression are observable in this histopathology image.",
       "The slide showcases specific patterns of chemokine receptor presence, providing insights into the chemotactic responses and immune cell recruitment within the pathological tissue.",
-      "Observation of chemokine receptor expression reveals details about the cellular migration patterns and immun
+      "Observation of chemokine receptor expression reveals details about the cellular migration patterns and immune cell interactions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of chemokine receptor expression within the tumor microenvironment."
+    ],
+    "Immune Checkpoint Expression": [
+      "Distinct features indicating immune checkpoint expression are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune checkpoint molecules, providing insights into the immune evasion mechanisms and regulatory pathways within the pathological tissue.",
+      "Observation of immune checkpoint expression reveals details about the immune tolerance and adaptive immune resistance within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune checkpoint expression within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Growth Factor Interactions": [
+      "Distinct features indicating growth factor
