@@ -2286,4 +2286,12 @@ model:
       "Histopathology image highlighting unique features of immune checkpoint expression within the tumor microenvironment."
     ],
     "Tumor-Stroma Growth Factor Interactions": [
-      "Distinct features indicating growth factor
+      "Distinct features indicating growth factor interactions between the tumor and stroma are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the paracrine communication and reciprocal signaling within the pathological tissue.",
+      "Observation of tumor-stroma growth factor interactions reveals details about the dynamic crosstalk and growth regulation within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tumor-stroma growth factor interactions within the tumor microenvironment."
+    ],
+    "Immune Cell Exhaustion": [
+      "Distinct features indicating immune cell exhaustion are observable in this histopathology image.",
+      "The slide showcases specific patterns of exhausted immune cells, providing insights into the immunosuppressive microenvironment and dysfunctional immune responses within the pathological tissue.",
+      "Observation of im
