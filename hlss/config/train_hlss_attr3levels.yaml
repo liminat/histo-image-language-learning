@@ -2322,4 +2322,12 @@ model:
       "Histopathology image highlighting unique features of immune cell polarization within the tumor microenvironment."
     ],
     "Extracellular Vesicle Cargo": [
-      "Distinct features indicating extracellular vesicle cargo are observable in this histopatho
+      "Distinct features indicating extracellular vesicle cargo are observable in this histopathology image.",
+      "The slide showcases specific patterns of cargo within extracellular vesicles, providing insights into intercellular communication and molecular signaling within the pathological tissue.",
+      "Observation of extracellular vesicle cargo reveals details about the transfer of bioactive molecules and their impact on the microenvironment within the tumor tissue.",
+      "Histopathology image highlighting unique features of extracellular vesicle cargo within the tumor microenvironment."
+    ],
+    "Tissue Necroptosis": [
+      "Distinct features indicating tissue necroptosis are observable in this histopathology image.",
+      "The slide showcases specific patterns of necroptotic cell death, providing insights into the regulated necrosis processes within the pathological tissue.",
+      "Observation of tissue necroptosis reveals details about the inflammatory responses and cell death pathways within the tumor microenviro
