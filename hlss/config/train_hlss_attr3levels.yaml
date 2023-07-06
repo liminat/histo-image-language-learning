@@ -2312,4 +2312,14 @@ model:
     "Epigenetic Modifications": [
       "Distinct features indicating epigenetic modifications are observable in this histopathology image.",
       "The slide showcases specific patterns of epigenetic alterations, providing insights into the heritable changes and gene expression regulation within the pathological tissue.",
-      "Observation of epigenetic modifications reveals details about the chromatin dynamics and molec
+      "Observation of epigenetic modifications reveals details about the chromatin dynamics and molecular events within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of epigenetic modifications within the tumor microenvironment."
+    ],
+    "Immune Cell Polarization": [
+      "Distinct features indicating immune cell polarization are observable in this histopathology image.",
+      "The slide showcases specific patterns of polarized immune cells, providing insights into the functional specialization and diverse effector responses within the pathological tissue.",
+      "Observation of immune cell polarization reveals details about the immune cell plasticity and context-dependent immune functions within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell polarization within the tumor microenvironment."
+    ],
+    "Extracellular Vesicle Cargo": [
+      "Distinct features indicating extracellular vesicle cargo are observable in this histopatho
