@@ -2304,4 +2304,12 @@ model:
       "Histopathology image highlighting unique features of microRNA profiles within the tumor microenvironment."
     ],
     "Immune Suppressive Factors": [
-      "Distinct features indicating immune suppressive factors are
+      "Distinct features indicating immune suppressive factors are observable in this histopathology image.",
+      "The slide showcases specific patterns of suppressive factor presence, providing insights into the immunosuppressive microenvironment and regulatory mechanisms within the pathological tissue.",
+      "Observation of immune suppressive factors reveals details about the inhibitory signals and tolerance-inducing factors within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune suppressive factors within the tumor microenvironment."
+    ],
+    "Epigenetic Modifications": [
+      "Distinct features indicating epigenetic modifications are observable in this histopathology image.",
+      "The slide showcases specific patterns of epigenetic alterations, providing insights into the heritable changes and gene expression regulation within the pathological tissue.",
+      "Observation of epigenetic modifications reveals details about the chromatin dynamics and molec
