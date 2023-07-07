@@ -2330,4 +2330,14 @@ model:
     "Tissue Necroptosis": [
       "Distinct features indicating tissue necroptosis are observable in this histopathology image.",
       "The slide showcases specific patterns of necroptotic cell death, providing insights into the regulated necrosis processes within the pathological tissue.",
-      "Observation of tissue necroptosis reveals details about the inflammatory responses and cell death pathways within the tumor microenviro
+      "Observation of tissue necroptosis reveals details about the inflammatory responses and cell death pathways within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue necroptosis within the tumor microenvironment."
+    ],
+    "Endothelial Cell Activation": [
+      "Distinct features indicating endothelial cell activation are observable in this histopathology image.",
+      "The slide showcases specific patterns of activated endothelial cells, providing insights into the angiogenic responses and blood vessel dynamics within the pathological tissue.",
+      "Observation of endothelial cell activation reveals details about the vascular changes and microvascular architecture within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of endothelial cell activation within the tumor microenvironment."
+    ],
+    "Tissue Oxygenation": [
+      "Distinct features indicating tissue oxygenation levels are observable in this histopathology image.",
