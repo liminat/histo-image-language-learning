@@ -2349,4 +2349,14 @@ model:
       "Distinct features indicating tissue nucleotide metabolism are observable in this histopathology image.",
       "The slide showcases specific patterns of nucleotide processing, providing insights into the bioenergetic processes and nucleic acid metabolism within the pathological tissue.",
       "Observation of tissue nucleotide metabolism reveals details about the cell's energy requirements and molecular synthesis within the tumor microenvironment.",
-      "Histopathology image highlighting
+      "Histopathology image highlighting unique features of tissue nucleotide metabolism within the tumor microenvironment."
+    ],
+    "Tumor Margin Neovascularization": [
+      "The histopathology slide illustrates patterns of neovascularization at the tumor margin.",
+      "Distinct features indicating variations in neovascularization levels are observable in the slide.",
+      "Observation of tumor margin neovascularization provides insights into the angiogenic processes and blood vessel formation at the periphery of the pathological tissue.",
+      "Histopathology image highlighting specific features of tumor margin neovascularization within the tumor microenvironment."
+    ],
+    "Tissue pH Levels": [
+      "Distinct features indicating tissue pH levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of pH variations, providing insights into the acidic or alkaline microenviron
