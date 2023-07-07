@@ -2359,4 +2359,12 @@ model:
     ],
     "Tissue pH Levels": [
       "Distinct features indicating tissue pH levels are observable in this histopathology image.",
-      "The slide showcases specific patterns of pH variations, providing insights into the acidic or alkaline microenviron
+      "The slide showcases specific patterns of pH variations, providing insights into the acidic or alkaline microenvironment within the pathological tissue.",
+      "Observation of tissue pH levels reveals details about the metabolic conditions and extracellular acidity within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue pH levels within the tumor microenvironment."
+    ],
+    "Cell Adhesion Molecules": [
+      "Distinct features indicating cell adhesion molecules are observable in this histopathology image.",
+      "The slide showcases specific patterns of adhesion molecule expression, providing insights into cellular interactions and tissue organization within the pathological tissue.",
+      "Observation of cell adhesion molecules reveals details about the adhesive properties and molecular signaling within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of cell adhesion molecules within the tumor microenviron
