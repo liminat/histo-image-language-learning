@@ -2341,3 +2341,12 @@ model:
     ],
     "Tissue Oxygenation": [
       "Distinct features indicating tissue oxygenation levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of oxygen availability, providing insights into the oxygenation status and hypoxia responses within the pathological tissue.",
+      "Observation of tissue oxygenation reveals details about the metabolic conditions and cellular adaptations within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue oxygenation within the tumor microenvironment."
+    ],
+    "Tissue Nucleotide Metabolism": [
+      "Distinct features indicating tissue nucleotide metabolism are observable in this histopathology image.",
+      "The slide showcases specific patterns of nucleotide processing, providing insights into the bioenergetic processes and nucleic acid metabolism within the pathological tissue.",
+      "Observation of tissue nucleotide metabolism reveals details about the cell's energy requirements and molecular synthesis within the tumor microenvironment.",
+      "Histopathology image highlighting
