@@ -2367,4 +2367,14 @@ model:
       "Distinct features indicating cell adhesion molecules are observable in this histopathology image.",
       "The slide showcases specific patterns of adhesion molecule expression, providing insights into cellular interactions and tissue organization within the pathological tissue.",
       "Observation of cell adhesion molecules reveals details about the adhesive properties and molecular signaling within the tumor microenvironment.",
-      "Histopathology image highlighting unique features of cell adhesion molecules within the tumor microenviron
+      "Histopathology image highlighting unique features of cell adhesion molecules within the tumor microenvironment."
+    ],
+    "Tissue Tension": [
+      "Distinct features indicating tissue tension are observable in this histopathology image.",
+      "The slide showcases specific patterns of mechanical tension, providing insights into the physical forces and tissue mechanics within the pathological tissue.",
+      "Observation of tissue tension reveals details about the structural integrity and mechanical properties within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tissue tension within the tumor microenvironment."
+    ],
+    "Immune Cell Trafficking Patterns": [
+      "Distinct features indicating immune cell trafficking patterns are observable in this histopathology image.",
+      "The slide showcases specific patterns of immune cell migration, providing insights into the trafficking dynamics and immune surveillance within the 
