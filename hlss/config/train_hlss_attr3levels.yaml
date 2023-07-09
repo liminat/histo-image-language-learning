@@ -2377,4 +2377,15 @@ model:
     ],
     "Immune Cell Trafficking Patterns": [
       "Distinct features indicating immune cell trafficking patterns are observable in this histopathology image.",
-      "The slide showcases specific patterns of immune cell migration, providing insights into the trafficking dynamics and immune surveillance within the 
+      "The slide showcases specific patterns of immune cell migration, providing insights into the trafficking dynamics and immune surveillance within the pathological tissue.",
+      "Observation of immune cell trafficking patterns reveals details about the movement and distribution of immune cells within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of immune cell trafficking patterns within the tumor microenvironment."
+    ],
+    "Lymphatic Drainage": [
+      "Distinct features indicating lymphatic drainage are observable in this histopathology image.",
+      "The slide showcases specific patterns of lymphatic vessel distribution, providing insights into the drainage pathways and fluid transport within the pathological tissue.",
+      "Observation of lymphatic drainage reveals details about the lymphatic network and its role in the microenvironmental homeostasis within the tumor tissue.",
+      "Histopathology image highlighting unique features of lymphatic drainage within the tumor microenvironment."
+    ],
+    "Tumor Margin Mast Cell Infiltration": [
+     
