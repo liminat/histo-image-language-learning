@@ -2396,4 +2396,14 @@ model:
     "Tissue Innervation": [
       "Distinct features indicating tissue innervation are observable in this histopathology image.",
       "The slide showcases specific patterns of neural elements, providing insights into the innervation patterns and nerve distribution within the pathological tissue.",
-      "Observation of tissue innervation reveals details about the neural network and its potential impact on tumor gr
+      "Observation of tissue innervation reveals details about the neural network and its potential impact on tumor growth and microenvironmental responses.",
+      "Histopathology image highlighting unique features of tissue innervation within the tumor microenvironment."
+    ],
+    "Peritumoral Growth Factor Signaling": [
+      "Distinct features indicating peritumoral growth factor signaling are observable in this histopathology image.",
+      "The slide showcases specific patterns of growth factor expression, providing insights into the signaling dynamics and paracrine interactions within the pathological tissue.",
+      "Observation of peritumoral growth factor signaling reveals details about the communication between tumor cells and the surrounding microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral growth factor signaling within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Myeloid Cell Infiltration": [
+      "Distinct features indicating tumor-stroma myeloid cell infiltration are observable in this h
