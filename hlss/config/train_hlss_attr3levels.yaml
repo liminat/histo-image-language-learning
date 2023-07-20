@@ -2414,4 +2414,13 @@ model:
     "Tumor Microenvironment Stromal Cell Proliferation": [
       "Distinct features indicating tumor microenvironment stromal cell proliferation are observable in this histopathology image.",
       "The slide showcases specific patterns of stromal cell growth, providing insights into the proliferation dynamics and tissue remodeling within the pathological tissue.",
-      "Observation of tumor microenvironment stromal cell
+      "Observation of tumor microenvironment stromal cell proliferation reveals details about the contribution of stromal cells to the overall cellular composition within the tumor microenvironment.",
+      "Histopathology image highlighting unique features of tumor microenvironment stromal cell proliferation within the tumor microenvironment."
+    ],
+    "Peritumoral Tissue Oxygenation": [
+      "Distinct features indicating peritumoral tissue oxygenation levels are observable in this histopathology image.",
+      "The slide showcases specific patterns of oxygen availability, providing insights into the oxygenation status and hypoxia responses within the peritumoral tissue.",
+      "Observation of peritumoral tissue oxygenation reveals details about the metabolic conditions and cellular adaptations in the surrounding microenvironment.",
+      "Histopathology image highlighting unique features of peritumoral tissue oxygenation within the tumor microenvironment."
+    ],
+    "Tumor-Stroma Natural Kil
