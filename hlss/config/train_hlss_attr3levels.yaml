@@ -2431,4 +2431,14 @@ model:
     ],
     "Tumor Metastasis Risk": [
       "Distinct features indicating the risk of tumor metastasis are evident in this histopathology image.",
-      "The slide reveals specific patterns and characteristics associated with the potential for meta
+      "The slide reveals specific patterns and characteristics associated with the potential for metastatic spread, providing critical information for prognosis.",
+      "Observation of metastasis risk features helps assess the likelihood of tumor cells spreading to other regions in the body.",
+      "Histopathology image highlighting unique features associated with the risk of tumor metastasis."
+    ],
+    "Patient-Specific Molecular Profiles": [
+      "Distinct features related to patient-specific molecular profiles are observable in this histopathology image.",
+      "The slide showcases molecular patterns unique to the individual patient, allowing for personalized diagnostic insights and treatment strategies.",
+      "Observation of patient-specific molecular profiles provides valuable information for precision medicine and tailored therapeutic approaches.",
+      "Histopathology image highlighting unique molecular signatures specific to the individual patient."
+    ],
+    "Tumor Microenvironment Immune Res
