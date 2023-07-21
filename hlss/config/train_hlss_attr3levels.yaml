@@ -2522,4 +2522,18 @@ model:
       "Distinct cell morphologies are evident in the tissue sample.",
       "Cellular morphology varies across different regions of the image."
     ],
-    "Chemi
+    "Chemical Composition": [
+      "The image displays a diverse chemical composition within the tissue.",
+      "Specific chemical components are visually identified in the histopathology slide.",
+      "Chemical composition data is vital for characterizing the tissue in the pathology image.",
+      "Variations in chemical composition are evident throughout the tissue sample."
+    ],
+    "Microcalcifications": [
+      "Microcalcifications are visible as small, bright specks in the histopathology image.",
+      "Distinct microcalcifications are evident in the pathology tissue.",
+      "The image showcases the presence of tiny calcium deposits in the tissue.",
+      "Microcalcifications add a unique feature to the overall appearance of the image."
+    ],
+    "Cytoplasmic Inclusions": [
+      "Cytoplasmic inclusions can be observed within the cells in the histopathology image.",
+      "Distinctive c
