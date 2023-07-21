@@ -2489,4 +2489,21 @@ model:
     "Inflammatory Response": [
       "An inflammatory response is observed in the histopathology image.",
       "The presence of inflammatory cells is evident in the pathology tissue.",
-      "The image highlights a clear immu
+      "The image highlights a clear immune system response.",
+      "Inflammation is a key feature in the tissue image."
+    ],
+    "Molecular Markers": [
+      "The histological slide exhibits distinct molecular markers.",
+      "Presence of specific genetic markers is visible in the pathology image.",
+      "Molecular markers provide valuable information in the tissue sample.",
+      "The image showcases important molecular marker data."
+    ],
+    "Lipid Content": [
+      "The image shows variations in lipid content within the tissue.",
+      "Lipid-rich regions are evident in the histopathology slide.",
+      "Lipid content contributes to the tissue's distinct appearance in the pathology image.",
+      "The tissue displays notable variations in lipid content."
+    ],
+    "Protein Density": [
+      "Protein density is visibly different in various areas of the histological slide.",
+      "The pathology image exhibits variations in protein concentratio
