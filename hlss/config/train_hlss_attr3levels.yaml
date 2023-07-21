@@ -2536,4 +2536,17 @@ model:
     ],
     "Cytoplasmic Inclusions": [
       "Cytoplasmic inclusions can be observed within the cells in the histopathology image.",
-      "Distinctive c
+      "Distinctive cytoplasmic inclusions are present in the pathology tissue.",
+      "The image reveals abnormal structures within the cell's cytoplasm, known as inclusions.",
+      "Cytoplasmic inclusions contribute to the unique cellular features of the image."
+    ],
+    "Stromal Components": [
+      "The image displays stromal components, including fibrous tissue and collagen fibers.",
+      "Distinct stromal elements are evident in the histopathology slide.",
+      "Stromal components provide important context for the overall tissue structure in the pathology image.",
+      "Variations in stromal components influence the tissue's appearance in different regions of the image."
+    ],
+    "Mitotic Figures": [
+      "Mitotic figures are visible as cells in the process of cell division in the histopathology image.",
+      "The image highlights cells undergoing mitosis in the pathology tissue.",
+      "Mitotic figures contribute to the assessment of tumor growth and aggres
