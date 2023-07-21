@@ -2457,4 +2457,19 @@ model:
       "Presence of highly cellular tissue on the image."
     ],
     "Nuclear Pleomorphism": [
-      "Notic
+      "Noticeable variation in nuclear size and shape in the histopathology image.",
+      "The histological slide exhibits significant nuclear pleomorphism.",
+      "Presence of nuclear size diversity on the pathology slide.",
+      "High nuclear pleomorphism is evident in the tissue image."
+    ],
+    "Vascularity": [
+      "A histopathology image highlighting prominent vascular patterns.",
+      "The tissue exhibits a well-defined vascular network.",
+      "The presence of distinct blood vessels is visible in the pathology slide.",
+      "Vascularity is a notable feature in the image."
+    ],
+    "Tissue Architecture": [
+      "The histological slide displays organized tissue architecture.",
+      "Tissue structures are clearly defined in the pathology image.",
+      "Distinctive tissue architecture is evident in the tissue sample.",
+      "Tissue organization is a key feature in the 
