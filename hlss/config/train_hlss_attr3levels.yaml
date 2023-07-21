@@ -2472,4 +2472,21 @@ model:
       "The histological slide displays organized tissue architecture.",
       "Tissue structures are clearly defined in the pathology image.",
       "Distinctive tissue architecture is evident in the tissue sample.",
-      "Tissue organization is a key feature in the 
+      "Tissue organization is a key feature in the image."
+    ],
+    "Necrosis": [
+      "The presence of necrotic regions is visible in the histopathology image.",
+      "Necrosis is apparent in the pathology tissue.",
+      "Notable areas of tissue necrosis are seen in the slide.",
+      "The image displays tissue with visible necrotic changes."
+    ],
+    "Cell Infiltration": [
+      "The histological slide shows extensive cell infiltration into the surrounding tissue.",
+      "Cell invasion is evident in the pathology image.",
+      "Infiltration of tumor cells into healthy tissue is notable in the slide.",
+      "The image reveals extensive cell infiltration."
+    ],
+    "Inflammatory Response": [
+      "An inflammatory response is observed in the histopathology image.",
+      "The presence of inflammatory cells is evident in the pathology tissue.",
+      "The image highlights a clear immu
