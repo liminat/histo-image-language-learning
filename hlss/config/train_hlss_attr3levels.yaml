@@ -2441,4 +2441,20 @@ model:
       "Observation of patient-specific molecular profiles provides valuable information for precision medicine and tailored therapeutic approaches.",
       "Histopathology image highlighting unique molecular signatures specific to the individual patient."
     ],
-    "Tumor Microenvironment Immune Res
+    "Tumor Microenvironment Immune Response": [
+      "Distinct features indicating the immune response within the tumor microenvironment are evident in this histopathology image.",
+      "The slide reveals specific patterns of immune cell infiltration, cytokine expression, and other immune-related characteristics, contributing to the understanding of antitumor immunity.",
+      "Observation of tumor microenvironment immune response features helps assess the dynamic interactions between the immune system and tumor cells.",
+      "Histopathology image highlighting unique features associated with the immune response within the tumor microenvironment."
+    ]
+    }
+
+    templates: {
+    "Cellularity": [
+      "A histopathology slide showing high cellularity.",
+      "Histopathology image of highly cellular tissue.",
+      "Pathology tissue showing high cellularity.",
+      "Presence of highly cellular tissue on the image."
+    ],
+    "Nuclear Pleomorphism": [
+      "Notic
