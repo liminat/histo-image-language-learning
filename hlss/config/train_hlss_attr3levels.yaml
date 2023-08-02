@@ -2587,4 +2587,24 @@ model:
     "Distinct cell border definition in the tissue.",
     "Pathology sample shows well-defined cell borders.",
     "Presence of clear cell borders in the image."
- 
+  ],
+  "Mitotic Activity": [
+    "Histological slide illustrating mitotic cell activity.",
+    "Image showing cells in various stages of mitosis.",
+    "Mitotic activity is evident in the pathology sample.",
+    "Presence of cells undergoing mitosis in the image."
+  ],
+  "Cell Shape Irregularity": [
+    "Histopathology image showing irregular cell shapes.",
+    "Tissue with cells exhibiting atypical shapes.",
+    "Cellular irregularities are observed in the pathology sample.",
+    "Presence of cells with irregular shapes in the image."
+  ],
+  "Nuclear-Cytoplasmic Ratio": [
+    "Histological slide depicting variations in nuclear-cytoplasmic ratios.",
+    "Image showing differences in nucleus-to-cytoplasm ratios.",
+    "Nuclear-cytoplasmic ratio variations in the pathology sample.",
+    "Presence of varying nuclear-cytoplasmic ratios in the image."
+  ],
+  "Pleomorphic Cell Types": [
+    "Histopathology image showing 
