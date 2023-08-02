@@ -2607,4 +2607,23 @@ model:
     "Presence of varying nuclear-cytoplasmic ratios in the image."
   ],
   "Pleomorphic Cell Types": [
-    "Histopathology image showing 
+    "Histopathology image showing pleomorphic cell types.",
+    "Presence of diverse cell types in the tissue.",
+    "Pathology sample displays distinctive pleomorphic cell types.",
+    "Presence of pleomorphic cell types in the image."
+  ],
+  "Cellular Pleomorphism": [
+    "Histological slide illustrating cellular pleomorphism.",
+    "Tissue displaying cellular variation and pleomorphism in the image.",
+    "Cellular pleomorphism is evident in the pathology sample.",
+    "Presence of variable cellular morphology in the image."
+  ],
+  "Nuclear Shape Irregularity": [
+    "Histological slide showing irregular nuclear shapes.",
+    "Tissue with nuclei exhibiting atypical shapes.",
+    "Irregular nuclear shapes are observed in the pathology sample.",
+    "Presence of nuclei with irregular shapes in the image."
+  ],
+  "Chromatin Pattern": [
+    "Histopathology image displaying diverse chromatin patterns.",
+    "Variation in chromatin patterns within the tis
