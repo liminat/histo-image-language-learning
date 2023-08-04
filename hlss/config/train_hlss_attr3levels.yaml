@@ -2626,4 +2626,22 @@ model:
   ],
   "Chromatin Pattern": [
     "Histopathology image displaying diverse chromatin patterns.",
-    "Variation in chromatin patterns within the tis
+    "Variation in chromatin patterns within the tissue is observed in the image.",
+    "Chromatin pattern differences are evident in the pathology sample.",
+    "Presence of distinct chromatin patterns in the image."
+  ],
+  "Nuclear Membrane Distortion": [
+    "Histological slide illustrating distorted nuclear membranes.",
+    "Tissue with irregularities in nuclear membrane structure in the image.",
+    "Nuclear membrane distortion is observed in the pathology sample.",
+    "Presence of nuclei with distorted nuclear membranes in the image."
+  ],
+  "Nuclear Grooves": [
+    "Histopathology image showing the presence of nuclear grooves.",
+    "Nuclei with distinctive grooves are observed within the tissue in the image.",
+    "Pathology sample displays notable nuclear grooves.",
+    "Presence of nuclei with characteristic grooves in the image."
+  ],
+  "Hyperchromasia": [
+    "Histological slide illustrating hyperchromatic nuclei.",
+    "Tissue with nuclei 
