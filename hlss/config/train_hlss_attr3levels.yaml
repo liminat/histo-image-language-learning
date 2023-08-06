@@ -2662,4 +2662,18 @@ model:
   ],
   "Blood Vessel Size": [
     "Histopathology image showing variations in blood vessel sizes.",
- 
+    "Tissue with blood vessels of differing sizes in the image.",
+    "Blood vessel size variation is evident in the pathology sample.",
+    "Presence of blood vessels with diverse sizes in the image."
+  ],
+  "Blood Vessel Density": [
+    "Histological slide illustrating differences in blood vessel density.",
+    "Variation in the number of blood vessels within the tissue is observed in the image.",
+    "Blood vessel density differences are evident in the pathology sample.",
+    "Presence of areas with varying blood vessel density in the image."
+  ],
+  "Blood Vessel Morphology": [
+    "Histopathology image displaying varied blood vessel shapes and structures.",
+    "Tissue with blood vessels of diverse morphologies in the image.",
+    "Blood vessel morphology differences are evident in the pathology sample.",
+    "Presence of blood vessels with distinct shapes and structures in the image.
