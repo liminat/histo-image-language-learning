@@ -2676,4 +2676,22 @@ model:
     "Histopathology image displaying varied blood vessel shapes and structures.",
     "Tissue with blood vessels of diverse morphologies in the image.",
     "Blood vessel morphology differences are evident in the pathology sample.",
-    "Presence of blood vessels with distinct shapes and structures in the image.
+    "Presence of blood vessels with distinct shapes and structures in the image."
+  ],
+  "Vascular Patterning": [
+    "Histological slide illustrating variations in vascular patterns.",
+    "Tissue with differing vascular patterns within the image.",
+    "Vascular pattern differences are evident in the pathology sample.",
+    "Presence of varying vascular patterns in the image."
+  ],
+  "Blood Vessel Integrity": [
+    "Histopathology image showing variations in blood vessel integrity.",
+    "Tissue with blood vessels of varying structural integrity in the image.",
+    "Blood vessel integrity differences are evident in the pathology sample.",
+    "Presence of blood vessels with differing structural integrity in the image."
+  ],
+  "Presence of Angiogenesis": [
+    "Histological slide illustrating the formation of new blood vessels (angiogenesis).",
+    "Tissue with visible angiogenesis within the image.",
+    "Angiogenesis is evident in the pathology sample.",
+    "Presence of newly f
