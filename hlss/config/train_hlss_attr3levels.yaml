@@ -2783,4 +2783,16 @@ model:
   "Presence of Plasma Cells": [
     "Histopathology image illustrating infiltration by plasma cells as part of an immune response within the tissue.",
     "Tissue with visible presence of plasma cells in the image, indicative of an immune response.",
-    "Plasma cell infiltration is evident in the pathology sample, indicating their role 
+    "Plasma cell infiltration is evident in the pathology sample, indicating their role in immune response.",
+    "Plasma cells infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Eosinophil Infiltration": [
+    "Histopathology image showing infiltration by eosinophils as part of an immune response within the tissue.",
+    "Tissue with visible eosinophil infiltration in the image, indicative of an immune response.",
+    "Presence of eosinophil infiltration is evident in the pathology sample, highlighting eosinophils' role in an immune response.",
+    "Eosinophils infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Granulocyte Infiltration": [
+    "Histopathology image illustrating infiltration by granulocytes as part of an immune response within the tissue.",
+    "Tissue with visible granulocyte infiltration in the image, indicative of an immune response.",
+    "Presence of granulocyte infiltration is evident in the pathology sample, highlighting the
