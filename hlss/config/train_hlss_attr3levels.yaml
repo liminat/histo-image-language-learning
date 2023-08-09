@@ -2759,4 +2759,16 @@ model:
   "Macrophage Infiltration": [
     "Histopathology image illustrating infiltration by macrophages as part of an immune response within the tissue.",
     "Tissue with visible macrophage infiltration in the image, indicative of an immune response.",
-    "Presence of macrophage infiltration is evident in the pathology
+    "Presence of macrophage infiltration is evident in the pathology sample, highlighting the role of macrophages in immune response.",
+    "Macrophages infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Presence of Neutrophils": [
+    "Histopathology image showing infiltration by neutrophils as part of an immune response within the tissue.",
+    "Tissue with visible presence of neutrophils in the image, indicative of an immune response.",
+    "Neutrophil infiltration is evident in the pathology sample, indicating an immune response involving neutrophils.",
+    "Neutrophils infiltrate the tissue in the image as part of an immune response."
+  ],
+  "Immune Cell Aggregates": [
+    "Histopathology image illustrating the clustering of immune cells within the tissue.",
+    "Tissue with visible immune cell aggregates in the image, indicating localized immune cell clustering.",
+    "Presence of immune cell aggregates is evident in the pathology sample, showing immune cells coming toget
