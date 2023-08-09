@@ -2709,4 +2709,18 @@ model:
     "Presence of pericytes and their coverage along blood vessels within the tissue in the image."
   ],
   "Vascular Tortuosity": [
-    "Histopathology image showing the twisting or irregular curvature of blood vessels within the tiss
+    "Histopathology image showing the twisting or irregular curvature of blood vessels within the tissue.",
+    "Tissue with visible vascular tortuosity patterns in the image.",
+    "Vascular tortuosity is evident in the pathology sample, indicating abnormal blood vessel shapes.",
+    "Presence of twisting or irregularly curved blood vessels within the tissue in the image."
+  ],
+  "Hemorrhage": [
+    "Histopathology image showing the presence of bleeding within or around vessels within the tissue.",
+    "Tissue with visible hemorrhagic areas in the image.",
+    "Hemorrhage is evident in the pathology sample, indicating the occurrence of bleeding in or around vessels.",
+    "Presence of bleeding within or around vessels within the tissue in the image."
+  ],
+  "Geographic Necrosis": [
+    "Histopathology image showing large, geographic regions of necrotic tissue within the pathology sample.",
+    "Tissue with visible extensive necrotic areas in the image, forming a geographic pattern.",
+    "Presence of geographic necrosis is evident i
