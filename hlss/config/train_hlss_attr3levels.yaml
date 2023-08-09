@@ -2694,4 +2694,19 @@ model:
     "Histological slide illustrating the formation of new blood vessels (angiogenesis).",
     "Tissue with visible angiogenesis within the image.",
     "Angiogenesis is evident in the pathology sample.",
-    "Presence of newly f
+    "Presence of newly formed blood vessels (angiogenesis) in the image."
+  ],
+  "Vascular Leakage": [
+    "Histopathology image showing leakage of blood components from vessels.",
+    "Tissue with visible vascular leakage within the image.",
+    "Vascular leakage is evident in the pathology sample.",
+    "Presence of leakage of blood components from vessels in the image."
+  ],
+  "Pericyte Coverage": [
+    "Histopathology image showing the presence and coverage of pericytes in blood vessels within the tissue.",
+    "Tissue with visible pericytes covering blood vessels in the image.",
+    "Pericyte coverage is evident in the pathology sample, highlighting their role in blood vessel support.",
+    "Presence of pericytes and their coverage along blood vessels within the tissue in the image."
+  ],
+  "Vascular Tortuosity": [
+    "Histopathology image showing the twisting or irregular curvature of blood vessels within the tiss
