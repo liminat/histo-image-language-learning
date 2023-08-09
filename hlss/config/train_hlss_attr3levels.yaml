@@ -2771,4 +2771,16 @@ model:
   "Immune Cell Aggregates": [
     "Histopathology image illustrating the clustering of immune cells within the tissue.",
     "Tissue with visible immune cell aggregates in the image, indicating localized immune cell clustering.",
-    "Presence of immune cell aggregates is evident in the pathology sample, showing immune cells coming toget
+    "Presence of immune cell aggregates is evident in the pathology sample, showing immune cells coming together.",
+    "Immune cells form aggregates within the tissue in the image as part of an immune response."
+  ],
+  "Inflammatory Patterns": [
+    "Histopathology image showing patterns in the distribution of inflammatory cells within the tissue.",
+    "Tissue with visible patterns of inflammatory cell distribution in the image, providing insights into inflammation.",
+    "Distinct inflammatory patterns are evident in the pathology sample, highlighting variations in cell distribution.",
+    "Inflammatory cells exhibit specific patterns of distribution within the tissue in the image."
+  ],
+  "Presence of Plasma Cells": [
+    "Histopathology image illustrating infiltration by plasma cells as part of an immune response within the tissue.",
+    "Tissue with visible presence of plasma cells in the image, indicative of an immune response.",
+    "Plasma cell infiltration is evident in the pathology sample, indicating their role 
