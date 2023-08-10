@@ -2807,4 +2807,15 @@ model:
   "Immune Cell Localization": [
     "Histopathology image illustrating the localization of immune cells in different regions of the tissue.",
     "Tissue with visible localization of immune cells in distinct regions in the image, providing insights into immune cell distribution.",
-    "Distinct immu
+    "Distinct immune cell localization is evident in the pathology sample, highlighting variations in their presence across the tissue.",
+    "Immune cells are localized in different regions of the tissue in the image as part of an immune response."
+  ],
+  "Genetic Mutations": [
+    "Histopathology image showing the presence of specific genetic mutations or alterations within the tissue.",
+    "Tissue with visible genetic mutations or alterations in the image, indicative of genetic changes.",
+    "Presence of genetic mutations is evident in the pathology sample, highlighting specific alterations in the DNA.",
+    "Specific genetic mutations or alterations are observed within the tissue in the image."
+  ],
+  "Expression of Specific Proteins": [
+    "Histopathology image illustrating aberrant expression of specific proteins or markers within the tissue.",
+    "Tissue with visible aberrant protein expression in 
