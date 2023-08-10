@@ -2818,4 +2818,16 @@ model:
   ],
   "Expression of Specific Proteins": [
     "Histopathology image illustrating aberrant expression of specific proteins or markers within the tissue.",
-    "Tissue with visible aberrant protein expression in 
+    "Tissue with visible aberrant protein expression in the image, indicative of protein expression changes.",
+    "Aberrant expression of specific proteins is evident in the pathology sample, highlighting protein expression anomalies.",
+    "Specific proteins or markers exhibit altered expression within the tissue in the image."
+  ],
+  "Altered Protein Phosphorylation": [
+    "Histopathology image showing changes in the phosphorylation states of proteins within the tissue.",
+    "Tissue with visible alterations in protein phosphorylation states in the image, indicative of phosphorylation changes.",
+    "Changes in protein phosphorylation are evident in the pathology sample, highlighting alterations in protein signaling.",
+    "Proteins within the tissue in the image exhibit changes in their phosphorylation states."
+  ],
+  "Fusion Genes": [
+    "Histopathology image illustrating the detection of fusion genes in the tissue.",
+    "Tissue with visible fusion genes in the image, indicative of g
