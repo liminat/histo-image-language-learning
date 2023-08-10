@@ -2842,4 +2842,17 @@ model:
   ],
   "Epigenetic Changes": [
     "Histopathology image illustrating changes in DNA methylation patterns within the tissue.",
-    "Tissue with visible alterations in DNA methylation patterns in the image, indicative of epi
+    "Tissue with visible alterations in DNA methylation patterns in the image, indicative of epigenetic changes.",
+    "Changes in DNA methylation patterns are evident in the pathology sample, highlighting epigenetic modifications.",
+    "Epigenetic changes within the tissue in the image are observed."
+  ],
+  "Aberrant Protein Phosphorylation": [
+    "Histopathology image showing altered protein phosphorylation states within the tissue.",
+    "Tissue with visible aberrant protein phosphorylation in the image, indicative of abnormal protein signaling.",
+    "Altered protein phosphorylation states are evident in the pathology sample, highlighting disruptions in protein phosphorylation.",
+    "Proteins within the tissue in the image exhibit aberrant phosphorylation states."
+  ],
+  "Presence of Fusion Genes": [
+    "Histopathology image illustrating the detection of fusion genes in the tissue.",
+    "Tissue with visible presence of fusion genes in the image, indicative of gene fusion events.",
+    "Detection of fusion genes is e
