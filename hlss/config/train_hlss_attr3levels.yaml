@@ -2866,4 +2866,17 @@ model:
   ],
   "Presence of Specific Molecular Markers": [
     "Histopathology image illustrating the detection of specific molecular markers or genetic alterations within the tissue.",
-    "Tissue with visible presence of specific molecular markers in the image, i
+    "Tissue with visible presence of specific molecular markers in the image, indicative of important genetic markers.",
+    "Detection of specific molecular markers is evident in the pathology sample, providing valuable genetic information.",
+    "Specific molecular markers or genetic alterations are observed within the tissue in the image."
+  ],
+  "Lipid Droplet Presence": [
+    "Histopathology image showing the presence of lipid droplets within the tissue.",
+    "Tissue with visible lipid droplet presence in the image, indicative of the presence of lipid inclusions.",
+    "Presence of lipid droplets is evident in the pathology sample, highlighting the accumulation of lipids in the tissue.",
+    "Lipid droplets are observed within the tissue in the image."
+  ],
+  "Lipid Droplet Size Variation": [
+    "Histopathology image illustrating variation in the size of lipid droplets within the tissue.",
+    "Tissue with visible variation in lipid droplet size in the image, indicative of size diversity.",
+    "Varia
