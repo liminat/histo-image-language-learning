@@ -2939,4 +2939,16 @@ model:
   "Protein-Rich Vesicles": [
     "Histopathology image illustrating the presence of vesicles with high protein content within the tissue.",
     "Tissue with visible protein-rich vesicles in the image, indicative of vesicles with elevated protein levels.",
-    "Presence of vesicles with high protein content is evident in the 
+    "Presence of vesicles with high protein content is evident in the pathology sample, showing protein-rich vesicular structures.",
+    "Protein-rich vesicles are observed within the tissue in the image."
+  ],
+  "Perinuclear Protein Patterns": [
+    "Histopathology image showing patterns of proteins around the cell nuclei within the tissue.",
+    "Tissue with visible perinuclear protein patterns in the image, indicative of distinctive protein distribution around nuclei.",
+    "Distinct protein patterns around the cell nuclei are evident in the pathology sample, providing insights into perinuclear protein distribution.",
+    "Proteins exhibit specific patterns around the cell nuclei in the tissue in the image."
+  ],
+  "Protease Digestion Resistance": [
+    "Histopathology image illustrating the resistance of proteins to protease digestion within the tissue.",
+    "Tissue with visible protease digestion resistance in the image, indicative of protein stability against enzymatic digestion.",
+    "Resistance 
