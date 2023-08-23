@@ -2951,4 +2951,15 @@ model:
   "Protease Digestion Resistance": [
     "Histopathology image illustrating the resistance of proteins to protease digestion within the tissue.",
     "Tissue with visible protease digestion resistance in the image, indicative of protein stability against enzymatic digestion.",
-    "Resistance 
+    "Resistance of proteins to protease digestion is evident in the pathology sample, highlighting protein stability.",
+    "Proteins within the tissue in the image show resistance to protease digestion."
+  ],
+  "Protein Microdomains": [
+    "Histopathology image showing microscopic regions with high protein density within the tissue.",
+    "Tissue with visible protein microdomains in the image, indicative of regions with elevated protein concentration.",
+    "Microscopic regions with high protein density are evident in the pathology sample, providing insights into localized protein accumulation.",
+    "Protein microdomains with specific protein density are observed within the tissue in the image."
+  ],
+  "Protein Distribution Gradients": [
+    "Histopathology image illustrating gradients in protein concentration within the tissue.",
+    "Tissue with visible protein distribution gradients in the image, indicative of varying protein concentrations
