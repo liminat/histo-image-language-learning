@@ -2975,4 +2975,16 @@ model:
   "Protein Aggregates": [
     "Histopathology image showing the aggregation of proteins within the tissue.",
     "Tissue with visible protein aggregates in the image, indicative of protein aggregation events.",
-    "Aggregation of proteins is evident in the pathology sample, highlightin
+    "Aggregation of proteins is evident in the pathology sample, highlighting the presence of protein aggregates.",
+    "Proteins aggregate within the tissue in the image."
+  ],
+  "Protein Localization Patterns": [
+    "Histopathology image illustrating patterns in the subcellular localization of proteins within the tissue.",
+    "Tissue with visible protein localization patterns in the image, indicative of distinct subcellular protein distribution.",
+    "Distinct patterns in the subcellular localization of proteins are evident in the pathology sample, providing insights into protein positioning.",
+    "Proteins exhibit specific localization patterns within the tissue in the image."
+  ],
+  "Protein Concentration Variability": [
+    "Histopathology image showing variations in protein density across different regions of the tissue.",
+    "Tissue with visible protein concentration variability in the image, indicative of fluctuations in protein density.",
+    "Variations in protein density are evident in 
