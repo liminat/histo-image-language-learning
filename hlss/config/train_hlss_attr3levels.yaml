@@ -2987,4 +2987,16 @@ model:
   "Protein Concentration Variability": [
     "Histopathology image showing variations in protein density across different regions of the tissue.",
     "Tissue with visible protein concentration variability in the image, indicative of fluctuations in protein density.",
-    "Variations in protein density are evident in 
+    "Variations in protein density are evident in the pathology sample, highlighting differences in protein concentration across various tissue regions.",
+    "Protein density varies across different regions of the tissue in the image."
+  ],
+  "DNA Localization": [
+    "Histopathology image illustrating the localization of DNA within the tissue.",
+    "Tissue with visible DNA localization in the image, indicative of specific DNA distribution.",
+    "Localization of DNA is evident in the pathology sample, highlighting the presence and positioning of DNA within the tissue.",
+    "DNA is localized within the tissue in the image."
+  ],
+  "RNA Localization": [
+    "Histopathology image showing the localization of RNA within the tissue.",
+    "Tissue with visible RNA localization in the image, indicative of specific RNA distribution.",
+    "Localization of RNA is evident in the pathology sample, highlighting the presence and positioning of
