@@ -3011,4 +3011,16 @@ model:
   "DNA-RNA Co-Localization": [
     "Histopathology image showing the co-localization of DNA and RNA in cells within the tissue.",
     "Tissue with visible DNA-RNA co-localization in the image, indicative of the simultaneous presence of both nucleic acids in cells.",
-    "Co-localization of DNA and RNA is evident in the pathology sampl
+    "Co-localization of DNA and RNA is evident in the pathology sample, highlighting the presence of both types of nucleic acids within cells.",
+    "DNA and RNA co-localize within cells in the tissue in the image."
+  ],
+  "Detection of Specific Gene Sequences": [
+    "Histopathology image illustrating the identification of specific gene sequences within the tissue.",
+    "Tissue with visible detection of specific gene sequences in the image, indicative of gene sequence identification.",
+    "Identification of specific gene sequences is evident in the pathology sample, providing insights into genetic information within the tissue.",
+    "Specific gene sequences are detected within the tissue in the image."
+  ],
+  "Nucleic Acid Aggregates": [
+    "Histopathology image showing the aggregation of nucleic acids within the tissue.",
+    "Tissue with visible nucleic acid aggregates in the image, indicative of aggregated nucleic acid structures.",
+    "Aggregation of
