@@ -2999,4 +2999,16 @@ model:
   "RNA Localization": [
     "Histopathology image showing the localization of RNA within the tissue.",
     "Tissue with visible RNA localization in the image, indicative of specific RNA distribution.",
-    "Localization of RNA is evident in the pathology sample, highlighting the presence and positioning of
+    "Localization of RNA is evident in the pathology sample, highlighting the presence and positioning of RNA within the tissue.",
+    "RNA is localized within the tissue in the image."
+  ],
+  "Nucleic Acid Distribution": [
+    "Histopathology image illustrating patterns of nucleic acid distribution within the tissue.",
+    "Tissue with visible nucleic acid distribution patterns in the image, indicative of distinct nucleic acid arrangement.",
+    "Distinct patterns in nucleic acid distribution are evident in the pathology sample, providing insights into their spatial distribution within the tissue.",
+    "Nucleic acids exhibit specific distribution patterns within the tissue in the image."
+  ],
+  "DNA-RNA Co-Localization": [
+    "Histopathology image showing the co-localization of DNA and RNA in cells within the tissue.",
+    "Tissue with visible DNA-RNA co-localization in the image, indicative of the simultaneous presence of both nucleic acids in cells.",
+    "Co-localization of DNA and RNA is evident in the pathology sampl
