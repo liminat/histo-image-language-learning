@@ -3078,4 +3078,15 @@ model:
     "Histopathology image illustrating aggregations of specific chemical components within the tissue.",
     "Tissue with visible aggregations of chemical components in the image, indicative of localized gatherings of specific chemical species.",
     "Aggregations of chemical components are evident in the pathology sample, highlighting the clustering of certain chemical species within the tissue.",
-    "Specific chemical components aggregate withi
+    "Specific chemical components aggregate within the tissue in the image."
+  ],
+  "Detection of Metabolic Byproducts": [
+    "Histopathology image showing the identification of metabolic byproducts within the tissue.",
+    "Tissue with visible detection of metabolic byproducts in the image, indicative of identifying substances produced during metabolism.",
+    "Identification of metabolic byproducts is evident in the pathology sample, providing insights into metabolic processes within the tissue.",
+    "Specific metabolic byproducts are detected within the tissue in the image."
+  ],
+  "Differences in Metabolite Concentrations": [
+    "Histopathology image illustrating variations in metabolite concentrations within the tissue.",
+    "Tissue with visible differences in metabolite concentrations in the image, indicative of varying levels of specific metabolites.",
+    "Variations in metabolite concentrations are evident in the 
