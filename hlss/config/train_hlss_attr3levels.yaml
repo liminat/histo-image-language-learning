@@ -3173,4 +3173,15 @@ model:
   "Mitotic Figure Frequency": [
     "Histopathology image illustrating the frequency of mitotic figures within the tissue.",
     "Tissue with visible variations in the frequency of mitotic figures in the image, indicative of differences in mitotic figure occurrence.",
-    "Variations in the frequency of mitotic figures are evident in the pathology sample, providing insights into the dens
+    "Variations in the frequency of mitotic figures are evident in the pathology sample, providing insights into the density of mitotic figures within the tissue.",
+    "The image showcases different frequencies of mitotic figures within the tissue."
+  ],
+  "Mitotic Figure Morphology": [
+    "Histopathology image showing variations in the shapes and structures of mitotic figures.",
+    "Tissue with visible variations in mitotic figure morphology in the image, indicative of diverse shapes and structures of mitotic figures.",
+    "Varied mitotic figure morphology is evident in the pathology sample, showcasing the range of shapes and structures of these figures within the tissue.",
+    "Different shapes and structures of mitotic figures are observed within the tissue in the image."
+  ],
+  "Mitotic Figure Localization": [
+    "Histopathology image illustrating the localization of mitotic figures within tissue regions.",
+    "Tissue with visible mitotic figure localization patterns in the image, indicative
