@@ -3110,4 +3110,13 @@ model:
     "Indicators related to specific metabolic pathways are evident in the pathology sample, providing insights into metabolic processes within the tissue.",
     "Specific indicators associated with metabolic pathways are detected within the tissue in the image."
   ],
-  "Fibrous Tissue
+  "Fibrous Tissue Density": [
+    "Histopathology image illustrating variations in the density of fibrous tissue within the tissue.",
+    "Tissue with visible variations in fibrous tissue density in the image, indicative of differences in fibrous tissue concentration.",
+    "Variations in fibrous tissue density are evident in the pathology sample, highlighting differences in fibrous tissue content across the tissue.",
+    "Diversity in fibrous tissue density is observed within the tissue in the image."
+  ],
+  "Collagen Fiber Presence": [
+    "Histopathology image showing the presence and distribution of collagen fibers within the tissue.",
+    "Tissue with visible collagen fiber presence in the image, indicative of the existence of collagen fibers throughout the tissue.",
+    "Presence and distribution of collagen fibers are evident in the pathology sample, highlighting the distribution and arrangement of these fibers within the t
