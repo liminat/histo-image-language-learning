@@ -3132,4 +3132,15 @@ model:
     "Histopathology image showing variations in the thickness of stromal fibers within the tissue.",
     "Tissue with visible variations in stromal fiber thickness in the image, indicative of differences in the thickness of stromal fibers.",
     "Variations in stromal fiber thickness are evident in the pathology sample, highlighting differences in fiber thickness across the tissue.",
-    "Diversity in stromal f
+    "Diversity in stromal fiber thickness is observed within the tissue in the image."
+  ],
+  "Stromal Fiber Morphology": [
+    "Histopathology image illustrating varied shapes and structures of stromal fibers within the tissue.",
+    "Tissue with visible variations in stromal fiber morphology in the image, indicative of diverse shapes and structures of stromal fibers.",
+    "Varied stromal fiber morphology is evident in the pathology sample, showcasing the range of shapes and structures of these fibers within the tissue.",
+    "Different shapes and structures of stromal fibers are observed within the tissue in the image."
+  ],
+  "Stromal Localization Patterns": [
+    "Histopathology image showing patterns in the localization of stromal components within the tissue.",
+    "Tissue with visible stromal localization patterns in the image, indicative of distinct patterns in the distribution of stromal components.",
+    "Patterns in stromal componen
