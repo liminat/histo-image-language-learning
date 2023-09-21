@@ -3119,4 +3119,17 @@ model:
   "Collagen Fiber Presence": [
     "Histopathology image showing the presence and distribution of collagen fibers within the tissue.",
     "Tissue with visible collagen fiber presence in the image, indicative of the existence of collagen fibers throughout the tissue.",
-    "Presence and distribution of collagen fibers are evident in the pathology sample, highlighting the distribution and arrangement of these fibers within the t
+    "Presence and distribution of collagen fibers are evident in the pathology sample, highlighting the distribution and arrangement of these fibers within the tissue.",
+    "Collagen fibers are detected within the tissue in the image."
+  ],
+  "Stromal Aggregations": [
+    "Histopathology image illustrating aggregations of stromal components within the tissue.",
+    "Tissue with visible stromal aggregations in the image, indicative of localized gatherings of stromal components.",
+    "Aggregations of stromal components are evident in the pathology sample, highlighting the clustering of stromal components within the tissue.",
+    "Specific stromal components aggregate within the tissue in the image."
+  ],
+  "Stromal Fiber Thickness": [
+    "Histopathology image showing variations in the thickness of stromal fibers within the tissue.",
+    "Tissue with visible variations in stromal fiber thickness in the image, indicative of differences in the thickness of stromal fibers.",
+    "Variations in stromal fiber thickness are evident in the pathology sample, highlighting differences in fiber thickness across the tissue.",
+    "Diversity in stromal f
