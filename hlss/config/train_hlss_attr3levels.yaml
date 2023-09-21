@@ -3089,4 +3089,14 @@ model:
   "Differences in Metabolite Concentrations": [
     "Histopathology image illustrating variations in metabolite concentrations within the tissue.",
     "Tissue with visible differences in metabolite concentrations in the image, indicative of varying levels of specific metabolites.",
-    "Variations in metabolite concentrations are evident in the 
+    "Variations in metabolite concentrations are evident in the pathology sample, highlighting differences in metabolite content across the tissue.",
+    "Metabolite concentrations vary within the tissue in the image."
+  ],
+  "Chemical Component Variation Across Regions": [
+    "Histopathology image showing variations in chemical component distribution across different tissue regions.",
+    "Tissue with visible variations in chemical component distribution across regions in the image, indicative of differences in chemical composition in distinct tissue areas.",
+    "Variations in chemical component distribution across regions are evident in the pathology sample, providing insights into spatial differences in chemical makeup.",
+    "Chemical components exhibit variations across different regions of the tissue in the image."
+  ],
+  "Metabolite-Rich Regions": [
+    "Histopathology image illustrating regions with high concentrations of sp
