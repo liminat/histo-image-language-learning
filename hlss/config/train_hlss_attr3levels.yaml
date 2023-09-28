@@ -3216,4 +3216,30 @@ model:
     "Histopathology image showing differences in the staining intensity of myelin within the tissue.",
     "Tissue with visible variations in myelin staining intensity in the image, indicative of differences in the color intensity of myelin structures.",
     "Variations in myelin staining intensity are evident in the pathology sample, highlighting differences in the staining intensity of myelin within the tissue.",
-    "The image showcases variations in myelin staining inte
+    "The image showcases variations in myelin staining intensity within the tissue."
+  ]
+  
+}
+
+training:
+    objective:
+        which: hidisc
+        params:
+            lambda_patient: 1.0
+            lambda_slide: 1.0
+            lambda_patch: 1.0
+            supcon_params:
+                temperature: 0.07
+                base_temperature: 0.07
+                contrast_mode: all
+    batch_size: 32
+    num_epochs: 40000
+    optimizer: adamw # [sgd, adam, adamw]
+    learn_rate: 1.0e-3
+    scheduler:
+        which: cos_warmup
+        params:
+            num_warmup_steps: 0.1
+            num_cycles: 0.5
+    imagenet_backbone_checkpoint: null
+    eval_ckpt_ep_freq: 400
