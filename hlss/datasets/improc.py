@@ -61,4 +61,30 @@ class MinMaxChop(torch.nn.Module):
 
 
 class GaussianNoise(torch.nn.Module):
-    "
+    """Adds guassian noise to images."""
+
+    def __init__(self, min_var: float = 0.01, max_var: float = 0.1):
+        super().__init__()
+        self.min_var = min_var
+        self.max_var = max_var
+
+    def __call__(self, tensor):
+
+        var = random.uniform(self.min_var, self.max_var)
+        noisy = tensor + torch.randn(tensor.size()) * var
+        noisy = torch.clamp(noisy, min=0., max=1.)
+        return noisy
+
+
+# def process_read_im(imp: str) -> torch.Tensor:
+#     """Read in two channel image
+
+#     Args:
+#         imp: a string that is the path to the tiff image
+
+#     Returns:
+#         A 2 channel torch Tensor in the shape 2 * H * W
+#     """
+#     # reference: https://github.com/pytorch/vision/blob/49468279d9070a5631b6e0198ee562c00ecedb10/torchvision/transforms/functional.py#L133
+#     return torch.from_numpy(tifffile.imread(imp).astype(
+#         np.float32)).contig
