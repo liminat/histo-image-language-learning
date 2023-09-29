@@ -30,4 +30,35 @@ class GetThirdChannel(torch.nn.Module):
 
     def __init__(self, subtracted_base: float = 5000 / 65536.0):
         super().__init__()
-        self.subtract
+        self.subtracted_base = subtracted_base
+
+    def __call__(self, two_channel_image: torch.Tensor) -> torch.Tensor:
+        """
+        Args:
+            two_channel_image: a 2 channel np array in the shape H * W * 2
+            subtracted_base: an integer to be added to (CH3 - CH2)
+
+        Returns:
+            A 3 channel np array in the shape H * W * 3
+        """
+        ch2 = two_channel_image[0, :, :]
+        ch3 = two_channel_image[1, :, :]
+        ch1 = ch3 - ch2 + self.subtracted_base
+
+        return torch.stack((ch1, ch2, ch3), dim=0)
+
+
+class MinMaxChop(torch.nn.Module):
+    """Clamps the images to float (0,1) range."""
+
+    def __init__(self, min_val: float = 0.0, max_val: float = 1.0):
+        super().__init__()
+        self.min_ = min_val
+        self.max_ = max_val
+
+    def __call__(self, image: torch.Tensor) -> torch.Tensor:
+        return image.clamp(self.min_, self.max_)
+
+
+class GaussianNoise(torch.nn.Module):
+    "
