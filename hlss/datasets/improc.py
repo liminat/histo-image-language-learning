@@ -87,4 +87,33 @@ class GaussianNoise(torch.nn.Module):
 #     """
 #     # reference: https://github.com/pytorch/vision/blob/49468279d9070a5631b6e0198ee562c00ecedb10/torchvision/transforms/functional.py#L133
 #     return torch.from_numpy(tifffile.imread(imp).astype(
-#         np.float32)).contig
+#         np.float32)).contiguous()
+
+def process_read_im(imp: str) -> torch.Tensor:
+    """Read in two channel image
+
+    Args:
+        imp: a string that is the path to the tiff image
+
+    Returns:
+        A 2 channel torch Tensor in the shape 2 * H * W
+    """
+    # reference: https://github.com/pytorch/vision/blob/49468279d9070a5631b6e0198ee562c00ecedb10/torchvision/transforms/functional.py#L133
+    with tifffile.TiffFile(imp) as tif:
+        return torch.from_numpy(tif.asarray().astype(np.float32)).contiguous()
+
+
+def read_h5_patches(imp: str) -> torch.Tensor:
+    """Read image patches from an HDF5 file and return a tensor.
+
+    Args:
+        imp (str): Path to the HDF5 file containing image patches.
+
+    Returns:
+        torch.Tensor: A tensor containing image patches of shape (n, 300, 300, 3).
+    """
+
+    with h5py.File(imp, "r") as h5_file:
+        if "imgs" in h5_file:
+            dataset = h5_file["imgs"]
+            tensor = t
