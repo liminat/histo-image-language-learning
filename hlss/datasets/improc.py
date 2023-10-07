@@ -167,4 +167,28 @@ def read_400_h5_patches(imp: str) -> torch.Tensor:
             for idx in range (patches_per_slide):
                 curr_idx = idx % len(im_id)
                 img = h5_file["imgs"][im_id[curr_idx]]
-                tensor = torch
+                tensor = torch.from_numpy(img[:].astype(np.float32)).contiguous()
+                tensor_list.append(tensor)
+                idx_list.append(im_id[curr_idx])
+
+            # print(f'tensor list {len(tensor_list)}')
+            # print(f'tensor {tensor_list[0].shape}')
+            stacked_tensor = torch.stack(tensor_list, dim=0)
+            # print(f'stacked {stacked_tensor.shape}')
+            return stacked_tensor,idx_list
+        else:
+            print(f'no imgs key')
+            raise KeyError("'imgs' key not found in the HDF5 file.")
+
+
+def get_srh_base_aug() -> List:
+    """Base processing augmentations for all SRH images"""
+    u16_min = (0, 0)
+    u16_max = (65536, 65536)  # 2^16
+
+    #original srh base aug + Imagenet CLIP aug + hidisc train aug from config file
+    preprocess_fn = Compose([
+        Resize(size=224, interpolation=Image.BICUBIC), 
+        CenterCrop(size=(224, 224)),
+        ToTensor(),
+        Normalize(mean=[0.48145466, 0.4578275, 0.40821073], std=[0
