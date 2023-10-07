@@ -139,4 +139,32 @@ def read_one_patch(imp: str , idx : int) -> torch.Tensor:
             im_id = np.random.permutation(np.arange(h5_file["imgs"].shape[0]))
             curr_idx = idx % len(im_id)
             img = h5_file["imgs"][im_id[curr_idx]]
-            tensor = torch.from_numpy(img[:].asty
+            tensor = torch.from_numpy(img[:].astype(np.float32)).contiguous()
+            
+            return tensor, im_id[curr_idx]
+        else:
+            print(f'no imgs key')
+            raise KeyError("'imgs' key not found in the HDF5 file.")
+
+
+def read_400_h5_patches(imp: str) -> torch.Tensor:
+    """Read image patches from an HDF5 file and return a tensor representing 400 patches.
+
+    Args:
+        imp (str): Path to the HDF5 file containing image patches.
+
+    Returns:
+        torch.Tensor: A tensor containing image patches of shape (n, 300, 300, 3).
+    """
+    tensor_list = []
+    idx_list = []
+    patches_per_slide = 20
+
+    with h5py.File(imp, "r") as h5_file:
+        if "imgs" in h5_file:
+            im_id = np.random.permutation(np.arange(h5_file["imgs"].shape[0]))
+
+            for idx in range (patches_per_slide):
+                curr_idx = idx % len(im_id)
+                img = h5_file["imgs"][im_id[curr_idx]]
+                tensor = torch
