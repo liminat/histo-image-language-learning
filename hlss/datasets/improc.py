@@ -234,4 +234,31 @@ def get_srh_base_aug_hidisc() -> List:
 
 def get_tcga_base_aug() -> List:
     """Base processing augmentations for all tcga images"""
-    u16_min = 
+    u16_min = (0, 0,0)
+    u16_max = (65536, 65536, 65536)  # 2^16
+    return [Normalize(u16_min, u16_max), MinMaxChop()]
+
+
+def get_srh_vit_base_aug() -> List:
+    """Base processing augmentations for all SRH images, with resize to 224"""
+    u16_min = (0, 0)
+    u16_max = (65536, 65536)  # 2^16
+    return [
+        Normalize(u16_min, u16_max),
+        GetThirdChannel(),
+        MinMaxChop(),
+        Resize((224, 224))
+    ]
+
+
+def get_strong_aug(augs, rand_prob) -> List:
+    """Strong augmentations for OpenSRH training"""
+    rand_apply = lambda which, **kwargs: RandomApply(
+        ModuleList([which(**kwargs)]), p=rand_prob)
+
+    callable_dict = {
+        "resize": Resize,
+        "random_horiz_flip": partial(RandomHorizontalFlip, p=rand_prob),
+        "random_vert_flip": partial(RandomVerticalFlip, p=rand_prob),
+        "gaussian_noise": partial(rand_apply, which=GaussianNoise),
+        "color_jitter": partial(rand_apply, which
