@@ -261,4 +261,23 @@ def get_strong_aug(augs, rand_prob) -> List:
         "random_horiz_flip": partial(RandomHorizontalFlip, p=rand_prob),
         "random_vert_flip": partial(RandomVerticalFlip, p=rand_prob),
         "gaussian_noise": partial(rand_apply, which=GaussianNoise),
-        "color_jitter": partial(rand_apply, which
+        "color_jitter": partial(rand_apply, which=ColorJitter),
+        "random_autocontrast": partial(RandomAutocontrast, p=rand_prob),
+        "random_solarize": partial(RandomSolarize, p=rand_prob),
+        "random_sharpness": partial(RandomAdjustSharpness, p=rand_prob),
+        "drop_color": partial(rand_apply, which=Grayscale),
+        "gaussian_blur": partial(rand_apply, GaussianBlur),
+        "random_erasing": partial(RandomErasing, p=rand_prob),
+        "random_affine": partial(rand_apply, RandomAffine),
+        "random_resized_crop": partial(rand_apply, RandomResizedCrop)
+    }
+
+    return [callable_dict[a["which"]](**a["params"]) for a in augs]
+
+
+def get_srh_aug_list(augs, rand_prob=0.5) -> List:
+    """Combine base and strong augmentations for OpenSRH training"""
+    return get_srh_base_aug() + get_strong_aug(augs, rand_prob)
+
+def get_srh_aug_list_dino(augs, rand_prob=0.5) -> List:
+    """Combine base and strong augmentations for Ope
