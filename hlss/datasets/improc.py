@@ -280,4 +280,14 @@ def get_srh_aug_list(augs, rand_prob=0.5) -> List:
     return get_srh_base_aug() + get_strong_aug(augs, rand_prob)
 
 def get_srh_aug_list_dino(augs, rand_prob=0.5) -> List:
-    """Combine base and strong augmentations for Ope
+    """Combine base and strong augmentations for OpenSRH training"""
+    return get_srh_base_aug_dino() + get_strong_aug(augs, rand_prob)
+
+def get_srh_aug_list_hidisc(augs, rand_prob=0.5) -> List:
+    """Combine base and strong augmentations for OpenSRH training"""
+    return get_srh_base_aug_hidisc() + get_strong_aug(augs, rand_prob)
+
+
+def get_tcga_aug_list(augs, rand_prob=0.5) -> List:
+    """Combine base and strong augmentations for tcga training"""
+    return get_tcga_base_aug() + get_strong_aug(augs, rand_prob)
