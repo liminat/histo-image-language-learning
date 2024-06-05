@@ -21,13 +21,10 @@ from torchvision.transforms import Compose
 import pytorch_lightning as pl
 from torchmetrics import AveragePrecision, Accuracy
 from datasets.srh_dataset import OpenSRHDataset
-from datasets.improc import get_srh_base_aug, get_srh_vit_base_aug, get_srh_base_aug_hidisc
+from datasets.improc import get_srh_base_aug, get_srh_vit_base_aug
 from common import (parse_args, get_exp_name, config_loggers,
                            get_num_worker)
-from train_hidisc import HiDiscSystem
-import wandb
-
-wandb.init(project="HLSS")
+from train_hlss import HiDiscSystem
 
 # code for kNN prediction is from the github repo IgorSusmelj/barlowtwins
 # https://github.com/IgorSusmelj/barlowtwins/blob/main/utils.py
@@ -69,18 +66,57 @@ def knn_predict(feature, feature_bank, feature_labels, classes: int,
     return pred_labels, pred_scores
 
 
-def get_embeddings(cf: Dict[str, Any], ckpt:str,
-                   exp_root: str,train_loader,val_loader) -> Dict[str, Union[torch.Tensor, List[str]]]:
+def get_embeddings(cf: Dict[str, Any],
+                   exp_root: str) -> Dict[str, Union[torch.Tensor, List[str]]]:
     """Run forward pass on the dataset, and generate embeddings and logits"""
+    # get model
+    if cf["model"]["backbone"] == "RN50":
+        aug_func = get_srh_base_aug
+    elif cf["model"]["backbone"] == "vit":
+        aug_func = get_srh_vit_base_aug
+    else:
+        raise NotImplementedError()
 
+    # get dataset / loader
+    train_dset = OpenSRHDataset(data_root=cf["data"]["db_root"],
+                                studies="train",
+                                transform=Compose(aug_func()),
+                                balance_patch_per_class=False)
+    train_dset.reset_index()
+
+
+    train_loader = torch.utils.data.DataLoader(
+        train_dset,
+        batch_size=cf["eval"]["predict_batch_size"],
+        drop_last=False,
+        pin_memory=True,
+        num_workers=get_num_worker(),
+        persistent_workers=True)
+
+    val_dset = OpenSRHDataset(data_root=cf["data"]["db_root"],
+                              studies="val",
+                              transform=Compose(aug_func()),
+                              balance_patch_per_class=False)
+    val_dset.reset_index()
+
+
+    val_loader = torch.utils.data.DataLoader(
+        val_dset,
+        batch_size=cf["eval"]["predict_batch_size"],
+        drop_last=False,
+        pin_memory=True,
+        num_workers=get_num_worker(),
+        persistent_workers=True)
+
+    # load lightning checkpoint
     ckpt_path = os.path.join(cf["infra"]["log_dir"], cf["infra"]["exp_name"],
-                             cf["eval"]["ckpt_dir"],ckpt)
-    
+                             cf["eval"]["ckpt_path"])
+
     model = HiDiscSystem.load_from_checkpoint(ckpt_path,
                                               cf=cf,
                                               num_it_per_ep=0,
                                               max_epochs=-1,
-                                              nc=0,freeze_mlp=True)
+                                              nc=0)
 
     # create trainer
     trainer = pl.Trainer(accelerator="gpu",
@@ -105,7 +141,6 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
 
     train_predictions = process_predictions(train_predictions)
     val_predictions = process_predictions(val_predictions)
-    # print(f' val predictions {val_predictions}')
 
     train_embs = torch.nn.functional.normalize(train_predictions["embeddings"],
                                                p=2,
@@ -113,6 +148,9 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
     val_embs = torch.nn.functional.normalize(val_predictions["embeddings"],
                                              p=2,
                                              dim=1)
+
+    print(f'train_predictions embeddings {train_predictions["embeddings"].shape}')
+    print(f'train_predictions labels {train_predictions["label"].shape}')
 
     # knn evaluation
     batch_size = cf["eval"]["knn_batch_size"]
@@ -135,7 +173,6 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
         torch.cuda.empty_cache()
 
     val_predictions["logits"] = torch.vstack(all_scores)
-    del model
     return val_predictions
 
 
@@ -176,26 +213,46 @@ def make_specs(predictions: Dict[str, Union[torch.Tensor, List[str]]]) -> None:
 
     # generate metrics
     def get_all_metrics(logits, label):
+        map = AveragePrecision(num_classes=7,task="multiclass")
         acc = Accuracy(task="multiclass",num_classes=7)
+        t2 = Accuracy(task="multiclass",num_classes=7, top_k=2)
+        t3 = Accuracy(task="multiclass",num_classes=7, top_k=3)
         mca = Accuracy(task="multiclass",num_classes=7, average="macro")
 
         acc_val = acc(logits, label)
+        t2_val = t2(logits, label)
+        t3_val = t3(logits, label)
         mca_val = mca(logits, label)
+        map_val = map(logits, label)
 
-        return torch.stack((acc_val, mca_val))
+        return torch.stack((acc_val, t2_val, t3_val, mca_val, map_val))
 
     all_metrics = torch.vstack((get_all_metrics(patch_logits, patch_label),
                                 get_all_metrics(slides_logits, slides_label),
                                 get_all_metrics(patient_logits,
                                                 patient_label)))
-    
+    all_metrics = pd.DataFrame(all_metrics,
+                               columns=["acc", "t2", "t3", "mca", "map"],
+                               index=["patch", "slide", "patient"])
 
-    wandb.log({f"eval_knn/patch_acc": get_all_metrics(patch_logits, patch_label)[0]})
-    wandb.log({f"eval_knn/slide_acc": get_all_metrics(slides_logits, slides_label)[0]})
-    wandb.log({f"eval_knn/patient_acc": get_all_metrics(patient_logits,patient_label)[0]})
-    wandb.log({f"eval_knn/patch_mca": get_all_metrics(patch_logits, patch_label)[1]})
-    wandb.log({f"eval_knn/slide_mca": get_all_metrics(slides_logits, slides_label)[1]})
-    wandb.log({f"eval_knn/patient_mca": get_all_metrics(patient_logits,patient_label)[1]})
+    # generate confusion matrices
+    patch_conf = confusion_matrix(y_true=patch_label,
+                                  y_pred=patch_logits.argmax(dim=1))
+
+    slide_conf = confusion_matrix(y_true=slides_label,
+                                  y_pred=slides_logits.argmax(dim=1))
+
+    patient_conf = confusion_matrix(y_true=patient_label,
+                                    y_pred=patient_logits.argmax(dim=1))
+
+    print("\nmetrics")
+    print(all_metrics)
+    print("\npatch confusion matrix")
+    print(patch_conf)
+    print("\nslide confusion matrix")
+    print(slide_conf)
+    print("\npatient confusion matrix")
+    print(patient_conf)
 
     return
 
@@ -204,7 +261,7 @@ def setup_eval_paths(cf, get_exp_name, cmt_append):
     """Get name of the ouput dirs and create them in the file system."""
     log_root = cf["infra"]["log_dir"]
     exp_name = cf["infra"]["exp_name"]
-    instance_name = cf["eval"]["ckpt_dir"].split("/")[0]
+    instance_name = cf["eval"]["ckpt_path"].split("/")[0]
     eval_instance_name = "_".join([get_exp_name(cf), cmt_append])
     exp_root = os.path.join(log_root, exp_name, instance_name, "evals",
                             eval_instance_name)
@@ -241,83 +298,17 @@ def main():
     cp_config(cf_fd.name)
     config_loggers(exp_root)
 
-    #dataset
-    if cf["model"]["backbone"] == "resnet50":
-        aug_func = get_srh_base_aug_hidisc
-    elif cf["model"]["backbone"] == "RN50":
-        aug_func = get_srh_base_aug
-    elif cf["model"]["backbone"] == "vit":
-        aug_func = get_srh_vit_base_aug
-    else:
-        raise NotImplementedError()
-
-    # get dataset / loader
-    train_dset = OpenSRHDataset(data_root=cf["data"]["db_root"],
-                                studies="train",
-                                transform=Compose(aug_func()),
-                                balance_patch_per_class=False)
-    train_dset.reset_index()
-
-
-    train_loader = torch.utils.data.DataLoader(
-        train_dset,
-        batch_size=cf["eval"]["predict_batch_size"],
-        drop_last=False,
-        pin_memory=True,
-        num_workers=get_num_worker(),
-        persistent_workers=True)
-
-    val_dset = OpenSRHDataset(data_root=cf["data"]["db_root"],
-                              studies="val",
-                              transform=Compose(aug_func()),
-                              balance_patch_per_class=False)
-    val_dset.reset_index()
-
-
-    val_loader = torch.utils.data.DataLoader(
-        val_dset,
-        batch_size=cf["eval"]["predict_batch_size"],
-        drop_last=False,
-        pin_memory=True,
-        num_workers=get_num_worker(),
-        persistent_workers=True)
-
     # get predictions
     if not cf["eval"].get("eval_predictions", None):
         logging.info("generating predictions")
-        ckpt_list = os.listdir(os.path.join(cf["infra"]["log_dir"], cf["infra"]["exp_name"],
-                             cf["eval"]["ckpt_dir"]))
-        ckpt_list_800 = []
-        epoch_list_800 = []
-
-        for ckpt_string in ckpt_list:
-            epoch_str = ckpt_string.split("epoch")[1].split(".")[0]
-            epoch = int(epoch_str)
-            
-            if (epoch + 1) % 800 == 0:
-                epoch_list_800.append(epoch)
-
-        # epoch_list_800 = [epoch for epoch in epoch_list_800 if epoch >= 4800]
-        epoch_list_800 = [9599]
-        epoch_list_800.sort()
-        print(f'epoch list {epoch_list_800}')
-
-        for i in epoch_list_800:
-            ckpt = f"ckpt-epoch{i}.ckpt"
-            ckpt_list_800.append(ckpt)
-
-        print(f'ckpt list {ckpt_list_800}')
-
-        for ckpt in tqdm(ckpt_list_800):
-            print(f'ckpt {ckpt}')
-            predictions = get_embeddings(cf,ckpt, exp_root,train_loader,val_loader)
-            predpath = (ckpt.split(".")[0]).split("-")[1] 
-            torch.save(predictions, os.path.join(pred_dir, f"predictions_{predpath}.pt"))
-            make_specs(predictions)
-   
+        predictions = get_embeddings(cf, exp_root)
+        torch.save(predictions, os.path.join(pred_dir, "predictions.pt"))
     else:
         logging.info("loading predictions")
         predictions = torch.load(pred_fname)
+
+    # generate specs
+    make_specs(predictions)
 
 
 if __name__ == "__main__":

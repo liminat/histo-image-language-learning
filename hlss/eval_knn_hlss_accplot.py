@@ -11,6 +11,7 @@ from shutil import copy2
 from functools import partial
 from typing import List, Union, Dict, Any
 import tifffile
+import csv
 import yaml
 import numpy as np
 import pandas as pd
@@ -21,10 +22,10 @@ from torchvision.transforms import Compose
 import pytorch_lightning as pl
 from torchmetrics import AveragePrecision, Accuracy
 from datasets.srh_dataset import OpenSRHDataset
-from datasets.improc import get_srh_base_aug, get_srh_vit_base_aug, get_srh_base_aug_hidisc
+from datasets.improc import get_srh_base_aug, get_srh_vit_base_aug
 from common import (parse_args, get_exp_name, config_loggers,
                            get_num_worker)
-from train_hidisc import HiDiscSystem
+from train_hlss_KL import HiDiscSystem
 import wandb
 
 wandb.init(project="HLSS")
@@ -69,13 +70,14 @@ def knn_predict(feature, feature_bank, feature_labels, classes: int,
     return pred_labels, pred_scores
 
 
-def get_embeddings(cf: Dict[str, Any], ckpt:str,
+def get_embeddings(cf: Dict[str, Any],ckpt:str,
                    exp_root: str,train_loader,val_loader) -> Dict[str, Union[torch.Tensor, List[str]]]:
     """Run forward pass on the dataset, and generate embeddings and logits"""
 
+    # load lightning checkpoint
     ckpt_path = os.path.join(cf["infra"]["log_dir"], cf["infra"]["exp_name"],
                              cf["eval"]["ckpt_dir"],ckpt)
-    
+
     model = HiDiscSystem.load_from_checkpoint(ckpt_path,
                                               cf=cf,
                                               num_it_per_ep=0,
@@ -84,7 +86,7 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
 
     # create trainer
     trainer = pl.Trainer(accelerator="gpu",
-                         devices=1,
+                         devices=-1,
                          max_epochs=-1,
                          default_root_dir=exp_root,
                          enable_checkpointing=False,
@@ -93,6 +95,7 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
     # generate predictions
     train_predictions = trainer.predict(model, dataloaders=train_loader)
     val_predictions = trainer.predict(model, dataloaders=val_loader)
+    del model
 
     def process_predictions(predictions):
         pred = {}
@@ -105,7 +108,6 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
 
     train_predictions = process_predictions(train_predictions)
     val_predictions = process_predictions(val_predictions)
-    # print(f' val predictions {val_predictions}')
 
     train_embs = torch.nn.functional.normalize(train_predictions["embeddings"],
                                                p=2,
@@ -135,11 +137,11 @@ def get_embeddings(cf: Dict[str, Any], ckpt:str,
         torch.cuda.empty_cache()
 
     val_predictions["logits"] = torch.vstack(all_scores)
-    del model
+    del train_predictions
     return val_predictions
 
 
-def make_specs(predictions: Dict[str, Union[torch.Tensor, List[str]]]) -> None:
+def make_specs(epoch_no, predictions: Dict[str, Union[torch.Tensor, List[str]]]) -> None:
     """Compute all specs for an experiment"""
 
     # aggregate prediction into a dataframe
@@ -186,16 +188,24 @@ def make_specs(predictions: Dict[str, Union[torch.Tensor, List[str]]]) -> None:
 
     all_metrics = torch.vstack((get_all_metrics(patch_logits, patch_label),
                                 get_all_metrics(slides_logits, slides_label),
-                                get_all_metrics(patient_logits,
-                                                patient_label)))
+                                get_all_metrics(patient_logits,patient_label)))
     
-
     wandb.log({f"eval_knn/patch_acc": get_all_metrics(patch_logits, patch_label)[0]})
     wandb.log({f"eval_knn/slide_acc": get_all_metrics(slides_logits, slides_label)[0]})
     wandb.log({f"eval_knn/patient_acc": get_all_metrics(patient_logits,patient_label)[0]})
     wandb.log({f"eval_knn/patch_mca": get_all_metrics(patch_logits, patch_label)[1]})
     wandb.log({f"eval_knn/slide_mca": get_all_metrics(slides_logits, slides_label)[1]})
     wandb.log({f"eval_knn/patient_mca": get_all_metrics(patient_logits,patient_label)[1]})
+
+    csv_filename = "exp20a_eval.csv"
+    
+    with open(csv_filename, mode='a', newline='') as file:
+        writer = csv.writer(file)
+
+        # Write a new row with the provided values
+        writer.writerow([epoch_no,get_all_metrics(patch_logits, patch_label)[0], get_all_metrics(slides_logits, slides_label)[0], get_all_metrics(patient_logits,patient_label)[0]])
+
+    del predictions, pred
 
     return
 
@@ -211,6 +221,7 @@ def setup_eval_paths(cf, get_exp_name, cmt_append):
 
     # generate needed folders, evals will be embedded in experiment folders
     pred_dir = os.path.join(exp_root, 'predictions')
+    print(f'pred dir {pred_dir}')
     config_dir = os.path.join(exp_root, 'config')
     for dir_name in [pred_dir, config_dir]:
         if not os.path.exists(dir_name):
@@ -241,10 +252,8 @@ def main():
     cp_config(cf_fd.name)
     config_loggers(exp_root)
 
-    #dataset
-    if cf["model"]["backbone"] == "resnet50":
-        aug_func = get_srh_base_aug_hidisc
-    elif cf["model"]["backbone"] == "RN50":
+    #create dataset
+    if cf["model"]["backbone"] == "RN50":
         aug_func = get_srh_base_aug
     elif cf["model"]["backbone"] == "vit":
         aug_func = get_srh_vit_base_aug
@@ -287,6 +296,7 @@ def main():
         logging.info("generating predictions")
         ckpt_list = os.listdir(os.path.join(cf["infra"]["log_dir"], cf["infra"]["exp_name"],
                              cf["eval"]["ckpt_dir"]))
+        # print(f'ckpt list {len(ckpt_list)}')
         ckpt_list_800 = []
         epoch_list_800 = []
 
@@ -297,28 +307,38 @@ def main():
             if (epoch + 1) % 800 == 0:
                 epoch_list_800.append(epoch)
 
-        # epoch_list_800 = [epoch for epoch in epoch_list_800 if epoch >= 4800]
-        epoch_list_800 = [9599]
+        # epoch_list_800 = [epoch for epoch in epoch_list_800 if epoch >= 38400]
+        epoch_list_800 = [11199]
+
         epoch_list_800.sort()
         print(f'epoch list {epoch_list_800}')
 
         for i in epoch_list_800:
             ckpt = f"ckpt-epoch{i}.ckpt"
             ckpt_list_800.append(ckpt)
+            
+        #CSV to save eval acccuracies
+        csv_filename = "exp20a_eval.csv"
+        try:
+            df = pd.read_csv(csv_filename)
+            
+        except FileNotFoundError:
+            columns = ['epoch','patch', 'slide', 'patient']
+            df = pd.DataFrame(columns=columns)
+            df.to_csv(csv_filename, index=False)
 
-        print(f'ckpt list {ckpt_list_800}')
-
-        for ckpt in tqdm(ckpt_list_800):
+        for epoch,ckpt in tqdm(enumerate(ckpt_list_800)):
+            epoch_no = epoch_list_800[epoch]
             print(f'ckpt {ckpt}')
             predictions = get_embeddings(cf,ckpt, exp_root,train_loader,val_loader)
-            predpath = (ckpt.split(".")[0]).split("-")[1] 
+            predpath = (ckpt.split(".")[0]).split("-")[1]
+       
             torch.save(predictions, os.path.join(pred_dir, f"predictions_{predpath}.pt"))
-            make_specs(predictions)
-   
+            make_specs(epoch_no,predictions)
+     
     else:
         logging.info("loading predictions")
         predictions = torch.load(pred_fname)
-
 
 if __name__ == "__main__":
     main()
