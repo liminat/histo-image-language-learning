@@ -327,3 +327,28 @@ class HLSSGranularKL(torch.nn.Module):
     """
 
     def __init__(self, backbone1: callable, backbone2: callable,  proj1: callable, proj2: callable, proj3: callable):
+        super(HLSSGranularKL, self).__init__()
+        self.visualbb = backbone1()
+        self.textbb = backbone2()
+        self.proj1 = proj1()
+        self.proj2 = proj2()
+        self.proj3 = proj3()
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        vis_out = self.visualbb(x)
+        txt_out = self.textbb(x)
+
+        #CLIPTextClassifier patch
+        proj_out1 = self.proj1(txt_out)
+        #CLIPTextClassifier slide
+        proj_out2 = self.proj2(txt_out)
+        #CLIPTextClassifier patient
+        proj_out3 = self.proj3(txt_out)
+
+        vis_out_norm = torch.nn.functional.normalize(vis_out, p=2.0, dim=1)
+        proj_out_norm1 = torch.nn.functional.normalize(proj_out1, p=2.0, dim=1)
+        proj_out_norm2 = torch.nn.functional.normalize(proj_out2, p=2.0, dim=1)
+        proj_out_norm3 = torch.nn.functional.normalize(proj_out3, p=2.0, dim=1)
+ 
+
+        return vis_out_norm.unsqueeze(1), proj_out_norm1.unsqueeze(1), proj_out_norm2.unsqueeze(1), proj_out_norm3.unsqueeze(1)
